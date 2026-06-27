@@ -36,10 +36,14 @@ async function deployOne(path) {
   // 4. live (publish)
   const live = await fetch(`https://admin.hlx.page/live/${ORG}/${REPO}/${BRANCH}/${path}`, { method: 'POST', headers: AUTH });
   if (live.status !== 200) return { path, ok: false, stage: 'live', code: live.status, msg: (await live.text()).slice(0, 120) };
-  // 5. verify rendered .plain.html
+  // 5. verify rendered .plain.html (retry for propagation lag)
   const url = `https://${HOST}.aem.live/${path}.plain.html`;
-  const r = await fetch(url, { headers: { 'accept-encoding': 'gzip' } });
-  const body = r.status === 200 ? await r.text() : '';
+  let r; let body = '';
+  for (let i = 0; i < 3; i++) {
+    r = await fetch(url, { headers: { 'accept-encoding': 'gzip' } });
+    if (r.status === 200) { body = await r.text(); break; }
+    await new Promise((res) => setTimeout(res, 1500));
+  }
   const h1 = (body.match(/<h1/g) || []).length;
   const err = (body.match(/about:error/g) || []).length;
   const imgs = (body.match(/<img/g) || []).length;
