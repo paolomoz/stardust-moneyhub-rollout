@@ -141,10 +141,10 @@ main .section>div>.block{
 }
 main>div,.has-template,div[data-status]{ display:none; }
 
-/* page-metadata block is consumed into <head> at decorate time and has no visual
-   output — collapse its section so it doesn't leave an empty padded band above
-   the first real section (e.g. between the header and a flush full-bleed hero) */
-main .section:has(.metadata){ display:none; }
+/* the page-metadata block is consumed into <head> at decorate time and stripped,
+   leaving an empty padded section — collapse empty sections so they don't leave a
+   band above the first real section (e.g. between the header and a flush hero) */
+main .section:empty{ display:none; }
 
 main .section.full-bleed>div>.block{
   max-width:none;

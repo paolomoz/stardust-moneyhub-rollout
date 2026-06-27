@@ -15,6 +15,11 @@ main .section.section-hero-full{
   padding-block:0;
 }
 
+/* free the intermediate .block-content wrapper (the real max-width/gutter
+   constraint) AND the block, so the video goes edge-to-edge */
+main .section.section-hero-full>.block-content,
+main .section.section-hero-full>.default-content,
+main .section.section-hero-full>.block-content>.hero.full,
 main .section.section-hero-full>div>.hero.full{
   max-width:none;
   padding-inline:0;
