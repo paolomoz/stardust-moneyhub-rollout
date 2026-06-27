@@ -48,3 +48,15 @@ nav-linked (Phase 8 priority). Bulk page content will be curled fresh at author
 time during rollout (per prompt), not Playwright-extracted for all 100.
 
 **Next:** Phase 2 — direct (set one canonical redesign direction).
+
+## 2026-06-27 — Phase 2 (Direct)
+
+Resolved ONE canonical direction (hands-off, no gate): **Mode A brand-faithful,
+single variant, verbatim IA, balanced density** — "faithful redesign, modernized."
+No divergence roll (brand signal strong). Deltas are modernization-only: real
+`:root` token system, WCAG-AA orange (#C8430F for on-white text), fluid clamp()
+type scale, calmed spacing on a 1200px grid, +4px interactive radius (structure
+stays square). Wrote target `PRODUCT.md`, `DESIGN.md`, `DESIGN.json`,
+`stardust/direction.md`; state.json direction set, 20 pages → directed.
+
+**Next:** Phase 3 — prototype home, then one page per template.

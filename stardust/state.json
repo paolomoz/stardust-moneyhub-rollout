@@ -1,7 +1,7 @@
 {
   "_provenance": {
-    "writtenBy": "stardust:extract",
-    "writtenAt": "2026-06-27T09:24:45.626Z",
+    "writtenBy": "stardust:direct",
+    "writtenAt": "2026-06-27T09:30:02.918Z",
     "stardustVersion": "0.13.0"
   },
   "site": {
@@ -14,18 +14,30 @@
     "daFolder": "paolomoz/stardust-moneyhub-rollout",
     "edsRepo": "paolomoz/stardust-moneyhub-rollout"
   },
-  "direction": null,
+  "direction": {
+    "resolvedAt": "2026-06-27T09:30:02.918Z",
+    "phrase": "faithful redesign, modernized",
+    "directionFile": "stardust/direction.md",
+    "mode": "A",
+    "variantMode": "single",
+    "iaFidelity": "verbatim",
+    "density": "balanced"
+  },
   "pages": [
     {
       "slug": "home",
       "url": "https://moneyhub.com/",
       "title": "Home - Moneyhub",
       "type": "landing",
-      "status": "extracted",
+      "status": "directed",
       "history": [
         {
           "status": "extracted",
           "at": "2026-06-27T09:24:45.626Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-06-27T09:30:02.918Z"
         }
       ],
       "stale": false,
@@ -43,11 +55,15 @@
       "url": "https://moneyhub.com/about/",
       "title": "About - Moneyhub",
       "type": "static",
-      "status": "extracted",
+      "status": "directed",
       "history": [
         {
           "status": "extracted",
           "at": "2026-06-27T09:24:45.626Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-06-27T09:30:02.918Z"
         }
       ],
       "stale": false,
@@ -65,11 +81,15 @@
       "url": "https://moneyhub.com/products/",
       "title": "Products - Moneyhub",
       "type": "listing",
-      "status": "extracted",
+      "status": "directed",
       "history": [
         {
           "status": "extracted",
           "at": "2026-06-27T09:24:45.626Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-06-27T09:30:02.918Z"
         }
       ],
       "stale": false,
@@ -87,11 +107,15 @@
       "url": "https://moneyhub.com/products/data-explorer/",
       "title": "Data Explorer - Moneyhub",
       "type": "program",
-      "status": "extracted",
+      "status": "directed",
       "history": [
         {
           "status": "extracted",
           "at": "2026-06-27T09:24:45.626Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-06-27T09:30:02.918Z"
         }
       ],
       "stale": false,
@@ -109,11 +133,15 @@
       "url": "https://moneyhub.com/solutions/pension-and-wealth-solutions/",
       "title": "Pension and Wealth Solutions - Moneyhub",
       "type": "landing",
-      "status": "extracted",
+      "status": "directed",
       "history": [
         {
           "status": "extracted",
           "at": "2026-06-27T09:24:45.626Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-06-27T09:30:02.918Z"
         }
       ],
       "stale": false,
@@ -131,11 +159,15 @@
       "url": "https://moneyhub.com/solutions/pension-and-wealth-solutions/targeted-support/",
       "title": "Targeted Support - Moneyhub",
       "type": "program",
-      "status": "extracted",
+      "status": "directed",
       "history": [
         {
           "status": "extracted",
           "at": "2026-06-27T09:24:45.626Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-06-27T09:30:02.918Z"
         }
       ],
       "stale": false,
@@ -153,11 +185,15 @@
       "url": "https://moneyhub.com/use-cases/",
       "title": "Use Cases Archive - Moneyhub",
       "type": "listing",
-      "status": "extracted",
+      "status": "directed",
       "history": [
         {
           "status": "extracted",
           "at": "2026-06-27T09:24:45.626Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-06-27T09:30:02.918Z"
         }
       ],
       "stale": false,
@@ -175,11 +211,15 @@
       "url": "https://moneyhub.com/use-cases/increase-deposits-with-savings-goals/",
       "title": "How to increase deposits with customer savings goals - Moneyhub",
       "type": "program",
-      "status": "extracted",
+      "status": "directed",
       "history": [
         {
           "status": "extracted",
           "at": "2026-06-27T09:24:45.626Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-06-27T09:30:02.918Z"
         }
       ],
       "stale": false,
@@ -197,11 +237,15 @@
       "url": "https://moneyhub.com/case-studies/",
       "title": "Case Studies - Moneyhub",
       "type": "listing",
-      "status": "extracted",
+      "status": "directed",
       "history": [
         {
           "status": "extracted",
           "at": "2026-06-27T09:24:45.626Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-06-27T09:30:02.918Z"
         }
       ],
       "stale": false,
@@ -219,11 +263,15 @@
       "url": "https://moneyhub.com/case-studies/transforming-pensions-engagement-through-mercer-money/",
       "title": "Transforming pensions engagement through Mercer Money - Moneyhub",
       "type": "article",
-      "status": "extracted",
+      "status": "directed",
       "history": [
         {
           "status": "extracted",
           "at": "2026-06-27T09:24:45.626Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-06-27T09:30:02.918Z"
         }
       ],
       "stale": false,
@@ -241,11 +289,15 @@
       "url": "https://moneyhub.com/articles/",
       "title": "Articles - Moneyhub",
       "type": "listing",
-      "status": "extracted",
+      "status": "directed",
       "history": [
         {
           "status": "extracted",
           "at": "2026-06-27T09:24:45.626Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-06-27T09:30:02.918Z"
         }
       ],
       "stale": false,
@@ -263,11 +315,15 @@
       "url": "https://moneyhub.com/articles/how-technology-is-democratising-financial-advice/",
       "title": "How technology is democratising financial advice - Moneyhub",
       "type": "article",
-      "status": "extracted",
+      "status": "directed",
       "history": [
         {
           "status": "extracted",
           "at": "2026-06-27T09:24:45.626Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-06-27T09:30:02.918Z"
         }
       ],
       "stale": false,
@@ -285,11 +341,15 @@
       "url": "https://moneyhub.com/press-and-partners/",
       "title": "Press and partners - Moneyhub",
       "type": "listing",
-      "status": "extracted",
+      "status": "directed",
       "history": [
         {
           "status": "extracted",
           "at": "2026-06-27T09:24:45.626Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-06-27T09:30:02.918Z"
         }
       ],
       "stale": false,
@@ -307,11 +367,15 @@
       "url": "https://moneyhub.com/press-releases/uk-demands-more-innovative-payment-methods/",
       "title": "UK demands more innovative payment methods - Moneyhub",
       "type": "article",
-      "status": "extracted",
+      "status": "directed",
       "history": [
         {
           "status": "extracted",
           "at": "2026-06-27T09:24:45.626Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-06-27T09:30:02.918Z"
         }
       ],
       "stale": false,
@@ -329,11 +393,15 @@
       "url": "https://moneyhub.com/webinars/",
       "title": "Webinars - Moneyhub",
       "type": "listing",
-      "status": "extracted",
+      "status": "directed",
       "history": [
         {
           "status": "extracted",
           "at": "2026-06-27T09:24:45.626Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-06-27T09:30:02.918Z"
         }
       ],
       "stale": false,
@@ -351,11 +419,15 @@
       "url": "https://moneyhub.com/glossary/",
       "title": "Glossary Archive - Moneyhub",
       "type": "listing",
-      "status": "extracted",
+      "status": "directed",
       "history": [
         {
           "status": "extracted",
           "at": "2026-06-27T09:24:45.626Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-06-27T09:30:02.918Z"
         }
       ],
       "stale": false,
@@ -373,11 +445,15 @@
       "url": "https://moneyhub.com/glossary/consumer-duty/",
       "title": "What is Consumer Duty? - Moneyhub",
       "type": "article",
-      "status": "extracted",
+      "status": "directed",
       "history": [
         {
           "status": "extracted",
           "at": "2026-06-27T09:24:45.626Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-06-27T09:30:02.918Z"
         }
       ],
       "stale": false,
@@ -395,11 +471,15 @@
       "url": "https://moneyhub.com/contact/",
       "title": "Contact sales - Moneyhub",
       "type": "form",
-      "status": "extracted",
+      "status": "directed",
       "history": [
         {
           "status": "extracted",
           "at": "2026-06-27T09:24:45.626Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-06-27T09:30:02.918Z"
         }
       ],
       "stale": false,
@@ -417,11 +497,15 @@
       "url": "https://moneyhub.com/careers/",
       "title": "Careers - Moneyhub",
       "type": "static",
-      "status": "extracted",
+      "status": "directed",
       "history": [
         {
           "status": "extracted",
           "at": "2026-06-27T09:24:45.626Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-06-27T09:30:02.918Z"
         }
       ],
       "stale": false,
@@ -439,11 +523,15 @@
       "url": "https://moneyhub.com/policies/privacy-policy/",
       "title": "Global Privacy Policy (including Cookies Statement) - Moneyhub",
       "type": "static",
-      "status": "extracted",
+      "status": "directed",
       "history": [
         {
           "status": "extracted",
           "at": "2026-06-27T09:24:45.626Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-06-27T09:30:02.918Z"
         }
       ],
       "stale": false,
