@@ -1,0 +1,460 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:extract",
+    "writtenAt": "2026-06-27T09:24:45.626Z",
+    "stardustVersion": "0.13.0"
+  },
+  "site": {
+    "originUrl": "https://moneyhub.com",
+    "deployUrl": null,
+    "extractedAt": "2026-06-27T09:24:45.626Z",
+    "pageCap": 20,
+    "totalDiscovered": 146,
+    "crawled": 20,
+    "daFolder": "paolomoz/stardust-moneyhub-rollout",
+    "edsRepo": "paolomoz/stardust-moneyhub-rollout"
+  },
+  "direction": null,
+  "pages": [
+    {
+      "slug": "home",
+      "url": "https://moneyhub.com/",
+      "title": "Home - Moneyhub",
+      "type": "landing",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-06-27T09:24:45.626Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/home.json",
+      "prototypePath": null,
+      "migratedPath": null,
+      "media": {
+        "bg": 1,
+        "bigImgs": 28
+      }
+    },
+    {
+      "slug": "about",
+      "url": "https://moneyhub.com/about/",
+      "title": "About - Moneyhub",
+      "type": "static",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-06-27T09:24:45.626Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/about.json",
+      "prototypePath": null,
+      "migratedPath": null,
+      "media": {
+        "bg": 1,
+        "bigImgs": 7
+      }
+    },
+    {
+      "slug": "products",
+      "url": "https://moneyhub.com/products/",
+      "title": "Products - Moneyhub",
+      "type": "listing",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-06-27T09:24:45.626Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/products.json",
+      "prototypePath": null,
+      "migratedPath": null,
+      "media": {
+        "bg": 1,
+        "bigImgs": 6
+      }
+    },
+    {
+      "slug": "products-data-explorer",
+      "url": "https://moneyhub.com/products/data-explorer/",
+      "title": "Data Explorer - Moneyhub",
+      "type": "program",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-06-27T09:24:45.626Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/products-data-explorer.json",
+      "prototypePath": null,
+      "migratedPath": null,
+      "media": {
+        "bg": 1,
+        "bigImgs": 5
+      }
+    },
+    {
+      "slug": "solutions-pension-and-wealth",
+      "url": "https://moneyhub.com/solutions/pension-and-wealth-solutions/",
+      "title": "Pension and Wealth Solutions - Moneyhub",
+      "type": "landing",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-06-27T09:24:45.626Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/solutions-pension-and-wealth.json",
+      "prototypePath": null,
+      "migratedPath": null,
+      "media": {
+        "bg": 1,
+        "bigImgs": 5
+      }
+    },
+    {
+      "slug": "solutions-targeted-support",
+      "url": "https://moneyhub.com/solutions/pension-and-wealth-solutions/targeted-support/",
+      "title": "Targeted Support - Moneyhub",
+      "type": "program",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-06-27T09:24:45.626Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/solutions-targeted-support.json",
+      "prototypePath": null,
+      "migratedPath": null,
+      "media": {
+        "bg": 1,
+        "bigImgs": 2
+      }
+    },
+    {
+      "slug": "use-cases",
+      "url": "https://moneyhub.com/use-cases/",
+      "title": "Use Cases Archive - Moneyhub",
+      "type": "listing",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-06-27T09:24:45.626Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/use-cases.json",
+      "prototypePath": null,
+      "migratedPath": null,
+      "media": {
+        "bg": 1,
+        "bigImgs": 0
+      }
+    },
+    {
+      "slug": "use-cases-increase-deposits-with-savings-goals",
+      "url": "https://moneyhub.com/use-cases/increase-deposits-with-savings-goals/",
+      "title": "How to increase deposits with customer savings goals - Moneyhub",
+      "type": "program",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-06-27T09:24:45.626Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/use-cases-increase-deposits-with-savings-goals.json",
+      "prototypePath": null,
+      "migratedPath": null,
+      "media": {
+        "bg": 1,
+        "bigImgs": 3
+      }
+    },
+    {
+      "slug": "case-studies",
+      "url": "https://moneyhub.com/case-studies/",
+      "title": "Case Studies - Moneyhub",
+      "type": "listing",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-06-27T09:24:45.626Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/case-studies.json",
+      "prototypePath": null,
+      "migratedPath": null,
+      "media": {
+        "bg": 1,
+        "bigImgs": 10
+      }
+    },
+    {
+      "slug": "case-studies-mercer-money",
+      "url": "https://moneyhub.com/case-studies/transforming-pensions-engagement-through-mercer-money/",
+      "title": "Transforming pensions engagement through Mercer Money - Moneyhub",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-06-27T09:24:45.626Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/case-studies-mercer-money.json",
+      "prototypePath": null,
+      "migratedPath": null,
+      "media": {
+        "bg": 1,
+        "bigImgs": 3
+      }
+    },
+    {
+      "slug": "articles",
+      "url": "https://moneyhub.com/articles/",
+      "title": "Articles - Moneyhub",
+      "type": "listing",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-06-27T09:24:45.626Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/articles.json",
+      "prototypePath": null,
+      "migratedPath": null,
+      "media": {
+        "bg": 1,
+        "bigImgs": 12
+      }
+    },
+    {
+      "slug": "articles-democratising-financial-advice",
+      "url": "https://moneyhub.com/articles/how-technology-is-democratising-financial-advice/",
+      "title": "How technology is democratising financial advice - Moneyhub",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-06-27T09:24:45.626Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/articles-democratising-financial-advice.json",
+      "prototypePath": null,
+      "migratedPath": null,
+      "media": {
+        "bg": 1,
+        "bigImgs": 3
+      }
+    },
+    {
+      "slug": "press-and-partners",
+      "url": "https://moneyhub.com/press-and-partners/",
+      "title": "Press and partners - Moneyhub",
+      "type": "listing",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-06-27T09:24:45.626Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/press-and-partners.json",
+      "prototypePath": null,
+      "migratedPath": null,
+      "media": {
+        "bg": 1,
+        "bigImgs": 0
+      }
+    },
+    {
+      "slug": "press-releases-uk-demands-payment-methods",
+      "url": "https://moneyhub.com/press-releases/uk-demands-more-innovative-payment-methods/",
+      "title": "UK demands more innovative payment methods - Moneyhub",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-06-27T09:24:45.626Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/press-releases-uk-demands-payment-methods.json",
+      "prototypePath": null,
+      "migratedPath": null,
+      "media": {
+        "bg": 1,
+        "bigImgs": 3
+      }
+    },
+    {
+      "slug": "webinars",
+      "url": "https://moneyhub.com/webinars/",
+      "title": "Webinars - Moneyhub",
+      "type": "listing",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-06-27T09:24:45.626Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/webinars.json",
+      "prototypePath": null,
+      "migratedPath": null,
+      "media": {
+        "bg": 1,
+        "bigImgs": 3
+      }
+    },
+    {
+      "slug": "glossary",
+      "url": "https://moneyhub.com/glossary/",
+      "title": "Glossary Archive - Moneyhub",
+      "type": "listing",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-06-27T09:24:45.626Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/glossary.json",
+      "prototypePath": null,
+      "migratedPath": null,
+      "media": {
+        "bg": 1,
+        "bigImgs": 0
+      }
+    },
+    {
+      "slug": "glossary-consumer-duty",
+      "url": "https://moneyhub.com/glossary/consumer-duty/",
+      "title": "What is Consumer Duty? - Moneyhub",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-06-27T09:24:45.626Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/glossary-consumer-duty.json",
+      "prototypePath": null,
+      "migratedPath": null,
+      "media": {
+        "bg": 1,
+        "bigImgs": 1
+      }
+    },
+    {
+      "slug": "contact",
+      "url": "https://moneyhub.com/contact/",
+      "title": "Contact sales - Moneyhub",
+      "type": "form",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-06-27T09:24:45.626Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/contact.json",
+      "prototypePath": null,
+      "migratedPath": null,
+      "media": {
+        "bg": 1,
+        "bigImgs": 0
+      }
+    },
+    {
+      "slug": "careers",
+      "url": "https://moneyhub.com/careers/",
+      "title": "Careers - Moneyhub",
+      "type": "static",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-06-27T09:24:45.626Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/careers.json",
+      "prototypePath": null,
+      "migratedPath": null,
+      "media": {
+        "bg": 1,
+        "bigImgs": 3
+      }
+    },
+    {
+      "slug": "policies-privacy-policy",
+      "url": "https://moneyhub.com/policies/privacy-policy/",
+      "title": "Global Privacy Policy (including Cookies Statement) - Moneyhub",
+      "type": "static",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-06-27T09:24:45.626Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/policies-privacy-policy.json",
+      "prototypePath": null,
+      "migratedPath": null,
+      "media": {
+        "bg": 1,
+        "bigImgs": 1
+      }
+    }
+  ]
+}

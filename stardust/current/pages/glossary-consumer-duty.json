@@ -1,0 +1,2289 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:extract",
+    "writtenAt": "2026-06-27T09:21:06.727Z",
+    "readArtifacts": [
+      "https://moneyhub.com/glossary/consumer-duty/"
+    ],
+    "synthesizedInputs": [],
+    "stardustVersion": "0.13.0",
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-06-27T09:20:57.556Z",
+    "waitMode": "medium",
+    "waitMs": 7468,
+    "httpStatus": 200,
+    "contentType": "text/html",
+    "finalUrl": "https://moneyhub.com/glossary/consumer-duty/"
+  },
+  "slug": "glossary-consumer-duty",
+  "url": "https://moneyhub.com/glossary/consumer-duty/",
+  "finalUrl": "https://moneyhub.com/glossary/consumer-duty/",
+  "type": "article",
+  "title": "What is Consumer Duty? - Moneyhub",
+  "metaDescription": "Consumer Duty requires good customer outcomes. Firms should check product suitability, communicate clearly and offer reasonable support.",
+  "og": {
+    "title": "What is Consumer Duty? - Moneyhub",
+    "description": "Consumer Duty requires good customer outcomes. Firms should check product suitability, communicate clearly and offer reasonable support.",
+    "image": "https://moneyhub.com/wp-content/uploads/2026/03/Timeline.png",
+    "type": "article",
+    "siteName": "Moneyhub"
+  },
+  "themeColor": {
+    "light": "#ffffff"
+  },
+  "language": "en-GB",
+  "headings": [
+    {
+      "level": 1,
+      "text": "What is Consumer Duty?",
+      "id": null,
+      "domPath": "main#main > article.px-4.md:px-8 > div.container.mx-auto > header.post-header > div.grid.grid-cols-12 > h1.post-title.col-span-12",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "48px",
+        "lineHeight": "57.6px",
+        "letterSpacing": "normal",
+        "color": "rgb(239, 85, 31)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Consumer Duty: what, when and why?",
+      "id": null,
+      "domPath": "main#main > article.px-4.md:px-8 > div.container.mx-auto > div.post-body.grid > div.post-content.basic-content--wysiwyg > h2.wp-block-heading",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "32px",
+        "lineHeight": "40px",
+        "letterSpacing": "normal",
+        "color": "rgb(41, 51, 56)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "What is the regulation?",
+      "id": null,
+      "domPath": "section.block.text-image-container > div.container.mx-auto > div.grid.grid-cols-12 > div.col-span-12.md:col-span-6 > div.base-content.has-parent-light > h2.text-heading-24.md:text-4xl",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "32px",
+        "lineHeight": "40px",
+        "letterSpacing": "normal",
+        "color": "rgb(41, 51, 56)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "When was it introduced?",
+      "id": null,
+      "domPath": "section.block.text-image-container > div.container.mx-auto > div.grid.grid-cols-12 > div.col-span-12.md:col-span-6 > div.base-content.has-parent-none > h2.text-heading-24.md:text-4xl",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "32px",
+        "lineHeight": "40px",
+        "letterSpacing": "normal",
+        "color": "rgb(41, 51, 56)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Why was Consumer Duty introduced?",
+      "id": null,
+      "domPath": "section.block.text-image-container > div.container.mx-auto > div.grid.grid-cols-12 > div.col-span-12.md:col-span-6 > div.base-content.has-parent-light > h2.text-heading-24.md:text-4xl",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "32px",
+        "lineHeight": "40px",
+        "letterSpacing": "normal",
+        "color": "rgb(41, 51, 56)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "What are the key requirements of Consumer Duty?",
+      "id": null,
+      "domPath": "main#main > article.px-4.md:px-8 > div.container.mx-auto > div.post-body.grid > div.post-content.basic-content--wysiwyg > h2.wp-block-heading",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "32px",
+        "lineHeight": "40px",
+        "letterSpacing": "normal",
+        "color": "rgb(41, 51, 56)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Examples of Consumer Duty rules in action",
+      "id": null,
+      "domPath": "main#main > article.px-4.md:px-8 > div.container.mx-auto > div.post-body.grid > div.post-content.basic-content--wysiwyg > h3.wp-block-heading",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "30px",
+        "letterSpacing": "normal",
+        "color": "rgb(41, 51, 56)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Who must comply with Consumer Duty?",
+      "id": null,
+      "domPath": "main#main > article.px-4.md:px-8 > div.container.mx-auto > div.post-body.grid > div.post-content.basic-content--wysiwyg > h2.wp-block-heading",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "32px",
+        "lineHeight": "40px",
+        "letterSpacing": "normal",
+        "color": "rgb(41, 51, 56)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "How to comply with Consumer Duty?",
+      "id": null,
+      "domPath": "main#main > article.px-4.md:px-8 > div.container.mx-auto > div.post-body.grid > div.post-content.basic-content--wysiwyg > h2.wp-block-heading",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "32px",
+        "lineHeight": "40px",
+        "letterSpacing": "normal",
+        "color": "rgb(41, 51, 56)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Annual board reports",
+      "id": null,
+      "domPath": "section.block.text-image-container > div.container.mx-auto > div.grid.grid-cols-12 > div.col-span-12.md:col-span-6 > div.base-content.has-parent-none > h3.text-heading-24.font-bold",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "30px",
+        "letterSpacing": "normal",
+        "color": "rgb(41, 51, 56)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Audits (internal)",
+      "id": null,
+      "domPath": "section.block.text-image-container > div.container.mx-auto > div.grid.grid-cols-12 > div.col-span-12.md:col-span-6 > div.base-content.has-parent-light > h3.text-heading-24.font-bold",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "30px",
+        "letterSpacing": "normal",
+        "color": "rgb(41, 51, 56)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Senior Manager accountability",
+      "id": null,
+      "domPath": "section.block.text-image-container > div.container.mx-auto > div.grid.grid-cols-12 > div.col-span-12.md:col-span-6 > div.base-content.has-parent-light > h3.text-heading-24.font-bold",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "30px",
+        "letterSpacing": "normal",
+        "color": "rgb(41, 51, 56)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Renumeration policies",
+      "id": null,
+      "domPath": "section.block.text-image-container > div.container.mx-auto > div.grid.grid-cols-12 > div.col-span-12.md:col-span-6 > div.base-content.has-parent-none > h3.text-heading-24.font-bold",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "30px",
+        "letterSpacing": "normal",
+        "color": "rgb(41, 51, 56)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Setting up your own systems and policies",
+      "id": null,
+      "domPath": "main#main > article.px-4.md:px-8 > div.container.mx-auto > div.post-body.grid > div.post-content.basic-content--wysiwyg > h3.wp-block-heading",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "30px",
+        "letterSpacing": "normal",
+        "color": "rgb(41, 51, 56)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "What are the consequences of non-compliance?",
+      "id": null,
+      "domPath": "main#main > article.px-4.md:px-8 > div.container.mx-auto > div.post-body.grid > div.post-content.basic-content--wysiwyg > h2.wp-block-heading",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "32px",
+        "lineHeight": "40px",
+        "letterSpacing": "normal",
+        "color": "rgb(41, 51, 56)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Following Consumer Duty best practices as a strategy for customer engagement",
+      "id": null,
+      "domPath": "section.block.cta-container > div.container.mx-auto > div.grid.grid-cols-12 > div.col-span-12.lg:py-16 > div.base-content.has-parent-dark > h2.text-heading-24.md:text-4xl",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "32px",
+        "lineHeight": "40px",
+        "letterSpacing": "normal",
+        "color": "rgb(255, 255, 255)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "FAQs",
+      "id": null,
+      "domPath": "div.block.faqs-container > div.container.mx-auto > div.grid.grid-cols-12 > div.col-span-12.lg:col-span-4 > div.base-content.has-parent-none > h2.text-heading-24.md:text-4xl",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "32px",
+        "lineHeight": "40px",
+        "letterSpacing": "normal",
+        "color": "rgb(41, 51, 56)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "What are the four outcomes of Consumer Duty?",
+      "id": null,
+      "domPath": "div.block.faqs-container > div.container.mx-auto > div.grid.grid-cols-12 > div.col-span-12.lg:col-span-8 > div.accordion--divider > h3.accordion__question.text-base",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "30px",
+        "letterSpacing": "normal",
+        "color": "rgb(41, 51, 56)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "How does Moneyhub support Consumer Duty compliance?",
+      "id": null,
+      "domPath": "div.block.faqs-container > div.container.mx-auto > div.grid.grid-cols-12 > div.col-span-12.lg:col-span-8 > div.accordion--divider > h3.accordion__question.text-base",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "30px",
+        "letterSpacing": "normal",
+        "color": "rgb(41, 51, 56)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "What is the impact of a financial institution that doesn’t comply with Consumer Duty?",
+      "id": null,
+      "domPath": "div.block.faqs-container > div.container.mx-auto > div.grid.grid-cols-12 > div.col-span-12.lg:col-span-8 > div.accordion--divider > h3.accordion__question.text-base",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "30px",
+        "letterSpacing": "normal",
+        "color": "rgb(41, 51, 56)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Related posts",
+      "id": null,
+      "domPath": "main#main > section.block.column-content-container > div.container.mx-auto > div.grid.grid-cols-12 > div.col-span-12 > h2.font-bold",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "45px",
+        "lineHeight": "67.5px",
+        "letterSpacing": "normal",
+        "color": "rgb(41, 51, 56)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "What is Agentic AI in financial services?",
+      "id": null,
+      "domPath": "div.grid.grid-cols-12 > div.col-span-12.md:col-span-4 > article.col-span-12.md:col-span-6 > a.no-underline.has-parent- > div.p-2.pb-4 > h3.lg:mb-4.text-heading-24",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "30px",
+        "letterSpacing": "normal",
+        "color": "rgb(41, 51, 56)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Why is merchant identification important in categorisation and enrichment?",
+      "id": null,
+      "domPath": "div.grid.grid-cols-12 > div.col-span-12.md:col-span-4 > article.col-span-12.md:col-span-6 > a.no-underline.has-parent- > div.p-2.pb-4 > h3.lg:mb-4.text-heading-24",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "30px",
+        "letterSpacing": "normal",
+        "color": "rgb(41, 51, 56)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "How to apply nudge theory in financial services",
+      "id": null,
+      "domPath": "div.grid.grid-cols-12 > div.col-span-12.md:col-span-4 > article.col-span-12.md:col-span-6 > a.no-underline.has-parent- > div.p-2.pb-4 > h3.lg:mb-4.text-heading-24",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "30px",
+        "letterSpacing": "normal",
+        "color": "rgb(41, 51, 56)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Build for real life",
+      "id": null,
+      "domPath": "section.block.cta-container > div.container.mx-auto > div.grid.grid-cols-12 > div.col-span-12.md:col-span-6 > div.base-content.has-parent- > h2.text-heading-24.md:text-4xl",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "48px",
+        "lineHeight": "48px",
+        "letterSpacing": "normal",
+        "color": "rgb(41, 51, 56)"
+      }
+    },
+    {
+      "level": 4,
+      "text": "Follow us",
+      "id": null,
+      "domPath": "footer#footer > div.container.mx-auto > div.footer__content.grid > div.col-span-12.md:col-span-3 > div.col-span-1.md:col-span-2 > h4.text-base.font-bold",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "16px",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(255, 255, 255)"
+      }
+    },
+    {
+      "level": 4,
+      "text": "Solutions",
+      "id": null,
+      "domPath": "footer#footer > div.container.mx-auto > div.footer__content.grid > div.col-span-12.md:col-span-9 > div.footer__nav--list > h4.text-base.font-bold",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "16px",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(255, 255, 255)"
+      }
+    },
+    {
+      "level": 4,
+      "text": "Products",
+      "id": null,
+      "domPath": "div.container.mx-auto > div.footer__content.grid > div.col-span-12.md:col-span-9 > div.grid.grid-cols-2 > div.footer__nav--list.mb-6 > h4.text-base.font-bold",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "16px",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(255, 255, 255)"
+      }
+    },
+    {
+      "level": 4,
+      "text": "Policies & Info",
+      "id": null,
+      "domPath": "div.container.mx-auto > div.footer__content.grid > div.col-span-12.md:col-span-9 > div.grid.grid-cols-2 > div.footer__nav--list.mb-6 > h4.text-base.font-bold",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "16px",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(255, 255, 255)"
+      }
+    },
+    {
+      "level": 4,
+      "text": "",
+      "id": null,
+      "domPath": "div.container.mx-auto > div.footer__content.grid > div.col-span-12.md:col-span-9 > div.grid.grid-cols-2 > div.footer__nav--list.mb-6 > h4.text-base.font-bold",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "16px",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(255, 255, 255)"
+      }
+    }
+  ],
+  "landmarks": [
+    {
+      "tag": "div",
+      "role": "region",
+      "id": null,
+      "classes": [
+        "cky-hide",
+        "cky-consent-container",
+        "cky-popup-center"
+      ],
+      "innerText": "We value your privacyWe use cookies to enhance your browsing experience, serve personalised ads or content, and analyse our traffic. By clicking \"Accept All\", you consent to our use of cookies.Customise Accept AllPowered by",
+      "children": [
+        {
+          "tag": "div",
+          "id": null,
+          "classes": [
+            "cky-consent-bar"
+          ],
+          "headlineText": null,
+          "innerTextSummary": "We value your privacyWe use cookies to enhance your browsing experience, serve personalised ads or content, and analyse our traffic. By clicking \"Accept All\", you consent to our use of cookies.Customise Accept AllPowered by",
+          "wordCount": 34,
+          "body": [
+            "We value your privacy",
+            "We use cookies to enhance your browsing experience, serve personalised ads or content, and analyse our traffic. By clicking \"Accept All\", you consent to our use of cookies."
+          ],
+          "lists": [],
+          "qa": [],
+          "quotes": []
+        }
+      ]
+    },
+    {
+      "tag": "header",
+      "role": "banner",
+      "id": "header",
+      "classes": [],
+      "innerText": "Moneyhub Solutions Products Developers Discover About CONTACT CONTACT Latest Moneyhub release puts an end to unrecognised transaction panic",
+      "children": [
+        {
+          "tag": "div",
+          "id": null,
+          "classes": [
+            "container",
+            "mx-auto",
+            "h-full",
+            "px-4",
+            "md:px-8",
+            "lg:px-16"
+          ],
+          "headlineText": null,
+          "innerTextSummary": "Moneyhub Solutions Products Developers Discover About CONTACT CONTACT",
+          "wordCount": 8,
+          "body": [
+            "Turn raw, ambiguous banking data into clear, actionable insights",
+            "Connect to financial and non-financial customer accounts",
+            "Overcome segmentation challenges to create targeted campaigns",
+            "Embed customised solutions into your app",
+            "Access transparent real-time management reporting",
+            "Facilitate variable recurring payments"
+          ],
+          "lists": [
+            {
+              "ordered": false,
+              "items": [
+                "Solutions Banking and Lending Solutions Transaction Categorisation and Enrichment Smart Segmentation Smart Money Actions Smart Product Match Smart Payments Smart Lending Pension and Wealth Solutions Win Schemes Build and Retain In Retirement Pensions Dashboard Targeted Support Smart Fact Find",
+                "Products Invisible placeholder column Categorisation and Enrichment Engine Turn raw, ambiguous banking data into clear, actionable insights Data Aggregation Connect to financial and non-financial customer accounts Data Insights and Recommendations Overcome segmentation challenges to create targeted campaigns Invisible placeholder column Embedded Solutions and Portals Embed customised solutions into your app Data Explorer Access transparent real-time management reporting Payments Facilitate variable recurring payments",
+                "Developers Developers API Developer Hub Access Sandbox",
+                "Discover Discover Articles Case studies Categorisation and Enrichment Press Releases Use Cases Webinars",
+                "About About About Careers",
+                "Contact"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "Banking and Lending Solutions Transaction Categorisation and Enrichment Smart Segmentation Smart Money Actions Smart Product Match Smart Payments Smart Lending",
+                "Pension and Wealth Solutions Win Schemes Build and Retain In Retirement Pensions Dashboard Targeted Support Smart Fact Find"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "Transaction Categorisation and Enrichment",
+                "Smart Segmentation",
+                "Smart Money Actions",
+                "Smart Product Match",
+                "Smart Payments",
+                "Smart Lending"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "Win Schemes",
+                "Build and Retain",
+                "In Retirement",
+                "Pensions Dashboard",
+                "Targeted Support",
+                "Smart Fact Find"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "Invisible placeholder column Categorisation and Enrichment Engine Turn raw, ambiguous banking data into clear, actionable insights Data Aggregation Connect to financial and non-financial customer accounts Data Insights and Recommendations Overcome segmentation challenges to create targeted campaigns",
+                "Invisible placeholder column Embedded Solutions and Portals Embed customised solutions into your app Data Explorer Access transparent real-time management reporting Payments Facilitate variable recurring payments"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "Categorisation and Enrichment Engine Turn raw, ambiguous banking data into clear, actionable insights",
+                "Data Aggregation Connect to financial and non-financial customer accounts",
+                "Data Insights and Recommendations Overcome segmentation challenges to create targeted campaigns"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "Embedded Solutions and Portals Embed customised solutions into your app",
+                "Data Explorer Access transparent real-time management reporting",
+                "Payments Facilitate variable recurring payments"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "Developers API Developer Hub Access Sandbox"
+              ]
+            }
+          ],
+          "qa": [],
+          "quotes": []
+        }
+      ]
+    },
+    {
+      "tag": "a",
+      "role": "navigation",
+      "id": null,
+      "classes": [
+        "block",
+        "mb-4---",
+        "brand"
+      ],
+      "innerText": "Moneyhub",
+      "children": []
+    },
+    {
+      "tag": "main",
+      "role": "main",
+      "id": "main",
+      "classes": [
+        "mt-16"
+      ],
+      "innerText": "Glossary What is Consumer Duty? share LinkedIn Nejc Korosec Head of Compliance, Moneyhub Categories Banking Lending Pensions Wealth Consumer Duty is a financial regulation in the UK that mandates financial institutions to meet ‘good outcomes’ across their customer groups. It aims to move the industry from tick-box compliance to a prudential regime that truly places the customer’s best interests at the heart of the business. The FCA brought in Consumer Duty to prevent foreseeable harm for consumers, but some banks still need to upgrade their tech stack and data insights to deliver this higher standard of customer care. That’s where Moneyhub can help: providing a platform to collect and analyse a consumer’s personal financial data on an individual level, to help compliant financial institutions offer services that meet customer needs. Key takeaways for Consumer Duty: FCA Consumer Duty is a UK-based regulation requiring financial institutions to create good customer outcomes Consumer Duty requires firms to check their products are suitable and of fair value, while they must communicate the benefits and risks clearly and offer reasonable support when customers are struggling financially Firms can comply with Consumer Duty through providing evidence of good vs poor outcomes, and gaining a holistic view of their customer’s full financial picture Consumer Duty: what, when and why? What is the regulation? Consumer Duty is a regulation introduced by the Financial Conduct Authority. It covers one key principle: to deliver good outcomes across all customer groups, alongside three cross-cutting rules: Act in good faith Prevent foreseeable harm Support financial objectives The Consumer Duty is an expectation on compliant firms to continuously monitor and evidence that they are delivering these ‘good outcomes’. When was it introduced? Here’s the timeline of Consumer Duty: July 2022: Final rules and guidance was published by the FCA. Firms knew that the regulation was definitely coming, and could start preparing for its implementation deadline. October 2022: The boards of each firm must have an agreed-upon implementation plan by this date. July 2023: The Consumer Duty is officially enforced for open products: those financial products or services that are open to sale or renewal. Firms offering these products must have reviewed their alignment with Consumer Duty by this date. July 2024: The Consumer Duty is officially enforced across all products, including ‘closed’ products or services that are no longer being sold. Why was Consumer Duty introduced? It was designed to restrict high-friction and predatory scenarios in the financial industry, providing a minimum standard for the customer experience. In the UK, and despite a lot of progress after the 2008 recession, there is still a level of scepticism around financial products and services. For example, some consumers have felt duped by buy now, pay later schemes (BNPL) – not realising that a default on payments could affect their credit history, and future eligibility to borrow. Mis-selling scandals in the car finance space, mismatched investments compared to risk profiles, and complex account closure processes: each of these common scenarios have all contributed to the launch of Consumer Duty. With a new outcomes-based approach, the Consumer Duty puts the onus on firms to evidence their good practices, and detail the occasions where they have stepped in to prevent harm. It shifts the customer experience, from relying on culture to enforcing tight controls. With a particular focus on vulnerable customers, which we will get into in the next section, ‘fair value’ must now extend across all groups, not just those able to clearly advocate for themselves. (The FCA confirmed final rules on BNPL on February 11th 2026, and relies on Consumer Duty when it comes to this new regulation. Providers will need to do everything in line with its requirements.) What are the key requirements of Consumer Duty? Firms are expected to monitor and evidence their ‘good outcomes’ across four key consumer categories: Products and services: are products fit for purpose? Consider the needs, and financial objectives of the target market, and whether the product could cause foreseeable harm among some groups (suitability). Price and value: is the benefit received relative to the price paid? Products must offer demonstrable fair value. Consumer understanding: how clear is your communication? Consumers must be able to make informed financial decisions based on clear, timely and comprehensible product descriptions and instructions. Consumer support: how easy is it to get help, switch or cancel? Firms must consider the entire lifecycle, including life event triggers that change product suitability. And make it as easy and (cost-effective) to cancel as it was to sign up. Examples of Consumer Duty rules in action Financial product Pre-Consumer Duty practice Rule Post-Consumer Duty standard Mortgages Lenders could keep customers on high Standard Variable Rates indefinitely without proactive contact. Price and value: firms must ensure a reasonable relationship between price and benefits. Lenders must proactively alert customers when their deal ends and offer accessible paths to better-value products. Financial products Complex fine print or hidden fees that made it difficult for borrowers to understand the total cost of credit.The weight was on the buyer to take the burden of understanding, even if there were 40-page T&Cs documents which technically met disclosures but practically ensured consumers wouldn’t read them. Consumer understanding: communications must be clear and enable customers to make informed decisions. Agreements must use simplified language, highlighting total costs and risks prominently so the average borrower truly gets it. Loans Lenders often used Office for National Statistics (ONS) averages for living costs. If a consumer’s income was £2k and the ONS said the average person spent £1.2k, the lender assumed £800 was ‘affordable’, even if that specific individual had high childcare costs or hidden debts not on their credit file. Price and value: institutions must act in good faith to avoid foreseeable harm. Institutions must only lend what the consumer can afford to repay. Savings Customers let large sums sit in non-interest-bearing current accounts. Customer objectives: firms must support customers in reaching their specific financial goals. Banks could launch savings apps to help customers automatically sweep their money into an interest-gaining account, like Paragon have done with the Spring app Credit cards Account managers were incentivised to sell based on volume rather than suitability, which risked a culture of mis-selling. Governance and culture: firms must implement policies so that delivering good customer outcomes is rewarded more than sales volume. Bonuses are now balanced with quality/suitability metrics, such as low delinquency rates or customer satisfaction scores. Insurance Price walking was common practice, automatically increasing premiums for loyal customers at renewal while offering cheap deals to new joiners. Cross-cutting rules: firms must act in good faith and avoid causing foreseeable harm. Renewal prices must be transparently compared to new-customer prices, ensuring loyal customers aren’t penalised for staying. Who must comply with Consumer Duty? The short answer: Consumer Duty applies to every firm regulated by the FCA. This includes banks and building societies, lenders and credit firms, insurance and pension providers, and payment services operators. Due to the wide-spreading nature of Consumer Duty, though, the regulation applies up the distribution chain, too. And here comes the scary part: it applies even if the partner company never interacts directly with the end customer. This is thanks to material influence: the idea that if a middle-man can affect the price, product design or product management, they must fall under the Consumer Duty requirements. A scenario I’ve seen has been when a non-bank brand (like budgeting apps and even retail brands) offers current accounts or debit cards. The app or retail brand is the distributor, so they’re often an unregulated entity, partnering directly with the manufacturer: the bank or banking-as-a-service provider. Imagine that the app heavily markets its current account to a young, low-income user with the promise of “instant access to your cash”. Yet, the bank’s underlying legacy tech can’t support this, with: Frequent down times Overly aggressive automated fraud algorithms that freeze accounts without human customer service available In this case, the manufacturer (the core bank) is causing foreseeable harm and failing on Consumer Support. Or if the distributor (the app) doesn’t adhere to the target market under Products and Services and uses misleading tactics to obscure certain fees, it is failing on Consumer Understanding. “Under the Duty, the bank is obligated to audit the app’s marketing and the app is obligated to ensure it is aligned with the bank. Importantly, if one fails, the FCA holds the regulated entity accountable for the whole chain.” – Nejc Korosec, Head of Compliance at Moneyhub How to comply with Consumer Duty? For large firms, full compliance is expected through a range of reporting, auditing and governance strategies. Annual board reports Assessing whether they are indeed providing good outcomes, or where improvements must be made. Including factors like the number of customer complaints, cancellation rates and the analysis of different customer groups. Firms must also provide evidence of actions taken to address poor outcomes (or risks to poor outcomes). Audits (internal) Audits help firms to validate whether they are truly providing the ‘fair value’ that they might claim to be. Firms should assess: Process design, such as vulnerability support per cohort: how is the account opening process adapted for blind individuals, for example? Actual outcomes (to check whether the process design is correct) including fair value assessments and communications testing Risks and transparency in oversight: is there feedback data that you can’t access, or potential risks that you have not yet accounted for? Senior Manager accountability Consumer Duty is deeply connected to the Senior Managers and Certification Regime (SMCR), and as such, senior managers are personally accountable for ensuring their firms deliver on good outcomes. Previously, the rules also stated that a Consumer Duty champion had to be appointed. This individual was responsible for advocating for consumer interests at a board level, holding the board accountable by acting as a bridge. But this has recently changed: “Since February 2025 this is no longer a requirement. The FCA found that having a single ‘champion’ allowed the rest of the board to pass the buck. Now, they expect the entire board to be collectively accountable.” – Nejc Korosec, Head of Compliance at Moneyhub Renumeration policies In my opinion, one of the strongest parts of the regulation is that firms can no longer incentivise or reward based on sales only. That’s because it may encourage and reward unsuitable products or cause foreseeable harm. Now remuneration policies must be aligned to good customer outcomes, preventing mis-selling based on individual rewards. Setting up your own systems and policies At a smaller firm level, the FCA has acknowledged that the same resources may not be available. So while the requirements still apply, the regulator expects proportionality. “Firms may have expected to use customer feedback and complaints as their primary monitoring tool, but the FCA has repeatedly stressed that complaints are reactive. And the Duty requires proactive monitoring to prevent foreseeable harm, even from smaller firms.” – Nejc Korosec, Head of Compliance at Moneyhub. While the FCA allows for proportionality, even small firms must use proactive data instead of waiting for a customer to complain. For example, tracking how long a user spends on a terms and conditions page or monitoring cancellation rates are two of the strategies I see often. The Consumer Duty is not a prescriptive regulation, due to its outcomes-based design. But this means the biggest risk for firms is information blindness: if you don’t have a clear view of your customer, how can you prove you’re helping them? Moneyhub supports firms in their Consumer Duty compliance by moving firms from vague assumptions to verified data. We offer the ability to aggregate a customer’s entire financial life into a single view, with decisioning based on the data itself, not lagging ONS assumptions or segments that are too broad to use. And we give firms the ability to proactively intervene before the customer reaches a crisis point, fulfilling the Duty’s requirement to support vulnerable consumers. Learn more about Data Aggregation. What are the consequences of non-compliance? Under the FCA’s watchful eye, violations of Consumer Duty are already resulting in fines of millions. In one 2024 case, the Senior Manager of a pensions firm gave unsuitable pension transfer recommendations to over 900 customers, without assessing their risk profiles or attitudes to investment. He was fined over £1 million in violation of SMCR and Consumer Duty, effectively “choosing to prioritise the Firm’s profitability (which took over £8 million in fees) over the interests of its customers”. But alongside the obvious financial implications, it’s the reputational impact of non-compliance that could do the most damage. In a similar case to the above where 15 individuals were banned from providing financial advice, the company at the heart of the scandal actually collapsed. The government was forced to take over and it was later sold on. While these reputational consequences are typically more ‘hidden’ compared to the outright penalties, they are the most likely to erode trust with your customers, and cause you to lose market share to competitors. Following Consumer Duty best practices as a strategy for customer engagement Consumer Duty is the financial regulation that is changing the way that institutions interact with their customers: striving for good outcomes across all groups. But many firms lack the technology to effectively know what’s best for their customers, and nudge them into taking the right action, which is where Moneyhub can help. LEARN MORE ABOUT SMART MONEY ACTIONS FAQs What are the four outcomes of Consumer Duty? The Consumer Duty is built on four key outcomes that firms must deliver: Products and Services, Price and Value, Consumer Understanding, and Consumer Support. These outcomes ensure that financial products are fit for purpose, offer fair value for the cost, provide clear information for informed decisions, and offer accessible support throughout the customer journey. How does Moneyhub support Consumer Duty compliance? Moneyhub aids financial institutions with their Consumer Duty compliance by providing the data insights and technical stack required to fully understand customers. We enable you to granularly zoom into customers on a personal level in order to segment accurately, send timely nudges and make the right product offers. What is the impact of a financial institution that doesn’t comply with Consumer Duty? Non-compliant financial institutions face regulatory intervention from the FCA, including substantial fines, the withdrawal of permissions to operate, and mandatory requirements to pay redress to affected customers. Beyond these legal penalties, firms risk severe reputational damage and a loss of market trust that can undermine their long-term commercial viability. About the author: Nejc Korosec is Head of Compliance at Moneyhub, leading the company’s compliance function and overseeing regulatory strategy, governance and day-to-day regulatory matters. Hailing from Slovenia, where he was the Head of Compliance for two regional banks, Nejc has worked in AML fraud, investigations and regulations for over 12 years. Now, he is responsible for managing Moneyhub’s relationships with regulators and trade bodies, and for shaping the firm’s public policy engagement across key issues impacting open finance, data-sharing and better consumer outcomes. share LinkedIn Related posts Banking Lending Pensions Wealth Feb 10, 2026 What is Agentic AI in financial services? Organisations in financial services are fairly cautious of agentic AI, due to the constraints that need to be built around it to avoid widespread risk. But compliant agentic AI is possible, and we’re going to explore how you can use it to maximise the benefits while adhering to strict regulatory requirements. Read more Banking Lending Pensions Wealth Feb 10, 2026 Why is merchant identification important in categorisation and enrichment? Merchant ID plays an important role because it impacts customer experience, fraud identification, compliance, and how you guide users into their next steps. Read more Banking Lending Pensions Wealth Feb 10, 2026 How to apply nudge theory in financial services When we move from static, batch alerts to real-time, hyper-personalised nudges, engagement metrics in financial apps shift dramatically. Read more",
+      "children": [
+        {
+          "tag": "section",
+          "id": null,
+          "classes": [
+            "block",
+            "column-content-container",
+            "has--background-color",
+            "pt-12",
+            "pb-12",
+            "xl:py-24"
+          ],
+          "headlineText": "Related posts",
+          "innerTextSummary": "Related posts Banking Lending Pensions Wealth Feb 10, 2026 What is Agentic AI in financial services? Organisations in financial services are fairly cautious of agentic AI, due to the constraints that need to be built around it to avoid wide",
+          "wordCount": 145,
+          "body": [
+            "Organisations in financial services are fairly cautious of agentic AI, due to the constraints that need to be built around it to avoid widespread risk. But compliant agentic AI is possible, and we’re going to explore how you can use it to maximise the benefits while adhering to strict regulatory requirements.",
+            "Read more",
+            "Merchant ID plays an important role because it impacts customer experience, fraud identification, compliance, and how you guide users into their next steps.",
+            "Read more",
+            "When we move from static, batch alerts to real-time, hyper-personalised nudges, engagement metrics in financial apps shift dramatically.",
+            "Read more"
+          ],
+          "lists": [
+            {
+              "ordered": false,
+              "items": [
+                "Banking",
+                "Lending",
+                "Pensions",
+                "Wealth"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "Banking",
+                "Lending",
+                "Pensions",
+                "Wealth"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "Banking",
+                "Lending",
+                "Pensions",
+                "Wealth"
+              ]
+            }
+          ],
+          "qa": [],
+          "quotes": []
+        }
+      ]
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": null,
+      "classes": [
+        "post-header"
+      ],
+      "innerText": "Glossary What is Consumer Duty? share LinkedIn",
+      "children": [
+        {
+          "tag": "div",
+          "id": null,
+          "classes": [
+            "grid",
+            "grid-cols-12"
+          ],
+          "headlineText": "What is Consumer Duty?",
+          "innerTextSummary": "Glossary What is Consumer Duty? share LinkedIn",
+          "wordCount": 7,
+          "body": [
+            "Glossary",
+            "share",
+            "LinkedIn"
+          ],
+          "lists": [],
+          "qa": [],
+          "quotes": []
+        }
+      ]
+    },
+    {
+      "tag": "footer",
+      "role": "contentinfo",
+      "id": "footer",
+      "classes": [
+        "has-dark-background-color",
+        "py-12",
+        "px-4",
+        "md:px-8",
+        "lg:px-16"
+      ],
+      "innerText": "Moneyhub London Office: 70 Gracechurch Street, London, UK EC3V 0HR Follow us LinkedIn Solutions Banking and Lending Solutions Smart Segmentation Smart Lending Smart Money Actions Smart Payments Smart Product Match Transaction Categorisation and Enrichment Pension and Wealth Solutions Build and Retain In Retirement Pensions Dashboard Smart Fact Find Targeted Support Win Schemes Products Payments Data Explorer Embedded Solutions and Portals Data Insights and Recommendations Data Aggregation Categorisation and Enrichment Engine Policies & Info Global Privacy Policy ESG Report Modern Slavery Policy Security and Trust Global Terms of Use API Terms of Use Cookie Settings Connections Status Press and partners Glossary Moneyhub and Moneyhub Enterprise are trading styles of Moneyhub Financial Technology Limited, a company registered in England and Wales (company number 06909772) and its registered address at C/O Roxburgh Milkins Limited Merchants House North, Wapping Road, Bristol, BS1 4RW, United Kingdom. Moneyhub Financial Technology is authorised and regulated by the Financial Conduct Authority (FCA) and is a registered AISP (Account Information Service Provider) and PISP (Payment Initiation Service Provider). Reference no. 809360 found at fca.org.uk/register. © Moneyhub Financial Technology Limited 2026.",
+      "children": [
+        {
+          "tag": "div",
+          "id": null,
+          "classes": [
+            "container",
+            "mx-auto",
+            "has-parent-dark"
+          ],
+          "headlineText": "Follow us",
+          "innerTextSummary": "Moneyhub London Office: 70 Gracechurch Street, London, UK EC3V 0HR Follow us LinkedIn Solutions Banking and Lending Solutions Smart Segmentation Smart Lending Smart Money Actions Smart Payments Smart Product Match Transaction Categorisation",
+          "wordCount": 181,
+          "body": [
+            "London Office: 70 Gracechurch Street, London, UK EC3V 0HR",
+            "Moneyhub and Moneyhub Enterprise are trading styles of Moneyhub Financial Technology Limited, a company registered in England and Wales (company number 06909772) and its registered address at C/O Roxburgh Milkins Limited Merchants House North, Wapping Road, Bristol, BS1 4RW, United Kingdom. Moneyhub Financial Technology is authorised and regulated by the Financial Conduct Authority (FCA) and is a registered AISP (Account Information Service Provider) and PISP (Payment Initiation Service Provider). Reference no. 809360 found at fca.org.uk/register.",
+            "© Moneyhub Financial Technology Limited 2026."
+          ],
+          "lists": [
+            {
+              "ordered": false,
+              "items": [
+                "LinkedIn"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "Banking and Lending Solutions Smart Segmentation Smart Lending Smart Money Actions Smart Payments Smart Product Match Transaction Categorisation and Enrichment"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "Smart Segmentation",
+                "Smart Lending",
+                "Smart Money Actions",
+                "Smart Payments",
+                "Smart Product Match",
+                "Transaction Categorisation and Enrichment"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "Pension and Wealth Solutions Build and Retain In Retirement Pensions Dashboard Smart Fact Find Targeted Support Win Schemes"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "Build and Retain",
+                "In Retirement",
+                "Pensions Dashboard",
+                "Smart Fact Find",
+                "Targeted Support",
+                "Win Schemes"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "Payments",
+                "Data Explorer",
+                "Embedded Solutions and Portals",
+                "Data Insights and Recommendations",
+                "Data Aggregation",
+                "Categorisation and Enrichment Engine"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "Global Privacy Policy",
+                "ESG Report",
+                "Modern Slavery Policy",
+                "Security and Trust",
+                "Global Terms of Use",
+                "API Terms of Use",
+                "Cookie Settings",
+                "Connections Status",
+                "Press and partners",
+                "Glossary"
+              ]
+            }
+          ],
+          "qa": [],
+          "quotes": []
+        }
+      ]
+    },
+    {
+      "tag": "a",
+      "role": "navigation",
+      "id": null,
+      "classes": [
+        "block",
+        "brand",
+        "mb-6",
+        "col-span-2",
+        "max-w-full"
+      ],
+      "innerText": "Moneyhub",
+      "children": []
+    },
+    {
+      "tag": "nav",
+      "role": null,
+      "id": null,
+      "classes": [
+        "col-span-1",
+        "pe-5"
+      ],
+      "innerText": "Banking and Lending Solutions Smart Segmentation Smart Lending Smart Money Actions Smart Payments Smart Product Match Transaction Categorisation and Enrichment",
+      "children": []
+    },
+    {
+      "tag": "nav",
+      "role": null,
+      "id": null,
+      "classes": [
+        "col-span-1",
+        "pe-5"
+      ],
+      "innerText": "Pension and Wealth Solutions Build and Retain In Retirement Pensions Dashboard Smart Fact Find Targeted Support Win Schemes",
+      "children": []
+    },
+    {
+      "tag": "nav",
+      "role": null,
+      "id": null,
+      "classes": [
+        "col-span-1",
+        "pe-5"
+      ],
+      "innerText": "",
+      "children": []
+    },
+    {
+      "tag": "nav",
+      "role": null,
+      "id": null,
+      "classes": [
+        "pe-5"
+      ],
+      "innerText": "Payments Data Explorer Embedded Solutions and Portals Data Insights and Recommendations Data Aggregation Categorisation and Enrichment Engine",
+      "children": []
+    },
+    {
+      "tag": "nav",
+      "role": null,
+      "id": null,
+      "classes": [
+        "pe-5"
+      ],
+      "innerText": "Global Privacy Policy ESG Report Modern Slavery Policy Security and Trust Global Terms of Use API Terms of Use Cookie Settings Connections Status Press and partners Glossary",
+      "children": []
+    },
+    {
+      "tag": "nav",
+      "role": null,
+      "id": null,
+      "classes": [],
+      "innerText": "",
+      "children": []
+    },
+    {
+      "tag": "nav",
+      "role": null,
+      "id": null,
+      "classes": [
+        "pe-5"
+      ],
+      "innerText": "",
+      "children": []
+    }
+  ],
+  "ctas": [
+    {
+      "label": "Customise",
+      "href": null,
+      "tag": "button",
+      "domPath": "div.cky-consent-bar > div.cky-notice-content-wrapper > div.cky-notice > div.cky-notice-group > div.cky-notice-btn-wrapper > button.cky-btn.cky-btn-customize",
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(33, 33, 33)",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": "500",
+        "borderRadius": "2px",
+        "padding": "8px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "fold"
+    },
+    {
+      "label": "Accept All",
+      "href": null,
+      "tag": "button",
+      "domPath": "div.cky-consent-bar > div.cky-notice-content-wrapper > div.cky-notice > div.cky-notice-group > div.cky-notice-btn-wrapper > button.cky-btn.cky-btn-accept",
+      "style": {
+        "backgroundColor": "rgb(239, 85, 32)",
+        "color": "rgb(255, 255, 255)",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": "500",
+        "borderRadius": "2px",
+        "padding": "8px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "fold"
+    },
+    {
+      "label": "Close",
+      "href": null,
+      "tag": "button",
+      "domPath": "div#ckyPreferenceCenter > div.cky-preference-header > button.cky-btn-close",
+      "style": {
+        "backgroundColor": "rgba(255, 255, 255, 0)",
+        "color": "rgb(33, 33, 33)",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": "400",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "below-fold"
+    },
+    {
+      "label": "Show more",
+      "href": null,
+      "tag": "button",
+      "domPath": "div#ckyPreferenceCenter > div.cky-preference-body-wrapper > div.cky-preference-content-wrapper > p > button.cky-show-desc-btn",
+      "style": {
+        "backgroundColor": "rgba(255, 255, 255, 0)",
+        "color": "rgb(24, 99, 220)",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": "400",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "below-fold"
+    },
+    {
+      "label": "Necessary",
+      "href": null,
+      "tag": "button",
+      "domPath": "div#ckyDetailCategorynecessary > div.cky-accordion-item > div.cky-accordion-header-wrapper > div.cky-accordion-header > button.cky-accordion-btn",
+      "style": {
+        "backgroundColor": "rgba(255, 255, 255, 0)",
+        "color": "rgb(33, 33, 33)",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": "700",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "below-fold"
+    },
+    {
+      "label": "Functional",
+      "href": null,
+      "tag": "button",
+      "domPath": "div#ckyDetailCategoryfunctional > div.cky-accordion-item > div.cky-accordion-header-wrapper > div.cky-accordion-header > button.cky-accordion-btn",
+      "style": {
+        "backgroundColor": "rgba(255, 255, 255, 0)",
+        "color": "rgb(33, 33, 33)",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": "700",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "below-fold"
+    },
+    {
+      "label": "Analytics",
+      "href": null,
+      "tag": "button",
+      "domPath": "div#ckyDetailCategoryanalytics > div.cky-accordion-item > div.cky-accordion-header-wrapper > div.cky-accordion-header > button.cky-accordion-btn",
+      "style": {
+        "backgroundColor": "rgba(255, 255, 255, 0)",
+        "color": "rgb(33, 33, 33)",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": "700",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "below-fold"
+    },
+    {
+      "label": "Performance",
+      "href": null,
+      "tag": "button",
+      "domPath": "div#ckyDetailCategoryperformance > div.cky-accordion-item > div.cky-accordion-header-wrapper > div.cky-accordion-header > button.cky-accordion-btn",
+      "style": {
+        "backgroundColor": "rgba(255, 255, 255, 0)",
+        "color": "rgb(33, 33, 33)",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": "700",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "below-fold"
+    },
+    {
+      "label": "Advertisement",
+      "href": null,
+      "tag": "button",
+      "domPath": "div#ckyDetailCategoryadvertisement > div.cky-accordion-item > div.cky-accordion-header-wrapper > div.cky-accordion-header > button.cky-accordion-btn",
+      "style": {
+        "backgroundColor": "rgba(255, 255, 255, 0)",
+        "color": "rgb(33, 33, 33)",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": "700",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "below-fold"
+    },
+    {
+      "label": "Uncategorised",
+      "href": null,
+      "tag": "button",
+      "domPath": "div#ckyDetailCategoryother > div.cky-accordion-item > div.cky-accordion-header-wrapper > div.cky-accordion-header > button.cky-accordion-btn",
+      "style": {
+        "backgroundColor": "rgba(255, 255, 255, 0)",
+        "color": "rgb(33, 33, 33)",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": "700",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "below-fold"
+    },
+    {
+      "label": "Save My Preferences",
+      "href": null,
+      "tag": "button",
+      "domPath": "div#ckyPreferenceCenter > div.cky-footer-wrapper > div.cky-prefrence-btn-wrapper > button.cky-btn.cky-btn-preferences",
+      "style": {
+        "backgroundColor": "rgb(239, 85, 32)",
+        "color": "rgb(255, 255, 255)",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": "500",
+        "borderRadius": "2px",
+        "padding": "8px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "below-fold"
+    },
+    {
+      "label": "Accept All",
+      "href": null,
+      "tag": "button",
+      "domPath": "div#ckyPreferenceCenter > div.cky-footer-wrapper > div.cky-prefrence-btn-wrapper > button.cky-btn.cky-btn-accept",
+      "style": {
+        "backgroundColor": "rgb(239, 85, 32)",
+        "color": "rgb(255, 255, 255)",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": "500",
+        "borderRadius": "2px",
+        "padding": "8px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "below-fold"
+    },
+    {
+      "label": "Solutions",
+      "href": "#",
+      "tag": "a",
+      "domPath": "div.container.mx-auto > div.navbar-header.flex > div.flex.items-center > ul.menu.nav > li.mx-2.xl:mx-5 > a.dropdown-toggle.flex",
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(41, 51, 56)",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": "700",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "fold"
+    },
+    {
+      "label": "Products",
+      "href": "#",
+      "tag": "a",
+      "domPath": "div.container.mx-auto > div.navbar-header.flex > div.flex.items-center > ul.menu.nav > li.mx-2.xl:mx-5 > a.dropdown-toggle.flex",
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(41, 51, 56)",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": "700",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "fold"
+    },
+    {
+      "label": "Developers",
+      "href": "#",
+      "tag": "a",
+      "domPath": "div.container.mx-auto > div.navbar-header.flex > div.flex.items-center > ul.menu.nav > li.mx-2.xl:mx-5 > a.dropdown-toggle.flex",
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(41, 51, 56)",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": "700",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "fold"
+    },
+    {
+      "label": "Discover",
+      "href": "#",
+      "tag": "a",
+      "domPath": "div.container.mx-auto > div.navbar-header.flex > div.flex.items-center > ul.menu.nav > li.mx-2.xl:mx-5 > a.dropdown-toggle.flex",
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(41, 51, 56)",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": "700",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "fold"
+    },
+    {
+      "label": "About",
+      "href": "#",
+      "tag": "a",
+      "domPath": "div.container.mx-auto > div.navbar-header.flex > div.flex.items-center > ul.menu.nav > li.mx-2.xl:mx-5 > a.dropdown-toggle.flex",
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(41, 51, 56)",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": "700",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "fold"
+    },
+    {
+      "label": "Toggle Navigation",
+      "href": null,
+      "tag": "button",
+      "domPath": "header#header > div.container.mx-auto > div.navbar-header.flex > div.flex.items-center > div.navbar-buttons.flex > button.navbar-toggle.collapsed",
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": "400",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "fold"
+    },
+    {
+      "label": "What are the four outcomes of Consumer Duty?",
+      "href": null,
+      "tag": "button",
+      "domPath": "button#panelLabel",
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(41, 51, 56)",
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "borderRadius": "0px",
+        "padding": "0px 75px 0px 0px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "below-fold"
+    },
+    {
+      "label": "How does Moneyhub support Consumer Duty compliance?",
+      "href": null,
+      "tag": "button",
+      "domPath": "button#panelLabel",
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(41, 51, 56)",
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "borderRadius": "0px",
+        "padding": "0px 75px 0px 0px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "below-fold"
+    },
+    {
+      "label": "What is the impact of a financial institution that doesn’t comply with Consumer Duty?",
+      "href": null,
+      "tag": "button",
+      "domPath": "button#panelLabel",
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(41, 51, 56)",
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "borderRadius": "0px",
+        "padding": "0px 75px 0px 0px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "below-fold"
+    },
+    {
+      "label": "Banking and Lending Solutions",
+      "href": "https://moneyhub.com/solutions/banking-and-lending-solutions/",
+      "tag": "a",
+      "domPath": "div.footer__nav--list > div.grid.grid-cols-2 > nav.col-span-1.pe-5 > ul > li > a.dropdown-toggle.flex",
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": "400",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "below-fold"
+    },
+    {
+      "label": "Pension and Wealth Solutions",
+      "href": "https://moneyhub.com/solutions/pension-and-wealth-solutions/",
+      "tag": "a",
+      "domPath": "div.footer__nav--list > div.grid.grid-cols-2 > nav.col-span-1.pe-5 > ul > li > a.dropdown-toggle.flex",
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": "400",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "below-fold"
+    }
+  ],
+  "links": {
+    "internal": [
+      {
+        "href": "/",
+        "text": "Moneyhub",
+        "domPath": "header#header > div.container.mx-auto > div.navbar-header.flex > div.flex.flex-wrap > a.block.mb-4---"
+      },
+      {
+        "href": "/solutions/banking-and-lending-solutions/",
+        "text": "Banking and Lending Solutions",
+        "domPath": "div.flex.items-center > ul.menu.nav > li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-post_type > a"
+      },
+      {
+        "href": "/solutions/banking-and-lending-solutions/transaction-categorisation-enrichment/",
+        "text": "Transaction Categorisation and Enrichment",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-post_type > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/solutions/banking-and-lending-solutions/smart-segmentation/",
+        "text": "Smart Segmentation",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-post_type > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/solutions/banking-and-lending-solutions/smart-money-actions/",
+        "text": "Smart Money Actions",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-post_type > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/solutions/banking-and-lending-solutions/smart-product-match/",
+        "text": "Smart Product Match",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-post_type > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/solutions/banking-and-lending-solutions/smart-payments/",
+        "text": "Smart Payments",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-post_type > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/solutions/banking-and-lending-solutions/smart-lending/",
+        "text": "Smart Lending",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-post_type > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/solutions/pension-and-wealth-solutions/",
+        "text": "Pension and Wealth Solutions",
+        "domPath": "div.flex.items-center > ul.menu.nav > li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-post_type > a"
+      },
+      {
+        "href": "/solutions/pension-and-wealth-solutions/win-schemes/",
+        "text": "Win Schemes",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-post_type > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/solutions/pension-and-wealth-solutions/build-and-retain/",
+        "text": "Build and Retain",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-post_type > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/solutions/pension-and-wealth-solutions/in-retirement/",
+        "text": "In Retirement",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-post_type > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/solutions/pension-and-wealth-solutions/pensions-dashboards/",
+        "text": "Pensions Dashboard",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-post_type > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/solutions/pension-and-wealth-solutions/targeted-support/",
+        "text": "Targeted Support",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-post_type > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/solutions/pension-and-wealth-solutions/smart-fact-find/",
+        "text": "Smart Fact Find",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-post_type > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/products/categorisation-enrichment-engine/",
+        "text": "Categorisation and Enrichment Engine",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-custom > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/products/data-aggregation/",
+        "text": "Data Aggregation",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-custom > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/products/data-insights-recommendations/",
+        "text": "Data Insights and Recommendations",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-custom > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/products/embedded-solutions-portals/",
+        "text": "Embedded Solutions and Portals",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-custom > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/products/data-explorer/",
+        "text": "Data Explorer",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-custom > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/products/payments/",
+        "text": "Payments",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-custom > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/articles/",
+        "text": "Articles",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-custom > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/case-studies/",
+        "text": "Case studies",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-custom > ul > li.menu-item.menu-item-type-custom > a.py-2.block"
+      },
+      {
+        "href": "/discover/guide-to-categorisation-and-enrichment/",
+        "text": "Categorisation and Enrichment",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-custom > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/press-releases/",
+        "text": "Press Releases",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-custom > ul > li.menu-item.menu-item-type-custom > a.py-2.block"
+      },
+      {
+        "href": "/use-cases/",
+        "text": "Use Cases",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-custom > ul > li.menu-item.menu-item-type-post_type_archive > a.py-2.block"
+      },
+      {
+        "href": "/webinars/",
+        "text": "Webinars",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-custom > ul > li.menu-item.menu-item-type-custom > a.py-2.block"
+      },
+      {
+        "href": "/about/",
+        "text": "About",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-custom > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/careers/",
+        "text": "Careers",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-custom > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/contact/",
+        "text": "CONTACT",
+        "domPath": "div.container.mx-auto > div.navbar-header.flex > div.flex.items-center > ul.menu.nav > li.btn-contact > a.button.button--primary"
+      },
+      {
+        "href": "/press-releases/latest-moneyhub-release-puts-an-end-to-unrecognised-transaction-panic/",
+        "text": "Latest Moneyhub release puts an end to unrecognised transaction panic",
+        "domPath": "header#header > a.header-banner"
+      },
+      {
+        "href": "/glossary/",
+        "text": "Glossary",
+        "domPath": "article.px-4.md:px-8 > div.container.mx-auto > header.post-header > div.grid.grid-cols-12 > p.col-span-12.mb-4 > a.flex.items-center"
+      },
+      {
+        "href": "/glossary/?_categories=banking",
+        "text": "Banking",
+        "domPath": "div.post-body.grid > div.col-span-12.lg:col-span-4 > div.sticky.top-32 > ul.list-none.flex > li.me-4.rounded-full > a"
+      },
+      {
+        "href": "/glossary/?_categories=lending",
+        "text": "Lending",
+        "domPath": "div.post-body.grid > div.col-span-12.lg:col-span-4 > div.sticky.top-32 > ul.list-none.flex > li.me-4.rounded-full > a"
+      },
+      {
+        "href": "/glossary/?_categories=pensions",
+        "text": "Pensions",
+        "domPath": "div.post-body.grid > div.col-span-12.lg:col-span-4 > div.sticky.top-32 > ul.list-none.flex > li.me-4.rounded-full > a"
+      },
+      {
+        "href": "/glossary/?_categories=wealth",
+        "text": "Wealth",
+        "domPath": "div.post-body.grid > div.col-span-12.lg:col-span-4 > div.sticky.top-32 > ul.list-none.flex > li.me-4.rounded-full > a"
+      },
+      {
+        "href": "/solutions/banking-and-lending-solutions/smart-lending/",
+        "text": "lend what the consumer can afford to repay.",
+        "domPath": "div.mb-10.mt-0 > table > tbody > tr > td > a"
+      },
+      {
+        "href": "/case-studies/how-spring-app-transformed-digital-savings-with-moneyhub/",
+        "text": "Paragon have done with the Spring app",
+        "domPath": "div.mb-10.mt-0 > table > tbody > tr > td > a"
+      },
+      {
+        "href": "/solutions/banking-and-lending-solutions/smart-product-match/",
+        "text": "suitability metrics",
+        "domPath": "div.mb-10.mt-0 > table > tbody > tr > td > a"
+      },
+      {
+        "href": "/solutions/banking-and-lending-solutions/smart-money-actions/",
+        "text": "LEARN MORE ABOUT SMART MONEY ACTIONS",
+        "domPath": "div.container.mx-auto > div.grid.grid-cols-12 > div.col-span-12.lg:py-16 > div.base-content.has-parent-dark > div.flex.gap-6 > a.button.button--secondary"
+      },
+      {
+        "href": "/glossary/nudges-in-financial-services/",
+        "text": "send timely nudges",
+        "domPath": "div#ctrl-panel- > span > p > a"
+      },
+      {
+        "href": "/glossary/agentic-ai-financial-services/",
+        "text": "Banking Lending Pensions Wealth Feb 10, 2026 What is Agentic AI in financial ser",
+        "domPath": "section.block.column-content-container > div.container.mx-auto > div.grid.grid-cols-12 > div.col-span-12.md:col-span-4 > article.col-span-12.md:col-span-6 > a.no-underline.has-parent-"
+      },
+      {
+        "href": "/glossary/merchant-identification/",
+        "text": "Banking Lending Pensions Wealth Feb 10, 2026 Why is merchant identification impo",
+        "domPath": "section.block.column-content-container > div.container.mx-auto > div.grid.grid-cols-12 > div.col-span-12.md:col-span-4 > article.col-span-12.md:col-span-6 > a.no-underline.has-parent-"
+      },
+      {
+        "href": "/glossary/nudges-in-financial-services/",
+        "text": "Banking Lending Pensions Wealth Feb 10, 2026 How to apply nudge theory in financ",
+        "domPath": "section.block.column-content-container > div.container.mx-auto > div.grid.grid-cols-12 > div.col-span-12.md:col-span-4 > article.col-span-12.md:col-span-6 > a.no-underline.has-parent-"
+      },
+      {
+        "href": "/contact/",
+        "text": "GET STARTED",
+        "domPath": "div.container.mx-auto > div.grid.grid-cols-12 > div.col-span-12.md:col-span-6 > div.base-content.has-parent- > div.flex.gap-6 > a.button.button--primary"
+      },
+      {
+        "href": "/policies/privacy-policy/",
+        "text": "Global Privacy Policy",
+        "domPath": "div.grid.grid-cols-2 > div.footer__nav--list.mb-6 > nav.pe-5 > ul > li > a.flex.items-center"
+      },
+      {
+        "href": "/policies/environmental-social-and-governance-report/",
+        "text": "ESG Report",
+        "domPath": "div.grid.grid-cols-2 > div.footer__nav--list.mb-6 > nav.pe-5 > ul > li > a.flex.items-center"
+      },
+      {
+        "href": "/policies/modern-slavery-and-human-trafficking-policy/",
+        "text": "Modern Slavery Policy",
+        "domPath": "div.grid.grid-cols-2 > div.footer__nav--list.mb-6 > nav.pe-5 > ul > li > a.flex.items-center"
+      },
+      {
+        "href": "/policies/security-and-trust-at-moneyhub/",
+        "text": "Security and Trust",
+        "domPath": "div.grid.grid-cols-2 > div.footer__nav--list.mb-6 > nav.pe-5 > ul > li > a.flex.items-center"
+      },
+      {
+        "href": "/policies/global-terms-of-use/",
+        "text": "Global Terms of Use",
+        "domPath": "div.grid.grid-cols-2 > div.footer__nav--list.mb-6 > nav.pe-5 > ul > li > a.flex.items-center"
+      },
+      {
+        "href": "/policies/api-terms-of-use/",
+        "text": "API Terms of Use",
+        "domPath": "div.grid.grid-cols-2 > div.footer__nav--list.mb-6 > nav.pe-5 > ul > li > a.flex.items-center"
+      },
+      {
+        "href": "/status/",
+        "text": "Connections Status",
+        "domPath": "div.grid.grid-cols-2 > div.footer__nav--list.mb-6 > nav.pe-5 > ul > li > a.flex.items-center"
+      },
+      {
+        "href": "/press-and-partners/",
+        "text": "Press and partners",
+        "domPath": "div.grid.grid-cols-2 > div.footer__nav--list.mb-6 > nav.pe-5 > ul > li > a.flex.items-center"
+      },
+      {
+        "href": "/glossary",
+        "text": "Glossary",
+        "domPath": "div.grid.grid-cols-2 > div.footer__nav--list.mb-6 > nav.pe-5 > ul > li > a.flex.items-center"
+      }
+    ],
+    "external": [
+      {
+        "href": "https://www.cookieyes.com/product/cookie-consent/?ref=cypbcyb&utm_source=cookie-banner&utm_medium=fl-branding",
+        "text": "",
+        "domPath": "div.cky-hide.cky-consent-container > div.cky-consent-bar > div > div > div > a"
+      },
+      {
+        "href": "https://docs.moneyhubenterprise.com/",
+        "text": "API Developer Hub",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-custom > ul > li.menu-item.menu-item-type-custom > a.py-2.block"
+      },
+      {
+        "href": "https://docs.moneyhubenterprise.com/docs/admin-portal-sign-up",
+        "text": "Access Sandbox",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-custom > ul > li.menu-item.menu-item-type-custom > a.py-2.block"
+      },
+      {
+        "href": "https://www.linkedin.com/shareArticle?url=https://moneyhub.com/glossary/consumer-duty/",
+        "text": "LinkedIn",
+        "domPath": "div.container.mx-auto > header.post-header > div.grid.grid-cols-12 > div.mb-12.col-span-12 > p.flex.gap-4 > a.hover:underline"
+      },
+      {
+        "href": "https://www.fca.org.uk/firms/consumer-duty",
+        "text": "Consumer Duty",
+        "domPath": "article.px-4.md:px-8 > div.container.mx-auto > div.post-body.grid > div.post-content.basic-content--wysiwyg > p.wp-block-paragraph > a"
+      },
+      {
+        "href": "https://www.fca.org.uk/firms/senior-managers-certification-regime",
+        "text": "Senior Managers and Certification Regime",
+        "domPath": "div.grid.grid-cols-12 > div.col-span-12.md:col-span-6 > div.base-content.has-parent-light > div.mb-10.mt-0 > p > a"
+      },
+      {
+        "href": "https://www.fca.org.uk/publication/final-notices/philip-pryke-2024.pdf",
+        "text": "unsuitable pension transfer recommendations",
+        "domPath": "article.px-4.md:px-8 > div.container.mx-auto > div.post-body.grid > div.post-content.basic-content--wysiwyg > p.wp-block-paragraph > a"
+      },
+      {
+        "href": "https://www.nao.org.uk/wp-content/uploads/2022/03/Investigation-into-the-British-Steel-pension-scheme.pdf",
+        "text": "15 individuals were banned from providing financial advice,",
+        "domPath": "article.px-4.md:px-8 > div.container.mx-auto > div.post-body.grid > div.post-content.basic-content--wysiwyg > p.wp-block-paragraph > a"
+      },
+      {
+        "href": "https://www.linkedin.com/company/10994971",
+        "text": "LinkedIn",
+        "domPath": "div.footer__content.grid > div.col-span-12.md:col-span-3 > div.col-span-1.md:col-span-2 > ul.footer__social--- > li > a"
+      }
+    ]
+  },
+  "media": {
+    "images": [
+      {
+        "src": "https://cdn-cookieyes.com/assets/images/close.svg",
+        "srcset": null,
+        "alt": "cky-close-icon",
+        "naturalWidth": 10,
+        "naturalHeight": 10
+      },
+      {
+        "src": "https://moneyhub.com/wp-content/uploads/2026/03/Photo-NK-1-182x182-c-default.jpg",
+        "srcset": null,
+        "alt": "Nejc Korosec",
+        "naturalWidth": 182,
+        "naturalHeight": 182
+      },
+      {
+        "src": "https://moneyhub.com/wp-content/uploads/2026/03/Timeline.png",
+        "srcset": "https://moneyhub.com/wp-content/uploads/2026/03/Timeline-1024x519.png 1024w, https://moneyhub.com/wp-content/uploads/2026/03/Timeline-300x152.png 300w, https://moneyhub.com/wp-content/uploads/2026/03/Timeline-768x389.png 768w, https://moneyhub.com/wp-content/uploads/2026/03/Timeline-1536x778.png 1536w, https://moneyhub.com/wp-content/uploads/2026/03/Timeline.png 1664w",
+        "alt": "Timeline of Consumer Duty introduction from 2022 to 2024",
+        "naturalWidth": 789,
+        "naturalHeight": 399
+      },
+      {
+        "src": "https://moneyhub.com/wp-content/uploads/2026/03/Key-principles-768x619.jpg",
+        "srcset": "https://moneyhub.com/wp-content/uploads/2026/03/Key-principles-1024x826.jpg 1024w, https://moneyhub.com/wp-content/uploads/2026/03/Key-principles-300x242.jpg 300w, https://moneyhub.com/wp-content/uploads/2026/03/Key-principles-768x619.jpg 768w, https://moneyhub.com/wp-content/uploads/2026/03/Key-principles.jpg 1085w",
+        "alt": "Key Principles of Consumer Duty regulation",
+        "naturalWidth": 342,
+        "naturalHeight": 275
+      },
+      {
+        "src": "https://moneyhub.com/glossary/consumer-duty/",
+        "srcset": null,
+        "alt": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://moneyhub.com/glossary/consumer-duty/",
+        "srcset": null,
+        "alt": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://moneyhub.com/glossary/consumer-duty/",
+        "srcset": null,
+        "alt": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://moneyhub.com/wp-content/themes/moneyhub/img/CCSS-logo.png",
+        "srcset": null,
+        "alt": "Crown Commercial Service Supplier",
+        "naturalWidth": 234,
+        "naturalHeight": 189
+      },
+      {
+        "src": "https://bat.bing.com/action/0?ti=52007878&tm=gtm002&Ver=2&mid=207b7991-bd7d-4b49-93ac-d37a2baca409&bo=3&sid=4a0a9730720911f1a6cd5372eabfffa5&vid=4a0a80c0720911f1a397b9b6ec4068d7&vids=0&msclkid=N&pi=0&lg=en-US&sw=1440&sh=900&sc=24&nwd=1&tl=What%20is%20Consumer%20Duty%3F%20-%20Moneyhub&p=https%3A%2F%2Fmoneyhub.com%2Fglossary%2Fconsumer-duty%2F&r=&lt=657&evt=pageLoad&sv=2&asc=G&cdb=AQcT&rn=309314",
+        "srcset": null,
+        "alt": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      }
+    ],
+    "inlineSvgCount": 14,
+    "iframes": [
+      {
+        "src": "https://16925211.fls.doubleclick.net/activityi;src=16925211;type=land0;cat=smp-a0;rcb=17;ord=8316809145354;npa=0;auiddc=1826515049.1782551964;gdid=dY2Q2ZW;uaa=x86;uab=64;uafvl=HeadlessChrome%3B149.0.7827.55%7CChromium%3B149.0.7827.55%7CNot)A%253BBrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=10_15_7;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe66p0h2v9251705574z8845167050za20gzb845167050zd845167050xea;gcs=G111;gcd=13r3r3r2r5l1;dma_cps=a;dma=1;dc_fmt=2;tag_exp=115938466~115938468~118395335~119027224~119576891~119576895;epver=2;dc_random=1782552058_6Ta5N_o5S8-hjwkjpacvTvXl6bOOUGDn4A;_dc_test=1;~oref=https%3A%2F%2Fmoneyhub.com%2Fglossary%2Fconsumer-duty%2F?",
+        "title": null
+      },
+      {
+        "src": "https://16925211.fls.doubleclick.net/activityi;src=16925211;type=land0;cat=smp-20;rcb=17;ord=7073606349543;npa=0;auiddc=1826515049.1782551964;gdid=dY2Q2ZW;uaa=x86;uab=64;uafvl=HeadlessChrome%3B149.0.7827.55%7CChromium%3B149.0.7827.55%7CNot)A%253BBrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=10_15_7;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe66p0h2v9251705574z8845167050za20gzb845167050zd845167050xea;gcs=G111;gcd=13r3r3r2r5l1;dma_cps=a;dma=1;dc_fmt=2;tag_exp=115938466~115938468~118395335~119027224~119576891~119576895;epver=2;dc_random=1782552058_HAUMBXpbLBqTAqF2MkrsOHhj3oHoxOz6ZA;_dc_test=1;~oref=https%3A%2F%2Fmoneyhub.com%2Fglossary%2Fconsumer-duty%2F?",
+        "title": null
+      },
+      {
+        "src": "https://16925211.fls.doubleclick.net/activityi;src=16925211;type=land0;cat=smp-20;rcb=17;ord=7246041124652;npa=0;auiddc=1826515049.1782551964;gdid=dY2Q2ZW;uaa=x86;uab=64;uafvl=HeadlessChrome%3B149.0.7827.55%7CChromium%3B149.0.7827.55%7CNot)A%253BBrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=10_15_7;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe66p0h2v9251705574z8845167050za20gzb845167050zd845167050xea;gcs=G111;gcd=13r3r3r2r5l1;dma_cps=a;dma=1;dc_fmt=2;tag_exp=115938466~115938468~118395335~119027224~119576891~119576895;epver=2;dc_random=1782552058_jn4zm-U8PLUmruF2_-Kk5Pl1q3Hz1ND8Yw;_dc_test=1;~oref=https%3A%2F%2Fmoneyhub.com%2Fglossary%2Fconsumer-duty%2F?",
+        "title": null
+      },
+      {
+        "src": "",
+        "title": "archetype"
+      },
+      {
+        "src": "https://16925211.fls.doubleclick.net/activityi;src=16925211;type=land0;cat=smp-50;rcb=17;ord=2028965972972;npa=0;auiddc=1826515049.1782551964;gdid=dY2Q2ZW;uaa=x86;uab=64;uafvl=HeadlessChrome%3B149.0.7827.55%7CChromium%3B149.0.7827.55%7CNot)A%253BBrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=10_15_7;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe66p0h2v9251705574z8845167050za20gzb845167050zd845167050xea;gcs=G111;gcd=13r3r3r2r5l1;dma_cps=a;dma=1;dc_fmt=2;tag_exp=115938466~115938468~118395335~119027224~119576891~119576895;epver=2;dc_random=1782552061_3x-ppU1ZvL4xcrvOh86rZYnftpWKmlVe1w;_dc_test=1;~oref=https%3A%2F%2Fmoneyhub.com%2Fglossary%2Fconsumer-duty%2F?",
+        "title": null
+      },
+      {
+        "src": "https://16925211.fls.doubleclick.net/activityi;src=16925211;type=land0;cat=smp-80;rcb=17;ord=5986286453739;npa=0;auiddc=1826515049.1782551964;gdid=dY2Q2ZW;uaa=x86;uab=64;uafvl=HeadlessChrome%3B149.0.7827.55%7CChromium%3B149.0.7827.55%7CNot)A%253BBrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=10_15_7;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe66p0h2v9251705574z8845167050za20gzb845167050zd845167050xea;gcs=G111;gcd=13r3r3r2r5l1;dma_cps=a;dma=1;dc_fmt=2;tag_exp=115938466~115938468~118395335~119027224~119576891~119576895;epver=2;dc_random=1782552063_dWIyl7_ZVLtENAe-G2Q1bAOW2fVcksQ0_A;_dc_test=1;~oref=https%3A%2F%2Fmoneyhub.com%2Fglossary%2Fconsumer-duty%2F?",
+        "title": null
+      }
+    ],
+    "videos": [],
+    "cssBackgrounds": [
+      {
+        "urls": [
+          "https://moneyhub.com/wp-content/themes/moneyhub/img/pattern.webp"
+        ],
+        "domPath": "html > body.wp-singular.glossary-template-default",
+        "rect": {
+          "w": 1440,
+          "h": 12921,
+          "top": 0
+        },
+        "backgroundSize": "238px 137px",
+        "backgroundPosition": "0% 0%",
+        "backgroundRepeat": "repeat"
+      }
+    ]
+  },
+  "forms": [
+    {
+      "action": null,
+      "method": "get",
+      "fields": [
+        {
+          "type": "select-one",
+          "name": null
+        },
+        {
+          "type": "select-one",
+          "name": null
+        }
+      ]
+    }
+  ],
+  "widgets": {
+    "modals": 1,
+    "accordions": 17,
+    "tabs": 0
+  },
+  "perSectionStyle": [
+    {
+      "landmark": "div",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Lato, sans-serif"
+    },
+    {
+      "landmark": "header#header",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Lato, sans-serif"
+    },
+    {
+      "landmark": "a",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Lato, sans-serif"
+    },
+    {
+      "landmark": "main#main",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Lato, sans-serif"
+    },
+    {
+      "landmark": "header",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Lato, sans-serif"
+    },
+    {
+      "landmark": "footer#footer",
+      "backgroundColor": "rgb(102, 102, 102)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "48px 64px",
+      "fontFamily": "Lato, sans-serif"
+    },
+    {
+      "landmark": "a",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "padding": "0px",
+      "fontFamily": "Lato, sans-serif"
+    },
+    {
+      "landmark": "nav",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "padding": "0px 20px 0px 0px",
+      "fontFamily": "Lato, sans-serif"
+    },
+    {
+      "landmark": "nav",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "padding": "0px 20px 0px 0px",
+      "fontFamily": "Lato, sans-serif"
+    },
+    {
+      "landmark": "nav",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "padding": "0px 20px 0px 0px",
+      "fontFamily": "Lato, sans-serif"
+    },
+    {
+      "landmark": "nav",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "padding": "0px 20px 0px 0px",
+      "fontFamily": "Lato, sans-serif"
+    },
+    {
+      "landmark": "nav",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "padding": "0px 20px 0px 0px",
+      "fontFamily": "Lato, sans-serif"
+    },
+    {
+      "landmark": "nav",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "padding": "0px",
+      "fontFamily": "Lato, sans-serif"
+    },
+    {
+      "landmark": "nav",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "padding": "0px 20px 0px 0px",
+      "fontFamily": "Lato, sans-serif"
+    }
+  ],
+  "cssCustomProperties": [
+    {
+      "name": "--tw-ring-offset-shadow",
+      "value": "0 0 #0000"
+    },
+    {
+      "name": "--wp--preset--gradient--midnight",
+      "value": "linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%)"
+    },
+    {
+      "name": "--tw-backdrop-sepia",
+      "value": ""
+    },
+    {
+      "name": "--tw-ring-shadow",
+      "value": "0 0 #0000"
+    },
+    {
+      "name": "--wp-admin-theme-color-darker-20",
+      "value": "#005a87"
+    },
+    {
+      "name": "--wp--preset--font-size--large",
+      "value": "36px"
+    },
+    {
+      "name": "--wp--preset--shadow--outlined",
+      "value": "6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0)"
+    },
+    {
+      "name": "--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan",
+      "value": "linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%)"
+    },
+    {
+      "name": "--wp--preset--gradient--blush-light-purple",
+      "value": "linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%)"
+    },
+    {
+      "name": "--tw-sepia",
+      "value": ""
+    },
+    {
+      "name": "--wp--preset--color--dark",
+      "value": "#666666"
+    },
+    {
+      "name": "--wp--preset--color--vivid-purple",
+      "value": "#9b51e0"
+    },
+    {
+      "name": "--wp--preset--aspect-ratio--16-9",
+      "value": "16/9"
+    },
+    {
+      "name": "--tw-ordinal",
+      "value": ""
+    },
+    {
+      "name": "--wp--preset--color--pale-pink",
+      "value": "#f78da7"
+    },
+    {
+      "name": "--tw-backdrop-saturate",
+      "value": ""
+    },
+    {
+      "name": "--wp-block-synced-color--rgb",
+      "value": "122,0,223"
+    },
+    {
+      "name": "--tw-contain-style",
+      "value": ""
+    },
+    {
+      "name": "--wp-bound-block-color",
+      "value": "#7a00df"
+    },
+    {
+      "name": "--wp--preset--color--cyan-bluish-gray",
+      "value": "#abb8c3"
+    },
+    {
+      "name": "--tw-ring-inset",
+      "value": ""
+    },
+    {
+      "name": "--tw-backdrop-invert",
+      "value": ""
+    },
+    {
+      "name": "--wp--preset--gradient--electric-grass",
+      "value": "linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%)"
+    },
+    {
+      "name": "--wp--preset--gradient--blush-bordeaux",
+      "value": "linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%)"
+    },
+    {
+      "name": "--wp--preset--spacing--60",
+      "value": "2.25rem"
+    },
+    {
+      "name": "--tw-numeric-spacing",
+      "value": ""
+    },
+    {
+      "name": "--wp--preset--color--vivid-green-cyan",
+      "value": "#00d084"
+    },
+    {
+      "name": "--wp--preset--shadow--deep",
+      "value": "12px 12px 50px rgba(0, 0, 0, 0.4)"
+    },
+    {
+      "name": "--tw-border-spacing-x",
+      "value": "0"
+    },
+    {
+      "name": "--wp-editor-canvas-background",
+      "value": "#ddd"
+    },
+    {
+      "name": "--tw-brightness",
+      "value": ""
+    },
+    {
+      "name": "--tw-backdrop-grayscale",
+      "value": ""
+    },
+    {
+      "name": "--tw-hue-rotate",
+      "value": ""
+    },
+    {
+      "name": "--tw-scale-y",
+      "value": "1"
+    },
+    {
+      "name": "--wp-admin-theme-color-darker-20--rgb",
+      "value": "0,90,135"
+    },
+    {
+      "name": "--wp--preset--spacing--40",
+      "value": "1rem"
+    },
+    {
+      "name": "--tw-pan-y",
+      "value": ""
+    },
+    {
+      "name": "--tw-backdrop-contrast",
+      "value": ""
+    },
+    {
+      "name": "--tw-drop-shadow",
+      "value": ""
+    },
+    {
+      "name": "--wp-admin-theme-color--rgb",
+      "value": "0,124,186"
+    },
+    {
+      "name": "--wp--preset--color--feature",
+      "value": "#3bb143"
+    },
+    {
+      "name": "--wp-admin-theme-color",
+      "value": "#007cba"
+    },
+    {
+      "name": "--tw-backdrop-brightness",
+      "value": ""
+    },
+    {
+      "name": "--tw-ring-color",
+      "value": "rgb(59 130 246 / 0.5)"
+    },
+    {
+      "name": "--wp--preset--aspect-ratio--3-2",
+      "value": "3/2"
+    },
+    {
+      "name": "--wp--preset--color--luminous-vivid-orange",
+      "value": "#ff6900"
+    },
+    {
+      "name": "--tw-pan-x",
+      "value": ""
+    },
+    {
+      "name": "--tw-translate-y",
+      "value": "0"
+    },
+    {
+      "name": "--wp--preset--font-size--x-large",
+      "value": "42px"
+    },
+    {
+      "name": "--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple",
+      "value": "linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%)"
+    },
+    {
+      "name": "--wp--preset--font-size--huge",
+      "value": "42px"
+    },
+    {
+      "name": "--wp--preset--aspect-ratio--2-3",
+      "value": "2/3"
+    },
+    {
+      "name": "--wp--preset--font-size--normal",
+      "value": "16px"
+    },
+    {
+      "name": "--tw-rotate",
+      "value": "0"
+    },
+    {
+      "name": "--tw-ring-offset-color",
+      "value": "#fff"
+    },
+    {
+      "name": "--tw-contain-size",
+      "value": ""
+    },
+    {
+      "name": "--tw-contrast",
+      "value": ""
+    },
+    {
+      "name": "--wp-admin-theme-color-darker-10--rgb",
+      "value": "0,107,160.5"
+    },
+    {
+      "name": "--wp--preset--color--vivid-cyan-blue",
+      "value": "#0693e3"
+    },
+    {
+      "name": "--wp--preset--shadow--natural",
+      "value": "6px 6px 9px rgba(0, 0, 0, 0.2)"
+    },
+    {
+      "name": "--wp--preset--spacing--30",
+      "value": "0.67rem"
+    },
+    {
+      "name": "--wp--preset--aspect-ratio--4-3",
+      "value": "4/3"
+    },
+    {
+      "name": "--wp--preset--spacing--50",
+      "value": "1.5rem"
+    },
+    {
+      "name": "--wp--preset--color--pale-cyan-blue",
+      "value": "#8ed1fc"
+    },
+    {
+      "name": "--tw-skew-x",
+      "value": "0"
+    },
+    {
+      "name": "--wp--preset--font-size--small",
+      "value": "13px"
+    },
+    {
+      "name": "--wp--preset--spacing--70",
+      "value": "3.38rem"
+    },
+    {
+      "name": "--wp--preset--color--grey",
+      "value": "#fafafa"
+    },
+    {
+      "name": "--tw-backdrop-blur",
+      "value": ""
+    },
+    {
+      "name": "--tw-shadow",
+      "value": "0 0 #0000"
+    },
+    {
+      "name": "--tw-translate-x",
+      "value": "0"
+    },
+    {
+      "name": "--tw-ring-offset-width",
+      "value": "0px"
+    },
+    {
+      "name": "--wp--preset--gradient--luminous-dusk",
+      "value": "linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%)"
+    },
+    {
+      "name": "--tw-gradient-via-position",
+      "value": ""
+    },
+    {
+      "name": "--wp-block-synced-color",
+      "value": "#7a00df"
+    },
+    {
+      "name": "--wp--preset--color--luminous-vivid-amber",
+      "value": "#fcb900"
+    },
+    {
+      "name": "--tw-saturate",
+      "value": ""
+    },
+    {
+      "name": "--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange",
+      "value": "linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%)"
+    },
+    {
+      "name": "--tw-scroll-snap-strictness",
+      "value": "proximity"
+    },
+    {
+      "name": "--wp--preset--aspect-ratio--9-16",
+      "value": "9/16"
+    },
+    {
+      "name": "--wp--preset--color--vivid-red",
+      "value": "#cf2e2e"
+    },
+    {
+      "name": "--tw-grayscale",
+      "value": ""
+    },
+    {
+      "name": "--bs-link-color-rgb",
+      "value": "#000"
+    },
+    {
+      "name": "--wp--preset--shadow--crisp",
+      "value": "6px 6px 0px rgb(0, 0, 0)"
+    },
+    {
+      "name": "--wp--preset--color--light-green-cyan",
+      "value": "#7bdcb5"
+    },
+    {
+      "name": "--tw-scale-x",
+      "value": "1"
+    },
+    {
+      "name": "--tw-backdrop-hue-rotate",
+      "value": ""
+    },
+    {
+      "name": "--tw-shadow-colored",
+      "value": "0 0 #0000"
+    },
+    {
+      "name": "--wp-admin-border-width-focus",
+      "value": "1.5px"
+    },
+    {
+      "name": "--wp--preset--aspect-ratio--square",
+      "value": "1"
+    },
+    {
+      "name": "--wp--preset--shadow--sharp",
+      "value": "6px 6px 0px rgba(0, 0, 0, 0.2)"
+    },
+    {
+      "name": "--tw-border-spacing-y",
+      "value": "0"
+    },
+    {
+      "name": "--sa-uid",
+      "value": "'0-6157e078-8982-5b6c-6f13-f97dd91cba9f'"
+    },
+    {
+      "name": "--wp--preset--gradient--pale-ocean",
+      "value": "linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%)"
+    },
+    {
+      "name": "--tw-numeric-fraction",
+      "value": ""
+    },
+    {
+      "name": "--wp--preset--spacing--80",
+      "value": "5.06rem"
+    },
+    {
+      "name": "--wp--preset--color--white",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "--tw-gradient-to-position",
+      "value": ""
+    },
+    {
+      "name": "--wp--preset--font-size--medium",
+      "value": "20px"
+    },
+    {
+      "name": "--wp--preset--aspect-ratio--3-4",
+      "value": "3/4"
+    },
+    {
+      "name": "--wp--preset--color--black",
+      "value": "#000000"
+    },
+    {
+      "name": "--wp-admin-theme-color-darker-10",
+      "value": "#006ba1"
+    },
+    {
+      "name": "--tw-skew-y",
+      "value": "0"
+    },
+    {
+      "name": "--tw-slashed-zero",
+      "value": ""
+    },
+    {
+      "name": "--tw-blur",
+      "value": ""
+    },
+    {
+      "name": "--wp--preset--gradient--luminous-vivid-orange-to-vivid-red",
+      "value": "linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%)"
+    },
+    {
+      "name": "--tw-invert",
+      "value": ""
+    },
+    {
+      "name": "--wp--preset--spacing--20",
+      "value": "0.44rem"
+    },
+    {
+      "name": "--tw-backdrop-opacity",
+      "value": ""
+    },
+    {
+      "name": "--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray",
+      "value": "linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%)"
+    },
+    {
+      "name": "--tw-gradient-from-position",
+      "value": ""
+    },
+    {
+      "name": "--tw-numeric-figure",
+      "value": ""
+    },
+    {
+      "name": "--tw-pinch-zoom",
+      "value": ""
+    },
+    {
+      "name": "--tw-contain-paint",
+      "value": ""
+    },
+    {
+      "name": "--tw-contain-layout",
+      "value": ""
+    },
+    {
+      "name": "--wp--preset--gradient--cool-to-warm-spectrum",
+      "value": "linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%)"
+    }
+  ],
+  "logo": {
+    "type": "inline-svg",
+    "markup": "<svg width=\"177\" height=\"30\" viewBox=\"0 0 177 30\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n        <path d=\"M173.445 7.87843L163.177 13.6835L173.476 19.4358L176.035 15.0952C176.564 14.1964 176.559 13.0967 176.025 12.2032L173.445 7.87843Z\" fill=\"#EF551F\"></path>\n        <path d=\"M161.009 12.4781L160.978 0.920807L155.839 0.936668C154.776 0.936668 153.798 1.4918 153.269 2.39059L150.71 6.73119L161.009 12.4834V12.4781Z\" fill=\"#EF551F\"></path>\n        <path d=\"M167.566 0.899719H167.555L162.416 0.91558L162.448 12.4729L172.715 6.66781L170.135 2.34306C169.601 1.44956 168.623 0.905006 167.566 0.905006\" fill=\"#EF551F\"></path>\n        <path d=\"M149.997 7.94193L147.438 12.2825C146.909 13.1813 146.914 14.281 147.443 15.1745L153.333 25.04C153.867 25.9335 154.85 26.4833 155.908 26.4781L167.629 26.4463C168.691 26.4463 169.67 25.8912 170.198 24.9924L172.757 20.6518L149.997 7.93665V7.94193Z\" fill=\"#EF551F\"></path>\n        <path d=\"M15.1736 7.46072C13.5769 7.46072 12.1019 8.06872 11.0022 9.14197C10.9387 9.20013 10.8965 9.28472 10.8383 9.34288C9.75975 8.14802 8.1578 7.46072 6.18576 7.46072C4.58909 7.46072 3.00829 8.06872 1.9086 9.14197C0.703167 10.3368 0 11.9969 0 13.9214V21.6615H2.99243V13.7416C2.99243 12.5468 3.70088 10.2998 6.10645 10.2998C7.60267 10.2998 8.7658 10.9713 9.03544 12.7688V21.6827H12.2552V13.8844C12.2552 13.4984 12.2764 13.1336 12.2552 12.7477C12.3609 11.5105 13.3126 10.2945 15.1419 10.2945C16.9712 10.2945 18.3194 11.7749 18.3194 13.6782V21.6774H21.3488V13.8791C21.3277 9.97203 18.9591 7.45543 15.1842 7.45543\" fill=\"#EF551F\"></path>\n        <path d=\"M27.434 14.7198C27.434 17.1994 29.0994 19.2296 31.8328 19.2296C34.5661 19.2296 36.2738 17.1994 36.2738 14.7198C36.2738 12.2402 34.4604 10.1466 31.8328 10.1466C29.2051 10.1466 27.434 12.2613 27.434 14.7198ZM39.3191 14.7198C39.3191 18.8436 36.3796 21.9365 31.8539 21.9365C27.3283 21.9365 24.4521 18.8278 24.4521 14.7198C24.4521 10.6118 27.3917 7.46606 31.8539 7.46606C36.3161 7.46606 39.3191 10.6382 39.3191 14.7198Z\" fill=\"#EF551F\"></path>\n        <path d=\"M48.6241 7.46083C45.177 7.46083 41.9995 9.80825 41.9995 14.0167V21.6828H44.9496V13.7946C44.9496 12.198 46.007 9.48574 49.6445 10.0937C51.3046 10.3792 52.5312 11.775 52.5312 13.4087V21.6405H55.4813V13.9321C55.439 9.9087 52.6369 7.46083 48.6241 7.46083Z\" fill=\"#EF551F\"></path>\n        <path d=\"M70.2481 13.3399C70.0842 11.1511 68.4241 10.0144 66.0344 10.0144C63.8773 10.0144 62.0903 11.1669 61.6145 13.3399H70.2481ZM61.5722 15.7719C61.8419 17.8603 63.6289 19.2402 66.2195 19.2402C67.6522 19.2402 69.4762 18.7115 70.3486 17.7598L72.2783 19.5838C70.8033 21.1435 68.3554 21.9365 66.1772 21.9365C61.5088 21.9365 58.5005 19.0604 58.5005 14.6405C58.5005 10.2206 61.5299 7.46606 65.971 7.46606C70.412 7.46606 73.6688 10.1836 73.1295 15.7983L61.5722 15.7772V15.7719Z\" fill=\"#EF551F\"></path>\n        <path d=\"M85.7122 8.11633L82.7462 14.9312L81.1548 18.9546L79.6691 14.8731L77.0997 8.11633H73.4517L79.4154 22.2431L76.3383 29.1003H79.7749L89.1963 8.11633H85.7122Z\" fill=\"#EF551F\"></path>\n        <path d=\"M95.4617 1.55522V9.85577C96.7094 8.09521 98.3854 7.50835 100.082 7.50835C104.09 7.50835 105.951 10.2311 105.951 14.3814V22.1956H102.964V14.4026C102.964 11.6798 101.573 10.3157 99.3846 10.3157C97.0742 10.3157 95.4564 12.2613 95.4564 14.6299V22.1744H92.4692V1.55522H95.4564H95.4617Z\" fill=\"#EF551F\"></path>\n        <path d=\"M116.054 22.4547C119.433 22.4547 122.584 19.9752 122.584 15.6187V7.64594H119.697V15.698C119.697 17.1889 118.835 19.6315 116.075 19.6315C113.966 19.6315 112.248 17.8657 112.248 15.698V7.64594H109.361V15.6821C109.34 19.8694 112.126 22.4547 116.054 22.4547Z\" fill=\"#EF551F\"></path>\n        <path d=\"M133.581 19.7477C131.048 19.7477 128.849 17.8338 128.849 15.0582C128.849 12.4728 130.747 10.3686 133.581 10.3686C136.414 10.3686 138.027 12.4728 138.027 15.0582C138.006 17.9184 136.087 19.7477 133.581 19.7477ZM128.891 1.55522H125.909V14.889C125.909 19.4093 129.399 22.5445 133.581 22.5445C137.763 22.5445 141.009 19.7054 141.009 15.0582C141.009 10.707 138.069 7.5718 133.565 7.5718C130.34 7.5718 128.912 9.8029 128.891 9.82405\" fill=\"#EF551F\"></path>\n    </svg>"
+  },
+  "stats": {
+    "wordCount": 2870,
+    "ctaCount": 23,
+    "internalLinkCount": 54,
+    "externalLinkCount": 9,
+    "imageCount": 9
+  },
+  "screenshot": "stardust/current/assets/screenshots/glossary-consumer-duty.png"
+}

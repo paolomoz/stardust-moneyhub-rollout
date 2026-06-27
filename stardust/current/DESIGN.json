@@ -1,0 +1,37 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:extract",
+    "writtenAt": "2026-06-27T00:00:00Z",
+    "scope": "descriptive — current state of moneyhub.com",
+    "stardustVersion": "0.13.0"
+  },
+  "colors": {
+    "primary": "#EF5520",
+    "ink": "#293338",
+    "text": "#212121",
+    "background": "#FFFFFF",
+    "surface": "#666666",
+    "border": "#000000"
+  },
+  "typography": {
+    "heading": { "family": "Raleway", "weights": [700, 800] },
+    "body": { "family": "Lato", "weights": [400, 700] },
+    "scale": ["64px", "48px", "32px", "24px", "18px", "16px"]
+  },
+  "rounded": "0px",
+  "spacing": "full-bleed alternating color-block sections, generous vertical rhythm",
+  "components": ["sticky-header", "trust-strip", "split-image-text", "card-grid", "case-study-quote", "case-study-carousel", "alternating-color-blocks", "geometric-confetti", "footer-columns"],
+  "extensions": {
+    "componentStyle": {
+      "button": { "radius": "2px", "primaryBg": "#EF5520", "primaryColor": "#FFFFFF", "style": "solid, uppercase or sentence-case, square" },
+      "card": { "radius": "0px", "border": "1px solid rgba(0,0,0,0.1)", "shadow": "none" },
+      "section": { "fullBleed": true, "alternating": ["#FFFFFF", "#293338", "#EF5520"] }
+    },
+    "motifs": ["geometric-confetti (orange triangles + grey blobs)", "square corners", "single-accent discipline", "flat depth"],
+    "voice": {
+      "headline": "Build for real life",
+      "tone": "confident, plain-spoken, outcome-led B2B",
+      "ctas": ["Get started", "Explore", "Learn more", "Read case study", "Contact"]
+    }
+  }
+}

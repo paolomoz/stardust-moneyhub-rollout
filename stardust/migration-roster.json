@@ -1,0 +1,837 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:extract roster builder",
+    "writtenAt": "2026-06-27T09:25:26.121Z"
+  },
+  "caps": {
+    "overall": 100,
+    "perTemplate": 20
+  },
+  "counts": {
+    "discovered200": 102,
+    "inRoster": 100,
+    "dropped": 2
+  },
+  "byTemplate": {
+    "home": 1,
+    "form": 2,
+    "listing": 8,
+    "policy": 6,
+    "solution-overview": 2,
+    "static": 3,
+    "article": 20,
+    "case-study": 10,
+    "glossary-entry": 4,
+    "press-release": 18,
+    "product-detail": 6,
+    "solution-detail": 12,
+    "use-case-detail": 5,
+    "webinar": 3
+  },
+  "roster": [
+    {
+      "url": "https://moneyhub.com/",
+      "path": "/",
+      "slug": "home",
+      "template": "home",
+      "navLinked": true,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/contact/",
+      "path": "/contact/",
+      "slug": "contact",
+      "template": "form",
+      "navLinked": true,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/articles/",
+      "path": "/articles/",
+      "slug": "articles",
+      "template": "listing",
+      "navLinked": true,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/press-and-partners/",
+      "path": "/press-and-partners/",
+      "slug": "press-and-partners",
+      "template": "listing",
+      "navLinked": true,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/case-studies/",
+      "path": "/case-studies/",
+      "slug": "case-studies",
+      "template": "listing",
+      "navLinked": true,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/webinars/",
+      "path": "/webinars/",
+      "slug": "webinars",
+      "template": "listing",
+      "navLinked": true,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/glossary/",
+      "path": "/glossary/",
+      "slug": "glossary",
+      "template": "listing",
+      "navLinked": true,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/use-cases/",
+      "path": "/use-cases/",
+      "slug": "use-cases",
+      "template": "listing",
+      "navLinked": true,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/products/",
+      "path": "/products/",
+      "slug": "products",
+      "template": "listing",
+      "navLinked": true,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/policies/security-and-trust-at-moneyhub/",
+      "path": "/policies/security-and-trust-at-moneyhub/",
+      "slug": "policies-security-and-trust-at-moneyhub",
+      "template": "policy",
+      "navLinked": true,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/policies/environmental-social-and-governance-report/",
+      "path": "/policies/environmental-social-and-governance-report/",
+      "slug": "policies-environmental-social-and-governance-report",
+      "template": "policy",
+      "navLinked": true,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/policies/modern-slavery-and-human-trafficking-policy/",
+      "path": "/policies/modern-slavery-and-human-trafficking-policy/",
+      "slug": "policies-modern-slavery-and-human-trafficking-policy",
+      "template": "policy",
+      "navLinked": true,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/policies/api-terms-of-use/",
+      "path": "/policies/api-terms-of-use/",
+      "slug": "policies-api-terms-of-use",
+      "template": "policy",
+      "navLinked": true,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/policies/global-terms-of-use/",
+      "path": "/policies/global-terms-of-use/",
+      "slug": "policies-global-terms-of-use",
+      "template": "policy",
+      "navLinked": true,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/policies/privacy-policy/",
+      "path": "/policies/privacy-policy/",
+      "slug": "policies-privacy-policy",
+      "template": "policy",
+      "navLinked": true,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/solutions/banking-and-lending-solutions/",
+      "path": "/solutions/banking-and-lending-solutions/",
+      "slug": "solutions-banking-and-lending-solutions",
+      "template": "solution-overview",
+      "navLinked": true,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/solutions/pension-and-wealth-solutions/",
+      "path": "/solutions/pension-and-wealth-solutions/",
+      "slug": "solutions-pension-and-wealth-solutions",
+      "template": "solution-overview",
+      "navLinked": true,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/about/",
+      "path": "/about/",
+      "slug": "about",
+      "template": "static",
+      "navLinked": true,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/careers/",
+      "path": "/careers/",
+      "slug": "careers",
+      "template": "static",
+      "navLinked": true,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/status/",
+      "path": "/status/",
+      "slug": "status",
+      "template": "static",
+      "navLinked": true,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/press-releases/",
+      "path": "/press-releases/",
+      "slug": "press-releases",
+      "template": "listing",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/articles/drive-engagement-and-understanding-with-personalised-video/",
+      "path": "/articles/drive-engagement-and-understanding-with-personalised-video/",
+      "slug": "articles-drive-engagement-and-understanding-with-personalised-video",
+      "template": "article",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/articles/talk-money-week-open-finance-features-to-help-your-customers-talkmoney/",
+      "path": "/articles/talk-money-week-open-finance-features-to-help-your-customers-talkmoney/",
+      "slug": "articles-talk-money-week-open-finance-features-to-help-your-customers-talkmoney",
+      "template": "article",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/articles/how-technology-is-democratising-financial-advice/",
+      "path": "/articles/how-technology-is-democratising-financial-advice/",
+      "slug": "articles-how-technology-is-democratising-financial-advice",
+      "template": "article",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/articles/really-know-your-customer-can-they-afford-it-and-are-you-able-to-help-them-pay/",
+      "path": "/articles/really-know-your-customer-can-they-afford-it-and-are-you-able-to-help-them-pay/",
+      "slug": "articles-really-know-your-customer-can-they-afford-it-and-are-you-able-to-help-them-pay",
+      "template": "article",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/articles/pensions-blue-monday/",
+      "path": "/articles/pensions-blue-monday/",
+      "slug": "articles-pensions-blue-monday",
+      "template": "article",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/articles/moneyhub-underpins-nationwide/",
+      "path": "/articles/moneyhub-underpins-nationwide/",
+      "slug": "articles-moneyhub-underpins-nationwide",
+      "template": "article",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/articles/open-banking-expo-2025/",
+      "path": "/articles/open-banking-expo-2025/",
+      "slug": "articles-open-banking-expo-2025",
+      "template": "article",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/articles/risky-business-targeted-support/",
+      "path": "/articles/risky-business-targeted-support/",
+      "slug": "articles-risky-business-targeted-support",
+      "template": "article",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/articles/regulatory-leadership-the-path-to-accelerating-commercial-pensions-dashboards/",
+      "path": "/articles/regulatory-leadership-the-path-to-accelerating-commercial-pensions-dashboards/",
+      "slug": "articles-regulatory-leadership-the-path-to-accelerating-commercial-pensions-dashboards",
+      "template": "article",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/articles/evolution-or-revolution-advice-guidance-boundary-review-targeted-support-for-pensions/",
+      "path": "/articles/evolution-or-revolution-advice-guidance-boundary-review-targeted-support-for-pensions/",
+      "slug": "articles-evolution-or-revolution-advice-guidance-boundary-review-targeted-support-for-pensions",
+      "template": "article",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/articles/ministerial-statement-paving-the-way-for-commercial-pensions-dashboards/",
+      "path": "/articles/ministerial-statement-paving-the-way-for-commercial-pensions-dashboards/",
+      "slug": "articles-ministerial-statement-paving-the-way-for-commercial-pensions-dashboards",
+      "template": "article",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/articles/price-and-value-in-the-era-of-consumer-duty/",
+      "path": "/articles/price-and-value-in-the-era-of-consumer-duty/",
+      "slug": "articles-price-and-value-in-the-era-of-consumer-duty",
+      "template": "article",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/articles/activating-29-million-current-account-coasters-key-learnings-from-our-webinar-with-paragon-bank/",
+      "path": "/articles/activating-29-million-current-account-coasters-key-learnings-from-our-webinar-with-paragon-bank/",
+      "slug": "articles-activating-29-million-current-account-coasters-key-learnings-from-our-webinar-with-paragon-bank",
+      "template": "article",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/articles/protecting-the-backbook-why-data-not-just-rates-will-win-the-2026-remortgage-race/",
+      "path": "/articles/protecting-the-backbook-why-data-not-just-rates-will-win-the-2026-remortgage-race/",
+      "slug": "articles-protecting-the-backbook-why-data-not-just-rates-will-win-the-2026-remortgage-race",
+      "template": "article",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/articles/pensions-faster-journeys/",
+      "path": "/articles/pensions-faster-journeys/",
+      "slug": "articles-pensions-faster-journeys",
+      "template": "article",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/articles/false-positives-bad-for-banks/",
+      "path": "/articles/false-positives-bad-for-banks/",
+      "slug": "articles-false-positives-bad-for-banks",
+      "template": "article",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/articles/reasons-for-false-positives-banks/",
+      "path": "/articles/reasons-for-false-positives-banks/",
+      "slug": "articles-reasons-for-false-positives-banks",
+      "template": "article",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/articles/is-your-banking-app-speaking-in-code-the-multi-million-pound-cost-of-transaction-confusion/",
+      "path": "/articles/is-your-banking-app-speaking-in-code-the-multi-million-pound-cost-of-transaction-confusion/",
+      "slug": "articles-is-your-banking-app-speaking-in-code-the-multi-million-pound-cost-of-transaction-confusion",
+      "template": "article",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/articles/rental-rewards/",
+      "path": "/articles/rental-rewards/",
+      "slug": "articles-rental-rewards",
+      "template": "article",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/articles/batch-processing-payment-fraud/",
+      "path": "/articles/batch-processing-payment-fraud/",
+      "slug": "articles-batch-processing-payment-fraud",
+      "template": "article",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/case-studies/bridging-the-advice-gap-with-wps-advisory/",
+      "path": "/case-studies/bridging-the-advice-gap-with-wps-advisory/",
+      "slug": "case-studies-bridging-the-advice-gap-with-wps-advisory",
+      "template": "case-study",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/case-studies/transforming-pensions-engagement-through-mercer-money/",
+      "path": "/case-studies/transforming-pensions-engagement-through-mercer-money/",
+      "slug": "case-studies-transforming-pensions-engagement-through-mercer-money",
+      "template": "case-study",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/case-studies/improving-pension-engagement-and-financial-wellbeing-with-scottish-widows/",
+      "path": "/case-studies/improving-pension-engagement-and-financial-wellbeing-with-scottish-widows/",
+      "slug": "case-studies-improving-pension-engagement-and-financial-wellbeing-with-scottish-widows",
+      "template": "case-study",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/case-studies/the-well-one-money-financial-wellbeing-proposition/",
+      "path": "/case-studies/the-well-one-money-financial-wellbeing-proposition/",
+      "slug": "case-studies-the-well-one-money-financial-wellbeing-proposition",
+      "template": "case-study",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/case-studies/increasing-credit-scores-and-financial-inclusivity-with-loqbox/",
+      "path": "/case-studies/increasing-credit-scores-and-financial-inclusivity-with-loqbox/",
+      "slug": "case-studies-increasing-credit-scores-and-financial-inclusivity-with-loqbox",
+      "template": "case-study",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/case-studies/refining-loan-approvals-and-reducing-risk-with-admiral-money-personal-loans/",
+      "path": "/case-studies/refining-loan-approvals-and-reducing-risk-with-admiral-money-personal-loans/",
+      "slug": "case-studies-refining-loan-approvals-and-reducing-risk-with-admiral-money-personal-loans",
+      "template": "case-study",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/case-studies/financial-inclusion-simplifying-access-to-voxis-discounted-phone-tariff-with-open-banking-powered-eligibility-checking/",
+      "path": "/case-studies/financial-inclusion-simplifying-access-to-voxis-discounted-phone-tariff-with-open-banking-powered-eligibility-checking/",
+      "slug": "case-studies-financial-inclusion-simplifying-access-to-voxis-discounted-phone-tariff-with-open-banking-powered-eligibility-checking",
+      "template": "case-study",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/case-studies/nationwide-deploys-real-time-savings-account-funding-through-open-banking-payments/",
+      "path": "/case-studies/nationwide-deploys-real-time-savings-account-funding-through-open-banking-payments/",
+      "slug": "case-studies-nationwide-deploys-real-time-savings-account-funding-through-open-banking-payments",
+      "template": "case-study",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/case-studies/building-the-uks-most-engaging-pensions-app-for-standard-life/",
+      "path": "/case-studies/building-the-uks-most-engaging-pensions-app-for-standard-life/",
+      "slug": "case-studies-building-the-uks-most-engaging-pensions-app-for-standard-life",
+      "template": "case-study",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/case-studies/how-spring-app-transformed-digital-savings-with-moneyhub/",
+      "path": "/case-studies/how-spring-app-transformed-digital-savings-with-moneyhub/",
+      "slug": "case-studies-how-spring-app-transformed-digital-savings-with-moneyhub",
+      "template": "case-study",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/demo-request-form/",
+      "path": "/demo-request-form/",
+      "slug": "demo-request-form",
+      "template": "form",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/glossary/agentic-ai-financial-services/",
+      "path": "/glossary/agentic-ai-financial-services/",
+      "slug": "glossary-agentic-ai-financial-services",
+      "template": "glossary-entry",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/glossary/consumer-duty/",
+      "path": "/glossary/consumer-duty/",
+      "slug": "glossary-consumer-duty",
+      "template": "glossary-entry",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/glossary/nudges-in-financial-services/",
+      "path": "/glossary/nudges-in-financial-services/",
+      "slug": "glossary-nudges-in-financial-services",
+      "template": "glossary-entry",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/glossary/merchant-identification/",
+      "path": "/glossary/merchant-identification/",
+      "slug": "glossary-merchant-identification",
+      "template": "glossary-entry",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/press-releases/moneyhub-appoints-alastair-mcgill-as-ceo-signaling-a-bold-new-era-of-growth-and-innovation/",
+      "path": "/press-releases/moneyhub-appoints-alastair-mcgill-as-ceo-signaling-a-bold-new-era-of-growth-and-innovation/",
+      "slug": "press-releases-moneyhub-appoints-alastair-mcgill-as-ceo-signaling-a-bold-new-era-of-growth-and-innovation",
+      "template": "press-release",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/press-releases/uk-demands-more-innovative-payment-methods/",
+      "path": "/press-releases/uk-demands-more-innovative-payment-methods/",
+      "slug": "press-releases-uk-demands-more-innovative-payment-methods",
+      "template": "press-release",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/press-releases/lloyds-banking-group-selects-moneyhub-as-their-data-enrichment-and-categorisation-partner/",
+      "path": "/press-releases/lloyds-banking-group-selects-moneyhub-as-their-data-enrichment-and-categorisation-partner/",
+      "slug": "press-releases-lloyds-banking-group-selects-moneyhub-as-their-data-enrichment-and-categorisation-partner",
+      "template": "press-release",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/press-releases/one-size-fits-all-finance-is-over-moneyhub-enables-financial-institutions-to-get-personal/",
+      "path": "/press-releases/one-size-fits-all-finance-is-over-moneyhub-enables-financial-institutions-to-get-personal/",
+      "slug": "press-releases-one-size-fits-all-finance-is-over-moneyhub-enables-financial-institutions-to-get-personal",
+      "template": "press-release",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/press-releases/continuing-service-of-the-moneyhub-app/",
+      "path": "/press-releases/continuing-service-of-the-moneyhub-app/",
+      "slug": "press-releases-continuing-service-of-the-moneyhub-app",
+      "template": "press-release",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/press-releases/wps-advisory-partners-with-moneyhub-to-launch-financial-confidence-app-lifestage/",
+      "path": "/press-releases/wps-advisory-partners-with-moneyhub-to-launch-financial-confidence-app-lifestage/",
+      "slug": "press-releases-wps-advisory-partners-with-moneyhub-to-launch-financial-confidence-app-lifestage",
+      "template": "press-release",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/press-releases/moneyhub-partners-with-the-tax-guys-to-help-landlords-and-sole-traders-navigate-making-tax-digital/",
+      "path": "/press-releases/moneyhub-partners-with-the-tax-guys-to-help-landlords-and-sole-traders-navigate-making-tax-digital/",
+      "slug": "press-releases-moneyhub-partners-with-the-tax-guys-to-help-landlords-and-sole-traders-navigate-making-tax-digital",
+      "template": "press-release",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/press-releases/nationwide-building-society-selects-moneyhub-as-its-data-enrichment-and-categorisation-partner/",
+      "path": "/press-releases/nationwide-building-society-selects-moneyhub-as-its-data-enrichment-and-categorisation-partner/",
+      "slug": "press-releases-nationwide-building-society-selects-moneyhub-as-its-data-enrichment-and-categorisation-partner",
+      "template": "press-release",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/press-releases/stratiphy-selects-moneyhub-to-unlock-seamless-funding-of-personalised-investment-strategies/",
+      "path": "/press-releases/stratiphy-selects-moneyhub-to-unlock-seamless-funding-of-personalised-investment-strategies/",
+      "slug": "press-releases-stratiphy-selects-moneyhub-to-unlock-seamless-funding-of-personalised-investment-strategies",
+      "template": "press-release",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/press-releases/paragon-bank-launches-spring-a-pioneering-savings-app-powered-by-moneyhub/",
+      "path": "/press-releases/paragon-bank-launches-spring-a-pioneering-savings-app-powered-by-moneyhub/",
+      "slug": "press-releases-paragon-bank-launches-spring-a-pioneering-savings-app-powered-by-moneyhub",
+      "template": "press-release",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/press-releases/expenseondemand-chooses-moneyhub-to-power-cutting-edge-expense-management-solution/",
+      "path": "/press-releases/expenseondemand-chooses-moneyhub-to-power-cutting-edge-expense-management-solution/",
+      "slug": "press-releases-expenseondemand-chooses-moneyhub-to-power-cutting-edge-expense-management-solution",
+      "template": "press-release",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/press-releases/wps-advisory-enhances-financial-advice-journey-with-moneyhub-platform-upgrade/",
+      "path": "/press-releases/wps-advisory-enhances-financial-advice-journey-with-moneyhub-platform-upgrade/",
+      "slug": "press-releases-wps-advisory-enhances-financial-advice-journey-with-moneyhub-platform-upgrade",
+      "template": "press-release",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/press-releases/moneyhub-extends-its-partnership-with-experian-to-help-people-pay-debt-faster/",
+      "path": "/press-releases/moneyhub-extends-its-partnership-with-experian-to-help-people-pay-debt-faster/",
+      "slug": "press-releases-moneyhub-extends-its-partnership-with-experian-to-help-people-pay-debt-faster",
+      "template": "press-release",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/press-releases/moneyhub-appoints-anne-de-kerckhove-as-chair-of-the-board/",
+      "path": "/press-releases/moneyhub-appoints-anne-de-kerckhove-as-chair-of-the-board/",
+      "slug": "press-releases-moneyhub-appoints-anne-de-kerckhove-as-chair-of-the-board",
+      "template": "press-release",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/press-releases/moneyhub-to-provide-open-banking-solutions-to-uk-government/",
+      "path": "/press-releases/moneyhub-to-provide-open-banking-solutions-to-uk-government/",
+      "slug": "press-releases-moneyhub-to-provide-open-banking-solutions-to-uk-government",
+      "template": "press-release",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/press-releases/latest-moneyhub-release-puts-an-end-to-unrecognised-transaction-panic/",
+      "path": "/press-releases/latest-moneyhub-release-puts-an-end-to-unrecognised-transaction-panic/",
+      "slug": "press-releases-latest-moneyhub-release-puts-an-end-to-unrecognised-transaction-panic",
+      "template": "press-release",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/press-releases/moneyhub-and-brick-rewards-turn-rent-into-rewards-for-uk-tenants/",
+      "path": "/press-releases/moneyhub-and-brick-rewards-turn-rent-into-rewards-for-uk-tenants/",
+      "slug": "press-releases-moneyhub-and-brick-rewards-turn-rent-into-rewards-for-uk-tenants",
+      "template": "press-release",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/press-releases/moneyhub-becomes-first-participant-in-the-uk-payments-initiative/",
+      "path": "/press-releases/moneyhub-becomes-first-participant-in-the-uk-payments-initiative/",
+      "slug": "press-releases-moneyhub-becomes-first-participant-in-the-uk-payments-initiative",
+      "template": "press-release",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/products/data-explorer/",
+      "path": "/products/data-explorer/",
+      "slug": "products-data-explorer",
+      "template": "product-detail",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/products/data-insights-recommendations/",
+      "path": "/products/data-insights-recommendations/",
+      "slug": "products-data-insights-recommendations",
+      "template": "product-detail",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/products/data-aggregation/",
+      "path": "/products/data-aggregation/",
+      "slug": "products-data-aggregation",
+      "template": "product-detail",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/products/payments/",
+      "path": "/products/payments/",
+      "slug": "products-payments",
+      "template": "product-detail",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/products/embedded-solutions-portals/",
+      "path": "/products/embedded-solutions-portals/",
+      "slug": "products-embedded-solutions-portals",
+      "template": "product-detail",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/products/categorisation-enrichment-engine/",
+      "path": "/products/categorisation-enrichment-engine/",
+      "slug": "products-categorisation-enrichment-engine",
+      "template": "product-detail",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/solutions/pension-and-wealth-solutions/targeted-support/",
+      "path": "/solutions/pension-and-wealth-solutions/targeted-support/",
+      "slug": "solutions-pension-and-wealth-solutions-targeted-support",
+      "template": "solution-detail",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/solutions/pension-and-wealth-solutions/win-schemes/",
+      "path": "/solutions/pension-and-wealth-solutions/win-schemes/",
+      "slug": "solutions-pension-and-wealth-solutions-win-schemes",
+      "template": "solution-detail",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/solutions/pension-and-wealth-solutions/in-retirement/",
+      "path": "/solutions/pension-and-wealth-solutions/in-retirement/",
+      "slug": "solutions-pension-and-wealth-solutions-in-retirement",
+      "template": "solution-detail",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/solutions/pension-and-wealth-solutions/smart-fact-find/",
+      "path": "/solutions/pension-and-wealth-solutions/smart-fact-find/",
+      "slug": "solutions-pension-and-wealth-solutions-smart-fact-find",
+      "template": "solution-detail",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/solutions/pension-and-wealth-solutions/pensions-dashboards/",
+      "path": "/solutions/pension-and-wealth-solutions/pensions-dashboards/",
+      "slug": "solutions-pension-and-wealth-solutions-pensions-dashboards",
+      "template": "solution-detail",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/solutions/banking-and-lending-solutions/smart-segmentation/",
+      "path": "/solutions/banking-and-lending-solutions/smart-segmentation/",
+      "slug": "solutions-banking-and-lending-solutions-smart-segmentation",
+      "template": "solution-detail",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/solutions/banking-and-lending-solutions/smart-product-match/",
+      "path": "/solutions/banking-and-lending-solutions/smart-product-match/",
+      "slug": "solutions-banking-and-lending-solutions-smart-product-match",
+      "template": "solution-detail",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/solutions/banking-and-lending-solutions/smart-lending/",
+      "path": "/solutions/banking-and-lending-solutions/smart-lending/",
+      "slug": "solutions-banking-and-lending-solutions-smart-lending",
+      "template": "solution-detail",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/solutions/banking-and-lending-solutions/smart-payments/",
+      "path": "/solutions/banking-and-lending-solutions/smart-payments/",
+      "slug": "solutions-banking-and-lending-solutions-smart-payments",
+      "template": "solution-detail",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/solutions/pension-and-wealth-solutions/build-and-retain/",
+      "path": "/solutions/pension-and-wealth-solutions/build-and-retain/",
+      "slug": "solutions-pension-and-wealth-solutions-build-and-retain",
+      "template": "solution-detail",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/solutions/banking-and-lending-solutions/smart-money-actions/",
+      "path": "/solutions/banking-and-lending-solutions/smart-money-actions/",
+      "slug": "solutions-banking-and-lending-solutions-smart-money-actions",
+      "template": "solution-detail",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/solutions/banking-and-lending-solutions/transaction-categorisation-enrichment/",
+      "path": "/solutions/banking-and-lending-solutions/transaction-categorisation-enrichment/",
+      "slug": "solutions-banking-and-lending-solutions-transaction-categorisation-enrichment",
+      "template": "solution-detail",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/use-cases/increase-deposits-with-savings-goals/",
+      "path": "/use-cases/increase-deposits-with-savings-goals/",
+      "slug": "use-cases-increase-deposits-with-savings-goals",
+      "template": "use-case-detail",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/use-cases/cross-sell-upsell-banking/",
+      "path": "/use-cases/cross-sell-upsell-banking/",
+      "slug": "use-cases-cross-sell-upsell-banking",
+      "template": "use-case-detail",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/use-cases/transaction-analysis-product-marketing/",
+      "path": "/use-cases/transaction-analysis-product-marketing/",
+      "slug": "use-cases-transaction-analysis-product-marketing",
+      "template": "use-case-detail",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/use-cases/identify-fraud-real-time-banking-app/",
+      "path": "/use-cases/identify-fraud-real-time-banking-app/",
+      "slug": "use-cases-identify-fraud-real-time-banking-app",
+      "template": "use-case-detail",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/use-cases/customers-recognise-spending-banking-app/",
+      "path": "/use-cases/customers-recognise-spending-banking-app/",
+      "slug": "use-cases-customers-recognise-spending-banking-app",
+      "template": "use-case-detail",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/webinar-open/is-2025-the-year-ai-transforms-pensions/",
+      "path": "/webinar-open/is-2025-the-year-ai-transforms-pensions/",
+      "slug": "webinar-open-is-2025-the-year-ai-transforms-pensions",
+      "template": "webinar",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/webinars/is-2025-the-year-ai-transforms-the-pension-industry/",
+      "path": "/webinars/is-2025-the-year-ai-transforms-the-pension-industry/",
+      "slug": "webinars-is-2025-the-year-ai-transforms-the-pension-industry",
+      "template": "webinar",
+      "navLinked": false,
+      "status": 200
+    },
+    {
+      "url": "https://moneyhub.com/webinars/the-ctos-roadmap-to-ai-personalisation-in-financial-services-governance-latency-and-stack-modernisation/",
+      "path": "/webinars/the-ctos-roadmap-to-ai-personalisation-in-financial-services-governance-latency-and-stack-modernisation/",
+      "slug": "webinars-the-ctos-roadmap-to-ai-personalisation-in-financial-services-governance-latency-and-stack-modernisation",
+      "template": "webinar",
+      "navLinked": false,
+      "status": 200
+    }
+  ],
+  "droppedSlugs": [
+    "discover-guide-to-categorisation-and-enrichment",
+    "webinars-how-paragon-bank-is-driving-deposits-and-customer-loyalty-with-intelligent-savings"
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:extract",
+    "writtenAt": "2026-06-27T09:19:13.183Z"
+  },
+  "discovery": {
+    "origin": "https://moneyhub.com",
+    "source": "sitemap_index.xml",
+    "fetchTechnique": "headless-chromium"
+  },
+  "consent": {
+    "method": "selector:[aria-label*=\"accept\" i]"
+  },
+  "crawl": {
+    "successes": [
+      {
+        "slug": "home",
+        "url": "https://moneyhub.com/",
+        "status": 200,
+        "waitMs": 5958
+      },
+      {
+        "slug": "about",
+        "url": "https://moneyhub.com/about/",
+        "status": 200,
+        "waitMs": 5311
+      },
+      {
+        "slug": "products",
+        "url": "https://moneyhub.com/products/",
+        "status": 200,
+        "waitMs": 4080
+      },
+      {
+        "slug": "products-data-explorer",
+        "url": "https://moneyhub.com/products/data-explorer/",
+        "status": 200,
+        "waitMs": 5150
+      },
+      {
+        "slug": "solutions-pension-and-wealth",
+        "url": "https://moneyhub.com/solutions/pension-and-wealth-solutions/",
+        "status": 200,
+        "waitMs": 5945
+      },
+      {
+        "slug": "solutions-targeted-support",
+        "url": "https://moneyhub.com/solutions/pension-and-wealth-solutions/targeted-support/",
+        "status": 200,
+        "waitMs": 4943
+      },
+      {
+        "slug": "use-cases",
+        "url": "https://moneyhub.com/use-cases/",
+        "status": 200,
+        "waitMs": 4216
+      },
+      {
+        "slug": "use-cases-increase-deposits-with-savings-goals",
+        "url": "https://moneyhub.com/use-cases/increase-deposits-with-savings-goals/",
+        "status": 200,
+        "waitMs": 7134
+      },
+      {
+        "slug": "case-studies",
+        "url": "https://moneyhub.com/case-studies/",
+        "status": 200,
+        "waitMs": 4990
+      },
+      {
+        "slug": "case-studies-mercer-money",
+        "url": "https://moneyhub.com/case-studies/transforming-pensions-engagement-through-mercer-money/",
+        "status": 200,
+        "waitMs": 4696
+      },
+      {
+        "slug": "articles",
+        "url": "https://moneyhub.com/articles/",
+        "status": 200,
+        "waitMs": 4777
+      },
+      {
+        "slug": "articles-democratising-financial-advice",
+        "url": "https://moneyhub.com/articles/how-technology-is-democratising-financial-advice/",
+        "status": 200,
+        "waitMs": 5188
+      },
+      {
+        "slug": "press-and-partners",
+        "url": "https://moneyhub.com/press-and-partners/",
+        "status": 200,
+        "waitMs": 4389
+      },
+      {
+        "slug": "press-releases-uk-demands-payment-methods",
+        "url": "https://moneyhub.com/press-releases/uk-demands-more-innovative-payment-methods/",
+        "status": 200,
+        "waitMs": 4772
+      },
+      {
+        "slug": "webinars",
+        "url": "https://moneyhub.com/webinars/",
+        "status": 200,
+        "waitMs": 3833
+      },
+      {
+        "slug": "glossary",
+        "url": "https://moneyhub.com/glossary/",
+        "status": 200,
+        "waitMs": 3798
+      },
+      {
+        "slug": "glossary-consumer-duty",
+        "url": "https://moneyhub.com/glossary/consumer-duty/",
+        "status": 200,
+        "waitMs": 7468
+      },
+      {
+        "slug": "contact",
+        "url": "https://moneyhub.com/contact/",
+        "status": 200,
+        "waitMs": 4142
+      },
+      {
+        "slug": "careers",
+        "url": "https://moneyhub.com/careers/",
+        "status": 200,
+        "waitMs": 6113
+      },
+      {
+        "slug": "policies-privacy-policy",
+        "url": "https://moneyhub.com/policies/privacy-policy/",
+        "status": 200,
+        "waitMs": 8411
+      }
+    ],
+    "failures": []
+  },
+  "fonts": [
+    {
+      "url": "https://fonts.gstatic.com/s/lato/v25/S6u9w4BMUTPHh6UVSwiPGQ3q5d0.woff2",
+      "localPath": "stardust/current/assets/fonts/S6u9w4BMUTPHh6UVSwiPGQ3q5d0.woff2",
+      "family": null
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/lato/v25/S6uyw4BMUTPHjx4wXiWtFCc.woff2",
+      "localPath": "stardust/current/assets/fonts/S6uyw4BMUTPHjx4wXiWtFCc.woff2",
+      "family": null
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/raleway/v37/1Ptug8zYS_SKggPNyC0IT4ttDfA.woff2",
+      "localPath": "stardust/current/assets/fonts/1Ptug8zYS_SKggPNyC0IT4ttDfA.woff2",
+      "family": null
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/lato/v25/S6u8w4BMUTPHjxsAXC-qNiXg7Q.woff2",
+      "localPath": "stardust/current/assets/fonts/S6u8w4BMUTPHjxsAXC-qNiXg7Q.woff2",
+      "family": null
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/lato/v25/S6u_w4BMUTPHjxsI5wq_Gwftx9897g.woff2",
+      "localPath": "stardust/current/assets/fonts/S6u_w4BMUTPHjxsI5wq_Gwftx9897g.woff2",
+      "family": null
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/lato/v25/S6u9w4BMUTPHh7USSwiPGQ3q5d0.woff2",
+      "localPath": "stardust/current/assets/fonts/S6u9w4BMUTPHh7USSwiPGQ3q5d0.woff2",
+      "family": null
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/raleway/v37/1Ptsg8zYS_SKggPNyCg4TYFqL_KWxQ.woff2",
+      "localPath": "stardust/current/assets/fonts/1Ptsg8zYS_SKggPNyCg4TYFqL_KWxQ.woff2",
+      "family": null
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2",
+      "localPath": "stardust/current/assets/fonts/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2",
+      "family": null
+    }
+  ]
+}

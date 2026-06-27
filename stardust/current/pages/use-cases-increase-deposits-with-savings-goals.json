@@ -1,0 +1,2267 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:extract",
+    "writtenAt": "2026-06-27T09:20:15.423Z",
+    "readArtifacts": [
+      "https://moneyhub.com/use-cases/increase-deposits-with-savings-goals/"
+    ],
+    "synthesizedInputs": [],
+    "stardustVersion": "0.13.0",
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-06-27T09:20:06.494Z",
+    "waitMode": "medium",
+    "waitMs": 7134,
+    "httpStatus": 200,
+    "contentType": "text/html",
+    "finalUrl": "https://moneyhub.com/use-cases/increase-deposits-with-savings-goals/"
+  },
+  "slug": "use-cases-increase-deposits-with-savings-goals",
+  "url": "https://moneyhub.com/use-cases/increase-deposits-with-savings-goals/",
+  "finalUrl": "https://moneyhub.com/use-cases/increase-deposits-with-savings-goals/",
+  "type": "program",
+  "title": "How to increase deposits with customer savings goals - Moneyhub",
+  "metaDescription": "Build a more resilient deposit base with customer savings goals, possible with intelligent transaction categorisation and enrichment",
+  "og": {
+    "title": "How to increase deposits with customer savings goals - Moneyhub",
+    "description": "Build a more resilient deposit base with customer savings goals, possible with intelligent transaction categorisation and enrichment",
+    "image": "https://moneyhub.com/wp-content/uploads/2026/02/Category-taxonomy-BQ-eg-1.png",
+    "type": "article",
+    "siteName": "Moneyhub"
+  },
+  "themeColor": {
+    "light": "#ffffff"
+  },
+  "language": "en-GB",
+  "headings": [
+    {
+      "level": 1,
+      "text": "How to increase deposits with customer savings goals",
+      "id": null,
+      "domPath": "main#main > article.px-4.md:px-8 > div.container.mx-auto > header.post-header > div.grid.grid-cols-12 > h1.post-title.col-span-12",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "48px",
+        "lineHeight": "57.6px",
+        "letterSpacing": "normal",
+        "color": "rgb(239, 85, 31)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Avoiding insensitive nudges",
+      "id": null,
+      "domPath": "section.block.cta-container > div.container.mx-auto > div.grid.grid-cols-12 > div.col-span-12.lg:py-16 > div.base-content.has-parent-light > h2.text-heading-24.md:text-4xl",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "32px",
+        "lineHeight": "40px",
+        "letterSpacing": "normal",
+        "color": "rgb(41, 51, 56)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Step 1: Establish the intelligent data layer",
+      "id": null,
+      "domPath": "main#main > article.px-4.md:px-8 > div.container.mx-auto > div.post-body.grid > div.post-content.basic-content--wysiwyg > h2.wp-block-heading",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "32px",
+        "lineHeight": "40px",
+        "letterSpacing": "normal",
+        "color": "rgb(41, 51, 56)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Ingest wider data sources",
+      "id": null,
+      "domPath": "main#main > article.px-4.md:px-8 > div.container.mx-auto > div.post-body.grid > div.post-content.basic-content--wysiwyg > h3.wp-block-heading",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "30px",
+        "letterSpacing": "normal",
+        "color": "rgb(41, 51, 56)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Categorise and enrich transactions accurately",
+      "id": null,
+      "domPath": "main#main > article.px-4.md:px-8 > div.container.mx-auto > div.post-body.grid > div.post-content.basic-content--wysiwyg > h3.wp-block-heading",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "30px",
+        "letterSpacing": "normal",
+        "color": "rgb(41, 51, 56)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Need a more intelligent data engine?",
+      "id": null,
+      "domPath": "section.block.cta-container > div.container.mx-auto > div.grid.grid-cols-12 > div.col-span-12.lg:py-16 > div.base-content.has-parent-light > h3.text-heading-24.font-bold",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "30px",
+        "letterSpacing": "normal",
+        "color": "rgb(41, 51, 56)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Step 2: Identify users with savings capacity",
+      "id": null,
+      "domPath": "main#main > article.px-4.md:px-8 > div.container.mx-auto > div.post-body.grid > div.post-content.basic-content--wysiwyg > h2.wp-block-heading",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "32px",
+        "lineHeight": "40px",
+        "letterSpacing": "normal",
+        "color": "rgb(41, 51, 56)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Step 3: Architect the goal-setting journey",
+      "id": null,
+      "domPath": "main#main > article.px-4.md:px-8 > div.container.mx-auto > div.post-body.grid > div.post-content.basic-content--wysiwyg > h2.wp-block-heading",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "32px",
+        "lineHeight": "40px",
+        "letterSpacing": "normal",
+        "color": "rgb(41, 51, 56)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Step 4: Send a nudge",
+      "id": null,
+      "domPath": "main#main > article.px-4.md:px-8 > div.container.mx-auto > div.post-body.grid > div.post-content.basic-content--wysiwyg > h2.wp-block-heading",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "32px",
+        "lineHeight": "40px",
+        "letterSpacing": "normal",
+        "color": "rgb(41, 51, 56)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "",
+      "id": null,
+      "domPath": "div.post-content.basic-content--wysiwyg > section.block.basic-text-container > div.container.mx-auto > div.grid.grid-cols-12 > div.col-span-12.md:col-span-6 > h2.text-orange-900.font-bold",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "32px",
+        "lineHeight": "40px",
+        "letterSpacing": "normal",
+        "color": "rgb(239, 85, 31)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Step 5: Integrate convenient payments",
+      "id": null,
+      "domPath": "main#main > article.px-4.md:px-8 > div.container.mx-auto > div.post-body.grid > div.post-content.basic-content--wysiwyg > h2.wp-block-heading",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "32px",
+        "lineHeight": "40px",
+        "letterSpacing": "normal",
+        "color": "rgb(41, 51, 56)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Implementing a zero-friction payment journey",
+      "id": null,
+      "domPath": "main#main > article.px-4.md:px-8 > div.container.mx-auto > div.post-body.grid > div.post-content.basic-content--wysiwyg > h3.wp-block-heading",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "30px",
+        "letterSpacing": "normal",
+        "color": "rgb(41, 51, 56)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Doubling the average balance at Paragon Bank",
+      "id": null,
+      "domPath": "section.block.cta-container > div.container.mx-auto > div.grid.grid-cols-12 > div.col-span-12.lg:py-16 > div.base-content.has-parent-light > h3.text-heading-24.font-bold",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "30px",
+        "letterSpacing": "normal",
+        "color": "rgb(41, 51, 56)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Increasing deposits with customer savings goals: your next steps",
+      "id": null,
+      "domPath": "main#main > article.px-4.md:px-8 > div.container.mx-auto > div.post-body.grid > div.post-content.basic-content--wysiwyg > h2.wp-block-heading",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "32px",
+        "lineHeight": "40px",
+        "letterSpacing": "normal",
+        "color": "rgb(41, 51, 56)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "FAQs",
+      "id": null,
+      "domPath": "div.block.faqs-container > div.container.mx-auto > div.grid.grid-cols-12 > div.col-span-12.lg:col-span-4 > div.base-content.has-parent-dark > h2.text-heading-24.md:text-4xl",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "32px",
+        "lineHeight": "40px",
+        "letterSpacing": "normal",
+        "color": "rgb(255, 255, 255)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Can you use transaction data for strategic growth?",
+      "id": null,
+      "domPath": "div.block.faqs-container > div.container.mx-auto > div.grid.grid-cols-12 > div.col-span-12.lg:col-span-8 > div.accordion--divider > h3.accordion__question.text-base",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "30px",
+        "letterSpacing": "normal",
+        "color": "rgb(255, 255, 255)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "How do VRPs differ from traditional Standing Orders/ Direct Debits?",
+      "id": null,
+      "domPath": "div.block.faqs-container > div.container.mx-auto > div.grid.grid-cols-12 > div.col-span-12.lg:col-span-8 > div.accordion--divider > h3.accordion__question.text-base",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "30px",
+        "letterSpacing": "normal",
+        "color": "rgb(255, 255, 255)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "How can banks use data to guide customers?",
+      "id": null,
+      "domPath": "div.block.faqs-container > div.container.mx-auto > div.grid.grid-cols-12 > div.col-span-12.lg:col-span-8 > div.accordion--divider > h3.accordion__question.text-base",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "30px",
+        "letterSpacing": "normal",
+        "color": "rgb(255, 255, 255)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Related posts",
+      "id": null,
+      "domPath": "main#main > section.block.column-content-container > div.container.mx-auto > div.grid.grid-cols-12 > div.col-span-12 > h2.font-bold",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "45px",
+        "lineHeight": "67.5px",
+        "letterSpacing": "normal",
+        "color": "rgb(41, 51, 56)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "How we help financial institutions to identify fraudulent spending in real-time",
+      "id": null,
+      "domPath": "div.grid.grid-cols-12 > div.col-span-12.md:col-span-4 > article.col-span-12.md:col-span-6 > a.no-underline.has-parent- > div.p-2.pb-4 > h3.lg:mb-4.text-heading-24",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "30px",
+        "letterSpacing": "normal",
+        "color": "rgb(41, 51, 56)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "How to get higher cross-sell and upsell conversion rates in banking",
+      "id": null,
+      "domPath": "div.grid.grid-cols-12 > div.col-span-12.md:col-span-4 > article.col-span-12.md:col-span-6 > a.no-underline.has-parent- > div.p-2.pb-4 > h3.lg:mb-4.text-heading-24",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "30px",
+        "letterSpacing": "normal",
+        "color": "rgb(41, 51, 56)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Product marketers: stop sleeping on transaction analysis to inform your targeting",
+      "id": null,
+      "domPath": "div.grid.grid-cols-12 > div.col-span-12.md:col-span-4 > article.col-span-12.md:col-span-6 > a.no-underline.has-parent- > div.p-2.pb-4 > h3.lg:mb-4.text-heading-24",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "30px",
+        "letterSpacing": "normal",
+        "color": "rgb(41, 51, 56)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Build for real life",
+      "id": null,
+      "domPath": "section.block.cta-container > div.container.mx-auto > div.grid.grid-cols-12 > div.col-span-12.md:col-span-6 > div.base-content.has-parent- > h2.text-heading-24.md:text-4xl",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "48px",
+        "lineHeight": "48px",
+        "letterSpacing": "normal",
+        "color": "rgb(41, 51, 56)"
+      }
+    },
+    {
+      "level": 4,
+      "text": "Follow us",
+      "id": null,
+      "domPath": "footer#footer > div.container.mx-auto > div.footer__content.grid > div.col-span-12.md:col-span-3 > div.col-span-1.md:col-span-2 > h4.text-base.font-bold",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "16px",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(255, 255, 255)"
+      }
+    },
+    {
+      "level": 4,
+      "text": "Solutions",
+      "id": null,
+      "domPath": "footer#footer > div.container.mx-auto > div.footer__content.grid > div.col-span-12.md:col-span-9 > div.footer__nav--list > h4.text-base.font-bold",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "16px",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(255, 255, 255)"
+      }
+    },
+    {
+      "level": 4,
+      "text": "Products",
+      "id": null,
+      "domPath": "div.container.mx-auto > div.footer__content.grid > div.col-span-12.md:col-span-9 > div.grid.grid-cols-2 > div.footer__nav--list.mb-6 > h4.text-base.font-bold",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "16px",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(255, 255, 255)"
+      }
+    },
+    {
+      "level": 4,
+      "text": "Policies & Info",
+      "id": null,
+      "domPath": "div.container.mx-auto > div.footer__content.grid > div.col-span-12.md:col-span-9 > div.grid.grid-cols-2 > div.footer__nav--list.mb-6 > h4.text-base.font-bold",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "16px",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(255, 255, 255)"
+      }
+    },
+    {
+      "level": 4,
+      "text": "",
+      "id": null,
+      "domPath": "div.container.mx-auto > div.footer__content.grid > div.col-span-12.md:col-span-9 > div.grid.grid-cols-2 > div.footer__nav--list.mb-6 > h4.text-base.font-bold",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "16px",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(255, 255, 255)"
+      }
+    }
+  ],
+  "landmarks": [
+    {
+      "tag": "div",
+      "role": "region",
+      "id": null,
+      "classes": [
+        "cky-hide",
+        "cky-consent-container",
+        "cky-popup-center"
+      ],
+      "innerText": "We value your privacyWe use cookies to enhance your browsing experience, serve personalised ads or content, and analyse our traffic. By clicking \"Accept All\", you consent to our use of cookies.Customise Accept AllPowered by",
+      "children": [
+        {
+          "tag": "div",
+          "id": null,
+          "classes": [
+            "cky-consent-bar"
+          ],
+          "headlineText": null,
+          "innerTextSummary": "We value your privacyWe use cookies to enhance your browsing experience, serve personalised ads or content, and analyse our traffic. By clicking \"Accept All\", you consent to our use of cookies.Customise Accept AllPowered by",
+          "wordCount": 34,
+          "body": [
+            "We value your privacy",
+            "We use cookies to enhance your browsing experience, serve personalised ads or content, and analyse our traffic. By clicking \"Accept All\", you consent to our use of cookies."
+          ],
+          "lists": [],
+          "qa": [],
+          "quotes": []
+        }
+      ]
+    },
+    {
+      "tag": "header",
+      "role": "banner",
+      "id": "header",
+      "classes": [],
+      "innerText": "Moneyhub Solutions Products Developers Discover About CONTACT CONTACT Latest Moneyhub release puts an end to unrecognised transaction panic",
+      "children": [
+        {
+          "tag": "div",
+          "id": null,
+          "classes": [
+            "container",
+            "mx-auto",
+            "h-full",
+            "px-4",
+            "md:px-8",
+            "lg:px-16"
+          ],
+          "headlineText": null,
+          "innerTextSummary": "Moneyhub Solutions Products Developers Discover About CONTACT CONTACT",
+          "wordCount": 8,
+          "body": [
+            "Turn raw, ambiguous banking data into clear, actionable insights",
+            "Connect to financial and non-financial customer accounts",
+            "Overcome segmentation challenges to create targeted campaigns",
+            "Embed customised solutions into your app",
+            "Access transparent real-time management reporting",
+            "Facilitate variable recurring payments"
+          ],
+          "lists": [
+            {
+              "ordered": false,
+              "items": [
+                "Solutions Banking and Lending Solutions Transaction Categorisation and Enrichment Smart Segmentation Smart Money Actions Smart Product Match Smart Payments Smart Lending Pension and Wealth Solutions Win Schemes Build and Retain In Retirement Pensions Dashboard Targeted Support Smart Fact Find",
+                "Products Invisible placeholder column Categorisation and Enrichment Engine Turn raw, ambiguous banking data into clear, actionable insights Data Aggregation Connect to financial and non-financial customer accounts Data Insights and Recommendations Overcome segmentation challenges to create targeted campaigns Invisible placeholder column Embedded Solutions and Portals Embed customised solutions into your app Data Explorer Access transparent real-time management reporting Payments Facilitate variable recurring payments",
+                "Developers Developers API Developer Hub Access Sandbox",
+                "Discover Discover Articles Case studies Categorisation and Enrichment Press Releases Use Cases Webinars",
+                "About About About Careers",
+                "Contact"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "Banking and Lending Solutions Transaction Categorisation and Enrichment Smart Segmentation Smart Money Actions Smart Product Match Smart Payments Smart Lending",
+                "Pension and Wealth Solutions Win Schemes Build and Retain In Retirement Pensions Dashboard Targeted Support Smart Fact Find"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "Transaction Categorisation and Enrichment",
+                "Smart Segmentation",
+                "Smart Money Actions",
+                "Smart Product Match",
+                "Smart Payments",
+                "Smart Lending"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "Win Schemes",
+                "Build and Retain",
+                "In Retirement",
+                "Pensions Dashboard",
+                "Targeted Support",
+                "Smart Fact Find"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "Invisible placeholder column Categorisation and Enrichment Engine Turn raw, ambiguous banking data into clear, actionable insights Data Aggregation Connect to financial and non-financial customer accounts Data Insights and Recommendations Overcome segmentation challenges to create targeted campaigns",
+                "Invisible placeholder column Embedded Solutions and Portals Embed customised solutions into your app Data Explorer Access transparent real-time management reporting Payments Facilitate variable recurring payments"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "Categorisation and Enrichment Engine Turn raw, ambiguous banking data into clear, actionable insights",
+                "Data Aggregation Connect to financial and non-financial customer accounts",
+                "Data Insights and Recommendations Overcome segmentation challenges to create targeted campaigns"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "Embedded Solutions and Portals Embed customised solutions into your app",
+                "Data Explorer Access transparent real-time management reporting",
+                "Payments Facilitate variable recurring payments"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "Developers API Developer Hub Access Sandbox"
+              ]
+            }
+          ],
+          "qa": [],
+          "quotes": []
+        }
+      ]
+    },
+    {
+      "tag": "a",
+      "role": "navigation",
+      "id": null,
+      "classes": [
+        "block",
+        "mb-4---",
+        "brand"
+      ],
+      "innerText": "Moneyhub",
+      "children": []
+    },
+    {
+      "tag": "main",
+      "role": "main",
+      "id": "main",
+      "classes": [
+        "mt-16"
+      ],
+      "innerText": "Use cases How to increase deposits with customer savings goals share LinkedIn Paul Tutton Product Manager - Payments and APIs Categories Banking The moment a customer opens a savings account, their financial intent is at its peak. Yet, for many, this spark fizzles; industry analysis shows it takes an average of four days to make a first deposit. At Nationwide, this friction caused 4% of new accounts to close monthly simply due to manual transfer hurdles. Beyond the first deposit, barriers like fluctuating incomes and life priorities often stall progress. Moneyhub provides the technology to harness intent by replacing passive saving with the active pursuit of tangible goals. By combining contextual guidance with frictionless payment rails, we ensure customers deposit more often and in higher volumes. Our framework helped Nationwide accelerate their deposit journey by 75% and enabled Paragon Bank customers to nearly double their average balances in under six months. In this guide, Paul Tutton, Product Manager of Payments and APIs, explores how smart data and modern payment tech create a superior savings cycle. Are you ready to build a more resilient deposit base? Establish the intelligent data layer Identify users with savings capacity Architect the goal-setting journey Send a nudge BUT FIRST… Avoiding insensitive nudges Most banks attempt to drive deposits by sending generic reminders on payday. But without categorisation and enrichment data, you are operating in a blind spot. “You might be nudging a customer to save £200 just as they’ve been hit with an unexpected car repair bill that your system hasn’t identified”, notes Paul. To guide a customer toward a goal, you first have to understand the journey they are already on; otherwise, your ‘helpful’ nudge is just noise. And a poorly timed nudge is worse than no nudge at all, it’s a brand withdrawal. It tells the customer that their bank is out of touch with their reality. Step 1: Establish the intelligent data layer Gathering intelligent data isn’t about collecting more information, it’s about refining the raw data you already have into strategic, actionable insights. To build a perfectly-timed deposit nudge engine, you must move through these two practical stages: Ingest wider data sources Categorise and enrich transactions accurately Ingest wider data sources In order to see the full financial picture, you must be able to see the idle savings sat inside your competitors’ accounts, the bills going out of secondary current accounts, and everything in between. Bridge the visibility gap by implementing data aggregation – enabling your customers to connect all of their external accounts into your app. By integrating an API to normalise this data, you can provide your customers, and your data engine, with information from multiple providers in a single, unified schema. Categorise and enrich transactions accurately Once the data is flowing, you need to implement a deep-learning model that identifies merchants and the intent of the spend. Standard banking categories, such as ‘retail’ or ‘bills’ can sometimes be too broad for savings automations. Achieve this by mapping your transactions to a multi-level taxonomy. For example, instead of labelling a payment to B&Q as ‘shopping’, it could be categorised as: Level 1: personal expenditure Level 2: home improvement Level 3: DIY This level of granularity shows the bank that the customer isn’t only spending, they are investing in their home. It’s a prime indicator of a high-value savings goal, and an indication for you to nudge the customer into setting up a savings goal titled: home improvements. Need a more intelligent data engine? Achieving this level of precision requires complex data science that accounts for fluctuating dates and varying transaction descriptions. By working with Moneyhub, you can access an intelligence layer that is already tested and market-ready. Our Categorisation and Enrichment Engine is already powering financial institutions including Lloyds Banking Group and Nationwide Building Society, providing the ironclad data logic required to build a strong foundation for savings nudges. ‘Standard’ categorisation is a blunt instrument, whereas Moneyhub provides a precision tool. BOOK A DEMO Step 2: Identify users with savings capacity Once the data intelligence layer is active, customer and savings teams can move from broad buckets to fluid, granular segmentation. It’s about ensuring that any recommended transfer is ‘safe’, meaning it won’t push the customer into an accidental overdraft or a liquidity crunch, and it won’t cause negative brand sentiment. Calculate savings capacity by finding the difference between essential and discretionary spend compared to income. Here are some segments that you may not have considered previously: Current account coasters: this term, coined by our client Paragon Bank, describes account holders that leave over £526 billion sitting in in low or no interest accounts (in this case low interest is classified as 1.5% or lower). It leaves approximately £20 billion in interest on the table, annually. New retirees: those who have just taken a lump sum from their pension and don’t spend it immediately, instead wanting to put the cash into a safe, high interest savings account. Final debt payments: describes account holders that have just made their final payment on a loan or finance deal, leading to a sudden, permanent drop in fixed outgoings and the opportunity to redirect those funds. Temporary surplus: describes account holders who typically spend a certain amount on groceries or dining out, which drops to zero at the same time as geolocation data shows a change in location. You could infer that the person is working away from home with their expenses covered, creating a temporary surplus of savings capacity. Paul’s top tip: “Static segments are the enemy of conversion. A customer who has savings capacity today might lose it tomorrow due to an unexpected bill. Your system must be architected to move users in and out of savings segments in real-time, using Smart Segmentation.” Step 3: Architect the goal-setting journey To maximise deposit growth, the goal-setting process must be integrated. Our own data shows that individuals who ‘actively work towards well-defined financial goals’ are around 10 times more likely to succeed. Reduce friction by making it easy to set up savings goals in-app. Offer quick-start templates based on common life stages, such as ‘Emergency Fund’, ‘First Home’, or ‘Dream Holiday’ to reduce cognitive load. “A goal should feel alive”, Paul notes. “It needs to be a constant visual reminder within the banking app”. Therefore, implementing a progress bar that updates in real-time tells the customer exactly when they’ll hit it based on current savings velocity. This gamifies the process and leads to higher engagement rates. Step 4: Send a nudge Now to the moment of truth; where your data-driven insights transform into a customer experience. “A nudge is any aspect of the choice architecture that alters people’s behaviour in a predictable way without forbidding any options or significantly changing their economic incentives.”, according to the book: Nudge. We’ve done a lot of in-house testing working with clients like Mercer and Aon to determine the best types and timings of nudges, as well as the messages within them. Paul explains: “In an account connections trial, we achieved a 75% open rate of nudges, with 44% of people going on to complete the intended action: connecting additional accounts. And in a separate lending trial, 69% of people opened a nudge that suggested a new card more suited to their spending and repayment habits, with 47% going on to investigate options and rates.” Based on the extensive internal research, we’re sharing our framework to constructing a high-conversion nudge: Journey-Audience match: Use metrics to build up context about a customer to get the best opportunity for interactions that are both relevant and timely. What this looks like in practice: use behavioural signals to explain why you’re reaching out and build trust with your customer. For example, ‘we’ve noticed your car insurance was £40 cheaper this month than last year. Why not sweep that £40 into your ‘holiday’ fund?’ Time your trigger: The time that a nudge is sent is an essential factor in its success. Be primed for the next action in the journey but wait for the trigger to nudge the customer. What this looks like in practice: use your intelligence layer to identify the liquidity peak – the point when the most cash is available. For example, within the first 24-48 hours of a salary deposit or expense reimbursement. Lead with the why People don’t save for the sake of saving, they make deposits for what the money represents. Link your copy directly to the customer’s self-defined savings goal. What this looks like in practice: replace: ‘want to move money to your savings?’ with: ‘you’re only £200 away from your New Kitchen milestone’. Framework step Nudge Customer action Journey-Audience criteria match “We’ve noticed your car insurance was £40 cheaper this month than last year. Why not sweep that £40 into your ‘holiday’ fund?’” Customer sets up monthly VRP into their savings account on months when insurance is £40 less than the threshold amount. Timely trigger “You’ve just received £132 in expense reimbursements. Looks like your current account balance will cover upcoming bills for the month, would you like to add it to your savings?” Customer agrees to a one-off savings sweep within 24-hours of receiving their extra income. The ‘why’ “You’re only £200 away from your New Kitchen milestone. Add money to reach your goal this month” Customer is reminded of their goal (and why they initially set it up), leading to extra movement to reach savings goal. Step 5: Integrate convenient payments The moment a customer clicks ‘yes, save my surplus’, the friction must be zero. This is where Variable Recurring Payments (VRPs), also known as Smart Payments, transform the deposit journey. Instead of a manual chore, it becomes an automated, high-velocity engine. Paul explains the strategic shift: “Traditional payment rails weren’t built for the Segment of One, they’re too rigid. Smart Payments allow us to set up automated sweeping rules that adapt to the customer’s real-time balance. It’s the difference between taking a fixed £100 every month and intelligently pulling the surplus £42.50 that the data identified.” Implementing a zero-friction payment journey To maximise your deposit growth, Paul recommends a two-pronged approach to integration: Pay-by-Bank for first-time deposits: bridge the 4-day funding gap by providing an instant deposit option during the onboarding flow. It’s how we worked with Nationwide to achieve a 75% reduction in time-to-first-deposit. Smart Payments for consistent, ongoing deposits: allow customers to set up sweeping rules, where consent is provided upfront. Gain an automated, predictable deposit stream with a set-and-forget path for the customer to reach their goals. Doubling the average balance at Paragon Bank Integrating convenient payment rails leads to technical elegance and bottom-line growth. In our work with Paragon Bank’s Spring Savings App, implementing Smart Payments from Moneyhub led to: 65% of all deposits made through frictionless Pay-by-Bank and Smart Payments (VRPs) Daily payment volumes doubling as the friction of manual saving was removed A 99% customer satisfaction rating, highlighting the ease of using and saving in the app READ THE CASE STUDY Increasing deposits with customer savings goals: your next steps Transitioning to a data-led savings model doesn’t require a big-bang legacy overhaul. Most of our partners begin their journey through a phased approach that delivers measurable ROI quickly, allowing you to prove the concept before scaling across your entire book. Start by assessing your vision for your current transaction categorisation and enrichment, auditing your time-to-first-deposit and the payment or transfer options that you currently offer. The technology to automate your deposit growth is already here, but every institution’s roadmap is unique. Whether you want to dive deeper into the VRP technical specs or discuss how to refine your customer segmentation, our team is ready to help. Contact us to explore how we can integrate into your existing infrastructure and start driving meaningful deposit and savings growth. FAQs Can you use transaction data for strategic growth? Yes, transaction data allows banks to identify capacity for savings across internal and external accounts and move it into their own high-value products. By understanding a customer’s spending habits and life events through data, institutions can proactively offer relevant services like mortgages or investments at the exact moment of customer need. How do VRPs differ from traditional Standing Orders/ Direct Debits? Standing Orders and Direct Debits are traditionally rigid, fixed-amount payments, whereas VRPs are dynamic and can adjust to a customer’s fluctuating income and expenses. This intelligence ensures that deposits are only initiated when the data identifies a genuine capacity to save. How can banks use data to guide customers? Banks can use enriched transaction data to identify a customer’s real-time discretionary surplus and trigger personalised nudges. This ensures every suggestion to save is based on the customer’s actual financial capacity rather than generic payday guesswork. About Paul Tutton: Paul Tutton is a payments and APIs expert from Bristol, UK. He’s been deeply ingrained in the finance industry for nine years, including delivering payments capabilities at a CMA9 bank. Paul enjoys helping businesses to make the most out of payments capabilities with Moneyhub, with a keen focus on building better outcomes for end users. These days, you might find Paul participating in forming the new industry led entity for Variable Recurring Payments, where he influences policy and the rollout of new technology. share LinkedIn Related posts Banking Feb 11, 2026 How we help financial institutions to identify fraudulent spending in real-time Catching fraudsters in real-time banking means: knowing your transactions, monitoring in real-time to detect suspicious activity and automating your fraud controls. Read more Banking Feb 11, 2026 How to get higher cross-sell and upsell conversion rates in banking Learn how to use your full aggregated datasets (primarily transaction data) to accurately predict what the customer needs and make the right offers. Read more Banking Feb 11, 2026 Product marketers: stop sleeping on transaction analysis to inform your targeting If product targeting feels like guesswork: gather your customer spending data,segment your customer base, complete transaction analysis and adjust your marketing messaging. Read more",
+      "children": [
+        {
+          "tag": "section",
+          "id": null,
+          "classes": [
+            "block",
+            "column-content-container",
+            "has--background-color",
+            "pt-12",
+            "pb-12",
+            "xl:py-24"
+          ],
+          "headlineText": "Related posts",
+          "innerTextSummary": "Related posts Banking Feb 11, 2026 How we help financial institutions to identify fraudulent spending in real-time Catching fraudsters in real-time banking means: knowing your transactions, monitoring in real-time to detect suspicious activ",
+          "wordCount": 119,
+          "body": [
+            "Catching fraudsters in real-time banking means: knowing your transactions, monitoring in real-time to detect suspicious activity and automating your fraud controls.",
+            "Read more",
+            "Learn how to use your full aggregated datasets (primarily transaction data) to accurately predict what the customer needs and make the right offers.",
+            "Read more",
+            "If product targeting feels like guesswork: gather your customer spending data,segment your customer base, complete transaction analysis and adjust your marketing messaging.",
+            "Read more"
+          ],
+          "lists": [
+            {
+              "ordered": false,
+              "items": [
+                "Banking"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "Banking"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "Banking"
+              ]
+            }
+          ],
+          "qa": [],
+          "quotes": []
+        }
+      ]
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": null,
+      "classes": [
+        "post-header"
+      ],
+      "innerText": "Use cases How to increase deposits with customer savings goals share LinkedIn",
+      "children": [
+        {
+          "tag": "div",
+          "id": null,
+          "classes": [
+            "grid",
+            "grid-cols-12"
+          ],
+          "headlineText": "How to increase deposits with customer savings goals",
+          "innerTextSummary": "Use cases How to increase deposits with customer savings goals share LinkedIn",
+          "wordCount": 12,
+          "body": [
+            "Use cases",
+            "share",
+            "LinkedIn"
+          ],
+          "lists": [],
+          "qa": [],
+          "quotes": []
+        }
+      ]
+    },
+    {
+      "tag": "footer",
+      "role": "contentinfo",
+      "id": "footer",
+      "classes": [
+        "has-dark-background-color",
+        "py-12",
+        "px-4",
+        "md:px-8",
+        "lg:px-16"
+      ],
+      "innerText": "Moneyhub London Office: 70 Gracechurch Street, London, UK EC3V 0HR Follow us LinkedIn Solutions Banking and Lending Solutions Smart Segmentation Smart Lending Smart Money Actions Smart Payments Smart Product Match Transaction Categorisation and Enrichment Pension and Wealth Solutions Build and Retain In Retirement Pensions Dashboard Smart Fact Find Targeted Support Win Schemes Products Payments Data Explorer Embedded Solutions and Portals Data Insights and Recommendations Data Aggregation Categorisation and Enrichment Engine Policies & Info Global Privacy Policy ESG Report Modern Slavery Policy Security and Trust Global Terms of Use API Terms of Use Cookie Settings Connections Status Press and partners Glossary Moneyhub and Moneyhub Enterprise are trading styles of Moneyhub Financial Technology Limited, a company registered in England and Wales (company number 06909772) and its registered address at C/O Roxburgh Milkins Limited Merchants House North, Wapping Road, Bristol, BS1 4RW, United Kingdom. Moneyhub Financial Technology is authorised and regulated by the Financial Conduct Authority (FCA) and is a registered AISP (Account Information Service Provider) and PISP (Payment Initiation Service Provider). Reference no. 809360 found at fca.org.uk/register. © Moneyhub Financial Technology Limited 2026.",
+      "children": [
+        {
+          "tag": "div",
+          "id": null,
+          "classes": [
+            "container",
+            "mx-auto",
+            "has-parent-dark"
+          ],
+          "headlineText": "Follow us",
+          "innerTextSummary": "Moneyhub London Office: 70 Gracechurch Street, London, UK EC3V 0HR Follow us LinkedIn Solutions Banking and Lending Solutions Smart Segmentation Smart Lending Smart Money Actions Smart Payments Smart Product Match Transaction Categorisation",
+          "wordCount": 181,
+          "body": [
+            "London Office: 70 Gracechurch Street, London, UK EC3V 0HR",
+            "Moneyhub and Moneyhub Enterprise are trading styles of Moneyhub Financial Technology Limited, a company registered in England and Wales (company number 06909772) and its registered address at C/O Roxburgh Milkins Limited Merchants House North, Wapping Road, Bristol, BS1 4RW, United Kingdom. Moneyhub Financial Technology is authorised and regulated by the Financial Conduct Authority (FCA) and is a registered AISP (Account Information Service Provider) and PISP (Payment Initiation Service Provider). Reference no. 809360 found at fca.org.uk/register.",
+            "© Moneyhub Financial Technology Limited 2026."
+          ],
+          "lists": [
+            {
+              "ordered": false,
+              "items": [
+                "LinkedIn"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "Banking and Lending Solutions Smart Segmentation Smart Lending Smart Money Actions Smart Payments Smart Product Match Transaction Categorisation and Enrichment"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "Smart Segmentation",
+                "Smart Lending",
+                "Smart Money Actions",
+                "Smart Payments",
+                "Smart Product Match",
+                "Transaction Categorisation and Enrichment"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "Pension and Wealth Solutions Build and Retain In Retirement Pensions Dashboard Smart Fact Find Targeted Support Win Schemes"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "Build and Retain",
+                "In Retirement",
+                "Pensions Dashboard",
+                "Smart Fact Find",
+                "Targeted Support",
+                "Win Schemes"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "Payments",
+                "Data Explorer",
+                "Embedded Solutions and Portals",
+                "Data Insights and Recommendations",
+                "Data Aggregation",
+                "Categorisation and Enrichment Engine"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "Global Privacy Policy",
+                "ESG Report",
+                "Modern Slavery Policy",
+                "Security and Trust",
+                "Global Terms of Use",
+                "API Terms of Use",
+                "Cookie Settings",
+                "Connections Status",
+                "Press and partners",
+                "Glossary"
+              ]
+            }
+          ],
+          "qa": [],
+          "quotes": []
+        }
+      ]
+    },
+    {
+      "tag": "a",
+      "role": "navigation",
+      "id": null,
+      "classes": [
+        "block",
+        "brand",
+        "mb-6",
+        "col-span-2",
+        "max-w-full"
+      ],
+      "innerText": "Moneyhub",
+      "children": []
+    },
+    {
+      "tag": "nav",
+      "role": null,
+      "id": null,
+      "classes": [
+        "col-span-1",
+        "pe-5"
+      ],
+      "innerText": "Banking and Lending Solutions Smart Segmentation Smart Lending Smart Money Actions Smart Payments Smart Product Match Transaction Categorisation and Enrichment",
+      "children": []
+    },
+    {
+      "tag": "nav",
+      "role": null,
+      "id": null,
+      "classes": [
+        "col-span-1",
+        "pe-5"
+      ],
+      "innerText": "Pension and Wealth Solutions Build and Retain In Retirement Pensions Dashboard Smart Fact Find Targeted Support Win Schemes",
+      "children": []
+    },
+    {
+      "tag": "nav",
+      "role": null,
+      "id": null,
+      "classes": [
+        "col-span-1",
+        "pe-5"
+      ],
+      "innerText": "",
+      "children": []
+    },
+    {
+      "tag": "nav",
+      "role": null,
+      "id": null,
+      "classes": [
+        "pe-5"
+      ],
+      "innerText": "Payments Data Explorer Embedded Solutions and Portals Data Insights and Recommendations Data Aggregation Categorisation and Enrichment Engine",
+      "children": []
+    },
+    {
+      "tag": "nav",
+      "role": null,
+      "id": null,
+      "classes": [
+        "pe-5"
+      ],
+      "innerText": "Global Privacy Policy ESG Report Modern Slavery Policy Security and Trust Global Terms of Use API Terms of Use Cookie Settings Connections Status Press and partners Glossary",
+      "children": []
+    },
+    {
+      "tag": "nav",
+      "role": null,
+      "id": null,
+      "classes": [],
+      "innerText": "",
+      "children": []
+    },
+    {
+      "tag": "nav",
+      "role": null,
+      "id": null,
+      "classes": [
+        "pe-5"
+      ],
+      "innerText": "",
+      "children": []
+    }
+  ],
+  "ctas": [
+    {
+      "label": "Customise",
+      "href": null,
+      "tag": "button",
+      "domPath": "div.cky-consent-bar > div.cky-notice-content-wrapper > div.cky-notice > div.cky-notice-group > div.cky-notice-btn-wrapper > button.cky-btn.cky-btn-customize",
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(33, 33, 33)",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": "500",
+        "borderRadius": "2px",
+        "padding": "8px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "fold"
+    },
+    {
+      "label": "Accept All",
+      "href": null,
+      "tag": "button",
+      "domPath": "div.cky-consent-bar > div.cky-notice-content-wrapper > div.cky-notice > div.cky-notice-group > div.cky-notice-btn-wrapper > button.cky-btn.cky-btn-accept",
+      "style": {
+        "backgroundColor": "rgb(239, 85, 32)",
+        "color": "rgb(255, 255, 255)",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": "500",
+        "borderRadius": "2px",
+        "padding": "8px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "fold"
+    },
+    {
+      "label": "Close",
+      "href": null,
+      "tag": "button",
+      "domPath": "div#ckyPreferenceCenter > div.cky-preference-header > button.cky-btn-close",
+      "style": {
+        "backgroundColor": "rgba(255, 255, 255, 0)",
+        "color": "rgb(33, 33, 33)",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": "400",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "below-fold"
+    },
+    {
+      "label": "Show more",
+      "href": null,
+      "tag": "button",
+      "domPath": "div#ckyPreferenceCenter > div.cky-preference-body-wrapper > div.cky-preference-content-wrapper > p > button.cky-show-desc-btn",
+      "style": {
+        "backgroundColor": "rgba(255, 255, 255, 0)",
+        "color": "rgb(24, 99, 220)",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": "400",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "below-fold"
+    },
+    {
+      "label": "Necessary",
+      "href": null,
+      "tag": "button",
+      "domPath": "div#ckyDetailCategorynecessary > div.cky-accordion-item > div.cky-accordion-header-wrapper > div.cky-accordion-header > button.cky-accordion-btn",
+      "style": {
+        "backgroundColor": "rgba(255, 255, 255, 0)",
+        "color": "rgb(33, 33, 33)",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": "700",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "below-fold"
+    },
+    {
+      "label": "Functional",
+      "href": null,
+      "tag": "button",
+      "domPath": "div#ckyDetailCategoryfunctional > div.cky-accordion-item > div.cky-accordion-header-wrapper > div.cky-accordion-header > button.cky-accordion-btn",
+      "style": {
+        "backgroundColor": "rgba(255, 255, 255, 0)",
+        "color": "rgb(33, 33, 33)",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": "700",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "below-fold"
+    },
+    {
+      "label": "Analytics",
+      "href": null,
+      "tag": "button",
+      "domPath": "div#ckyDetailCategoryanalytics > div.cky-accordion-item > div.cky-accordion-header-wrapper > div.cky-accordion-header > button.cky-accordion-btn",
+      "style": {
+        "backgroundColor": "rgba(255, 255, 255, 0)",
+        "color": "rgb(33, 33, 33)",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": "700",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "below-fold"
+    },
+    {
+      "label": "Performance",
+      "href": null,
+      "tag": "button",
+      "domPath": "div#ckyDetailCategoryperformance > div.cky-accordion-item > div.cky-accordion-header-wrapper > div.cky-accordion-header > button.cky-accordion-btn",
+      "style": {
+        "backgroundColor": "rgba(255, 255, 255, 0)",
+        "color": "rgb(33, 33, 33)",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": "700",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "below-fold"
+    },
+    {
+      "label": "Advertisement",
+      "href": null,
+      "tag": "button",
+      "domPath": "div#ckyDetailCategoryadvertisement > div.cky-accordion-item > div.cky-accordion-header-wrapper > div.cky-accordion-header > button.cky-accordion-btn",
+      "style": {
+        "backgroundColor": "rgba(255, 255, 255, 0)",
+        "color": "rgb(33, 33, 33)",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": "700",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "below-fold"
+    },
+    {
+      "label": "Uncategorised",
+      "href": null,
+      "tag": "button",
+      "domPath": "div#ckyDetailCategoryother > div.cky-accordion-item > div.cky-accordion-header-wrapper > div.cky-accordion-header > button.cky-accordion-btn",
+      "style": {
+        "backgroundColor": "rgba(255, 255, 255, 0)",
+        "color": "rgb(33, 33, 33)",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": "700",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "below-fold"
+    },
+    {
+      "label": "Save My Preferences",
+      "href": null,
+      "tag": "button",
+      "domPath": "div#ckyPreferenceCenter > div.cky-footer-wrapper > div.cky-prefrence-btn-wrapper > button.cky-btn.cky-btn-preferences",
+      "style": {
+        "backgroundColor": "rgb(239, 85, 32)",
+        "color": "rgb(255, 255, 255)",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": "500",
+        "borderRadius": "2px",
+        "padding": "8px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "below-fold"
+    },
+    {
+      "label": "Accept All",
+      "href": null,
+      "tag": "button",
+      "domPath": "div#ckyPreferenceCenter > div.cky-footer-wrapper > div.cky-prefrence-btn-wrapper > button.cky-btn.cky-btn-accept",
+      "style": {
+        "backgroundColor": "rgb(239, 85, 32)",
+        "color": "rgb(255, 255, 255)",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": "500",
+        "borderRadius": "2px",
+        "padding": "8px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "below-fold"
+    },
+    {
+      "label": "Solutions",
+      "href": "#",
+      "tag": "a",
+      "domPath": "div.container.mx-auto > div.navbar-header.flex > div.flex.items-center > ul.menu.nav > li.mx-2.xl:mx-5 > a.dropdown-toggle.flex",
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(41, 51, 56)",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": "700",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "fold"
+    },
+    {
+      "label": "Products",
+      "href": "#",
+      "tag": "a",
+      "domPath": "div.container.mx-auto > div.navbar-header.flex > div.flex.items-center > ul.menu.nav > li.mx-2.xl:mx-5 > a.dropdown-toggle.flex",
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(41, 51, 56)",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": "700",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "fold"
+    },
+    {
+      "label": "Developers",
+      "href": "#",
+      "tag": "a",
+      "domPath": "div.container.mx-auto > div.navbar-header.flex > div.flex.items-center > ul.menu.nav > li.mx-2.xl:mx-5 > a.dropdown-toggle.flex",
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(41, 51, 56)",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": "700",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "fold"
+    },
+    {
+      "label": "Discover",
+      "href": "#",
+      "tag": "a",
+      "domPath": "div.container.mx-auto > div.navbar-header.flex > div.flex.items-center > ul.menu.nav > li.mx-2.xl:mx-5 > a.dropdown-toggle.flex",
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(41, 51, 56)",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": "700",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "fold"
+    },
+    {
+      "label": "About",
+      "href": "#",
+      "tag": "a",
+      "domPath": "div.container.mx-auto > div.navbar-header.flex > div.flex.items-center > ul.menu.nav > li.mx-2.xl:mx-5 > a.dropdown-toggle.flex",
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(41, 51, 56)",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": "700",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "fold"
+    },
+    {
+      "label": "Toggle Navigation",
+      "href": null,
+      "tag": "button",
+      "domPath": "header#header > div.container.mx-auto > div.navbar-header.flex > div.flex.items-center > div.navbar-buttons.flex > button.navbar-toggle.collapsed",
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": "400",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "fold"
+    },
+    {
+      "label": "Can you use transaction data for strategic growth?",
+      "href": null,
+      "tag": "button",
+      "domPath": "button#panelLabel",
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "borderRadius": "0px",
+        "padding": "0px 75px 0px 0px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "below-fold"
+    },
+    {
+      "label": "How do VRPs differ from traditional Standing Orders/ Direct Debits?",
+      "href": null,
+      "tag": "button",
+      "domPath": "button#panelLabel",
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "borderRadius": "0px",
+        "padding": "0px 75px 0px 0px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "below-fold"
+    },
+    {
+      "label": "How can banks use data to guide customers?",
+      "href": null,
+      "tag": "button",
+      "domPath": "button#panelLabel",
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "borderRadius": "0px",
+        "padding": "0px 75px 0px 0px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "below-fold"
+    },
+    {
+      "label": "Banking and Lending Solutions",
+      "href": "https://moneyhub.com/solutions/banking-and-lending-solutions/",
+      "tag": "a",
+      "domPath": "div.footer__nav--list > div.grid.grid-cols-2 > nav.col-span-1.pe-5 > ul > li > a.dropdown-toggle.flex",
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": "400",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "below-fold"
+    },
+    {
+      "label": "Pension and Wealth Solutions",
+      "href": "https://moneyhub.com/solutions/pension-and-wealth-solutions/",
+      "tag": "a",
+      "domPath": "div.footer__nav--list > div.grid.grid-cols-2 > nav.col-span-1.pe-5 > ul > li > a.dropdown-toggle.flex",
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": "400",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "below-fold"
+    }
+  ],
+  "links": {
+    "internal": [
+      {
+        "href": "/",
+        "text": "Moneyhub",
+        "domPath": "header#header > div.container.mx-auto > div.navbar-header.flex > div.flex.flex-wrap > a.block.mb-4---"
+      },
+      {
+        "href": "/solutions/banking-and-lending-solutions/",
+        "text": "Banking and Lending Solutions",
+        "domPath": "div.flex.items-center > ul.menu.nav > li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-post_type > a"
+      },
+      {
+        "href": "/solutions/banking-and-lending-solutions/transaction-categorisation-enrichment/",
+        "text": "Transaction Categorisation and Enrichment",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-post_type > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/solutions/banking-and-lending-solutions/smart-segmentation/",
+        "text": "Smart Segmentation",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-post_type > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/solutions/banking-and-lending-solutions/smart-money-actions/",
+        "text": "Smart Money Actions",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-post_type > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/solutions/banking-and-lending-solutions/smart-product-match/",
+        "text": "Smart Product Match",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-post_type > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/solutions/banking-and-lending-solutions/smart-payments/",
+        "text": "Smart Payments",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-post_type > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/solutions/banking-and-lending-solutions/smart-lending/",
+        "text": "Smart Lending",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-post_type > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/solutions/pension-and-wealth-solutions/",
+        "text": "Pension and Wealth Solutions",
+        "domPath": "div.flex.items-center > ul.menu.nav > li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-post_type > a"
+      },
+      {
+        "href": "/solutions/pension-and-wealth-solutions/win-schemes/",
+        "text": "Win Schemes",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-post_type > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/solutions/pension-and-wealth-solutions/build-and-retain/",
+        "text": "Build and Retain",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-post_type > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/solutions/pension-and-wealth-solutions/in-retirement/",
+        "text": "In Retirement",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-post_type > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/solutions/pension-and-wealth-solutions/pensions-dashboards/",
+        "text": "Pensions Dashboard",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-post_type > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/solutions/pension-and-wealth-solutions/targeted-support/",
+        "text": "Targeted Support",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-post_type > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/solutions/pension-and-wealth-solutions/smart-fact-find/",
+        "text": "Smart Fact Find",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-post_type > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/products/categorisation-enrichment-engine/",
+        "text": "Categorisation and Enrichment Engine",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-custom > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/products/data-aggregation/",
+        "text": "Data Aggregation",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-custom > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/products/data-insights-recommendations/",
+        "text": "Data Insights and Recommendations",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-custom > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/products/embedded-solutions-portals/",
+        "text": "Embedded Solutions and Portals",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-custom > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/products/data-explorer/",
+        "text": "Data Explorer",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-custom > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/products/payments/",
+        "text": "Payments",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-custom > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/articles/",
+        "text": "Articles",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-custom > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/case-studies/",
+        "text": "Case studies",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-custom > ul > li.menu-item.menu-item-type-custom > a.py-2.block"
+      },
+      {
+        "href": "/discover/guide-to-categorisation-and-enrichment/",
+        "text": "Categorisation and Enrichment",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-custom > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/press-releases/",
+        "text": "Press Releases",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-custom > ul > li.menu-item.menu-item-type-custom > a.py-2.block"
+      },
+      {
+        "href": "/use-cases/",
+        "text": "Use Cases",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-custom > ul > li.menu-item.menu-item-type-post_type_archive > a.py-2.block"
+      },
+      {
+        "href": "/webinars/",
+        "text": "Webinars",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-custom > ul > li.menu-item.menu-item-type-custom > a.py-2.block"
+      },
+      {
+        "href": "/about/",
+        "text": "About",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-custom > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/careers/",
+        "text": "Careers",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-custom > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/contact/",
+        "text": "CONTACT",
+        "domPath": "div.container.mx-auto > div.navbar-header.flex > div.flex.items-center > ul.menu.nav > li.btn-contact > a.button.button--primary"
+      },
+      {
+        "href": "/press-releases/latest-moneyhub-release-puts-an-end-to-unrecognised-transaction-panic/",
+        "text": "Latest Moneyhub release puts an end to unrecognised transaction panic",
+        "domPath": "header#header > a.header-banner"
+      },
+      {
+        "href": "/use-cases/",
+        "text": "Use cases",
+        "domPath": "article.px-4.md:px-8 > div.container.mx-auto > header.post-header > div.grid.grid-cols-12 > p.col-span-12.mb-4 > a.flex.items-center"
+      },
+      {
+        "href": "/use-cases/?_categories=banking",
+        "text": "Banking",
+        "domPath": "div.post-body.grid > div.col-span-12.lg:col-span-4 > div.sticky.top-32 > ul.list-none.flex > li.me-4.rounded-full > a"
+      },
+      {
+        "href": "/case-studies/nationwide-deploys-real-time-savings-account-funding-through-open-banking-payments/",
+        "text": "4% of new accounts to close",
+        "domPath": "article.px-4.md:px-8 > div.container.mx-auto > div.post-body.grid > div.post-content.basic-content--wysiwyg > p.wp-block-paragraph > a"
+      },
+      {
+        "href": "/products/data-aggregation/",
+        "text": "data aggregation",
+        "domPath": "article.px-4.md:px-8 > div.container.mx-auto > div.post-body.grid > div.post-content.basic-content--wysiwyg > p.wp-block-paragraph > a"
+      },
+      {
+        "href": "/demo-request-form/",
+        "text": "BOOK A DEMO",
+        "domPath": "div.container.mx-auto > div.grid.grid-cols-12 > div.col-span-12.lg:py-16 > div.base-content.has-parent-light > div.flex.gap-6 > a.button.button--secondary"
+      },
+      {
+        "href": "/case-studies/how-spring-app-transformed-digital-savings-with-moneyhub/",
+        "text": "Paragon Bank",
+        "domPath": "div.container.mx-auto > div.post-body.grid > div.post-content.basic-content--wysiwyg > ul.wp-block-list > li > a"
+      },
+      {
+        "href": "/glossary/nudges-in-financial-services/",
+        "text": "best types and timings of nudges",
+        "domPath": "article.px-4.md:px-8 > div.container.mx-auto > div.post-body.grid > div.post-content.basic-content--wysiwyg > p.wp-block-paragraph > a"
+      },
+      {
+        "href": "/case-studies/how-spring-app-transformed-digital-savings-with-moneyhub/",
+        "text": "READ THE CASE STUDY",
+        "domPath": "div.container.mx-auto > div.grid.grid-cols-12 > div.col-span-12.lg:py-16 > div.base-content.has-parent-light > div.flex.gap-6 > a.button.button--secondary"
+      },
+      {
+        "href": "/contact/",
+        "text": "Contact us to explore how we can integrate into your existing infrastructure and",
+        "domPath": "article.px-4.md:px-8 > div.container.mx-auto > div.post-body.grid > div.post-content.basic-content--wysiwyg > p.wp-block-paragraph > a"
+      },
+      {
+        "href": "/use-cases/identify-fraud-real-time-banking-app/",
+        "text": "Banking Feb 11, 2026 How we help financial institutions to identify fraudulent s",
+        "domPath": "section.block.column-content-container > div.container.mx-auto > div.grid.grid-cols-12 > div.col-span-12.md:col-span-4 > article.col-span-12.md:col-span-6 > a.no-underline.has-parent-"
+      },
+      {
+        "href": "/use-cases/cross-sell-upsell-banking/",
+        "text": "Banking Feb 11, 2026 How to get higher cross-sell and upsell conversion rates in",
+        "domPath": "section.block.column-content-container > div.container.mx-auto > div.grid.grid-cols-12 > div.col-span-12.md:col-span-4 > article.col-span-12.md:col-span-6 > a.no-underline.has-parent-"
+      },
+      {
+        "href": "/use-cases/transaction-analysis-product-marketing/",
+        "text": "Banking Feb 11, 2026 Product marketers: stop sleeping on transaction analysis to",
+        "domPath": "section.block.column-content-container > div.container.mx-auto > div.grid.grid-cols-12 > div.col-span-12.md:col-span-4 > article.col-span-12.md:col-span-6 > a.no-underline.has-parent-"
+      },
+      {
+        "href": "/contact/",
+        "text": "GET STARTED",
+        "domPath": "div.container.mx-auto > div.grid.grid-cols-12 > div.col-span-12.md:col-span-6 > div.base-content.has-parent- > div.flex.gap-6 > a.button.button--primary"
+      },
+      {
+        "href": "/policies/privacy-policy/",
+        "text": "Global Privacy Policy",
+        "domPath": "div.grid.grid-cols-2 > div.footer__nav--list.mb-6 > nav.pe-5 > ul > li > a.flex.items-center"
+      },
+      {
+        "href": "/policies/environmental-social-and-governance-report/",
+        "text": "ESG Report",
+        "domPath": "div.grid.grid-cols-2 > div.footer__nav--list.mb-6 > nav.pe-5 > ul > li > a.flex.items-center"
+      },
+      {
+        "href": "/policies/modern-slavery-and-human-trafficking-policy/",
+        "text": "Modern Slavery Policy",
+        "domPath": "div.grid.grid-cols-2 > div.footer__nav--list.mb-6 > nav.pe-5 > ul > li > a.flex.items-center"
+      },
+      {
+        "href": "/policies/security-and-trust-at-moneyhub/",
+        "text": "Security and Trust",
+        "domPath": "div.grid.grid-cols-2 > div.footer__nav--list.mb-6 > nav.pe-5 > ul > li > a.flex.items-center"
+      },
+      {
+        "href": "/policies/global-terms-of-use/",
+        "text": "Global Terms of Use",
+        "domPath": "div.grid.grid-cols-2 > div.footer__nav--list.mb-6 > nav.pe-5 > ul > li > a.flex.items-center"
+      },
+      {
+        "href": "/policies/api-terms-of-use/",
+        "text": "API Terms of Use",
+        "domPath": "div.grid.grid-cols-2 > div.footer__nav--list.mb-6 > nav.pe-5 > ul > li > a.flex.items-center"
+      },
+      {
+        "href": "/status/",
+        "text": "Connections Status",
+        "domPath": "div.grid.grid-cols-2 > div.footer__nav--list.mb-6 > nav.pe-5 > ul > li > a.flex.items-center"
+      },
+      {
+        "href": "/press-and-partners/",
+        "text": "Press and partners",
+        "domPath": "div.grid.grid-cols-2 > div.footer__nav--list.mb-6 > nav.pe-5 > ul > li > a.flex.items-center"
+      },
+      {
+        "href": "/glossary",
+        "text": "Glossary",
+        "domPath": "div.grid.grid-cols-2 > div.footer__nav--list.mb-6 > nav.pe-5 > ul > li > a.flex.items-center"
+      }
+    ],
+    "external": [
+      {
+        "href": "https://www.cookieyes.com/product/cookie-consent/?ref=cypbcyb&utm_source=cookie-banner&utm_medium=fl-branding",
+        "text": "",
+        "domPath": "div.cky-hide.cky-consent-container > div.cky-consent-bar > div > div > div > a"
+      },
+      {
+        "href": "https://docs.moneyhubenterprise.com/",
+        "text": "API Developer Hub",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-custom > ul > li.menu-item.menu-item-type-custom > a.py-2.block"
+      },
+      {
+        "href": "https://docs.moneyhubenterprise.com/docs/admin-portal-sign-up",
+        "text": "Access Sandbox",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-custom > ul > li.menu-item.menu-item-type-custom > a.py-2.block"
+      },
+      {
+        "href": "https://www.linkedin.com/shareArticle?url=https://moneyhub.com/use-cases/increase-deposits-with-savings-goals/",
+        "text": "LinkedIn",
+        "domPath": "div.container.mx-auto > header.post-header > div.grid.grid-cols-12 > div.mb-12.col-span-12 > p.flex.gap-4 > a.hover:underline"
+      },
+      {
+        "href": "https://www.openbankingexpo.com/news/moneyhub-cooks-up-savings-goals-api-recipe/#:~:text=However%2C%20individuals%20who%20%E2%80%9Cactively%20work,their%20finances%20after%20one%20year.",
+        "text": "10 times more likely",
+        "domPath": "article.px-4.md:px-8 > div.container.mx-auto > div.post-body.grid > div.post-content.basic-content--wysiwyg > p.wp-block-paragraph > a"
+      },
+      {
+        "href": "https://www.linkedin.com/company/10994971",
+        "text": "LinkedIn",
+        "domPath": "div.footer__content.grid > div.col-span-12.md:col-span-3 > div.col-span-1.md:col-span-2 > ul.footer__social--- > li > a"
+      }
+    ]
+  },
+  "media": {
+    "images": [
+      {
+        "src": "https://cdn-cookieyes.com/assets/images/close.svg",
+        "srcset": null,
+        "alt": "cky-close-icon",
+        "naturalWidth": 10,
+        "naturalHeight": 10
+      },
+      {
+        "src": "https://moneyhub.com/wp-content/uploads/2026/02/Paul-1-182x182-c-default.jpg",
+        "srcset": null,
+        "alt": "Paul Tutton",
+        "naturalWidth": 182,
+        "naturalHeight": 182
+      },
+      {
+        "src": "https://moneyhub.com/wp-content/uploads/2026/02/Category-taxonomy-BQ-eg-1.png",
+        "srcset": "https://moneyhub.com/wp-content/uploads/2026/02/Category-taxonomy-BQ-eg-1-1024x547.png 1024w, https://moneyhub.com/wp-content/uploads/2026/02/Category-taxonomy-BQ-eg-1-300x160.png 300w, https://moneyhub.com/wp-content/uploads/2026/02/Category-taxonomy-BQ-eg-1-768x410.png 768w, https://moneyhub.com/wp-content/uploads/2026/02/Category-taxonomy-BQ-eg-1.png 1331w",
+        "alt": "Flowchart to show the journey of a spending transaction in the Moneyhub Categorisation and Enrichment Engine. This example shows personal expenditure category at level 1, home improvement at level 2, and DIY at level 3",
+        "naturalWidth": 789,
+        "naturalHeight": 421
+      },
+      {
+        "src": "https://moneyhub.com/wp-content/uploads/2026/02/Segmented-groups-of-account-users.jpg",
+        "srcset": "https://moneyhub.com/wp-content/uploads/2026/02/Segmented-groups-of-account-users-1024x308.jpg 1024w, https://moneyhub.com/wp-content/uploads/2026/02/Segmented-groups-of-account-users-300x90.jpg 300w, https://moneyhub.com/wp-content/uploads/2026/02/Segmented-groups-of-account-users-768x231.jpg 768w, https://moneyhub.com/wp-content/uploads/2026/02/Segmented-groups-of-account-users-1536x462.jpg 1536w, https://moneyhub.com/wp-content/uploads/2026/02/Segmented-groups-of-account-users.jpg 1920w",
+        "alt": "Four examples of segments: current account coasters, new retirees, final debt payments and temporary surplus",
+        "naturalWidth": 789,
+        "naturalHeight": 237
+      },
+      {
+        "src": "https://moneyhub.com/wp-content/uploads/2026/02/Savings-account-templates-2048x1362.jpg",
+        "srcset": "https://moneyhub.com/wp-content/uploads/2026/02/Savings-account-templates-1024x681.jpg 1024w, https://moneyhub.com/wp-content/uploads/2026/02/Savings-account-templates-300x200.jpg 300w, https://moneyhub.com/wp-content/uploads/2026/02/Savings-account-templates-768x511.jpg 768w, https://moneyhub.com/wp-content/uploads/2026/02/Savings-account-templates-1536x1022.jpg 1536w, https://moneyhub.com/wp-content/uploads/2026/02/Savings-account-templates-2048x1362.jpg 2048w",
+        "alt": "Photo shows a close up phone screen in hands, screen shows nudges to set up savings goals for emergency fund and dream holiday",
+        "naturalWidth": 789,
+        "naturalHeight": 524
+      },
+      {
+        "src": "https://moneyhub.com/use-cases/increase-deposits-with-savings-goals/",
+        "srcset": null,
+        "alt": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://moneyhub.com/use-cases/increase-deposits-with-savings-goals/",
+        "srcset": null,
+        "alt": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://moneyhub.com/use-cases/increase-deposits-with-savings-goals/",
+        "srcset": null,
+        "alt": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://moneyhub.com/wp-content/themes/moneyhub/img/CCSS-logo.png",
+        "srcset": null,
+        "alt": "Crown Commercial Service Supplier",
+        "naturalWidth": 234,
+        "naturalHeight": 189
+      },
+      {
+        "src": "https://bat.bing.com/action/0?ti=52007878&tm=gtm002&Ver=2&mid=f90ef0ec-11fb-48c5-ac6b-06d74014f5b1&bo=3&sid=4a0a9730720911f1a6cd5372eabfffa5&vid=4a0a80c0720911f1a397b9b6ec4068d7&vids=0&msclkid=N&pi=0&lg=en-US&sw=1440&sh=900&sc=24&nwd=1&tl=How%20to%20increase%20deposits%20with%20customer%20savings%20goals%20-%20Moneyhub&p=https%3A%2F%2Fmoneyhub.com%2Fuse-cases%2Fincrease-deposits-with-savings-goals%2F&r=&lt=341&evt=pageLoad&sv=2&asc=G&cdb=AQcT&rn=246653",
+        "srcset": null,
+        "alt": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      }
+    ],
+    "inlineSvgCount": 14,
+    "iframes": [
+      {
+        "src": "https://16925211.fls.doubleclick.net/activityi;src=16925211;type=land0;cat=smp-a0;rcb=15;ord=244690386300;npa=0;auiddc=1826515049.1782551964;gdid=dY2Q2ZW;uaa=x86;uab=64;uafvl=HeadlessChrome%3B149.0.7827.55%7CChromium%3B149.0.7827.55%7CNot)A%253BBrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=10_15_7;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe66p0h2v9251705574z8845167050za20gzb845167050zd845167050xea;gcs=G111;gcd=13r3r3r2r5l1;dma_cps=a;dma=1;dc_fmt=2;tag_exp=115616986~115938465~115938468~119027224~119576891~119576895;epver=2;dc_random=1782552006_0VCK3w3WoWK9sT2vFKRmNw5cGC3ge06aog;_dc_test=1;~oref=https%3A%2F%2Fmoneyhub.com%2Fuse-cases%2Fincrease-deposits-with-savings-goals%2F?",
+        "title": null
+      },
+      {
+        "src": "https://16925211.fls.doubleclick.net/activityi;src=16925211;type=land0;cat=smp-20;rcb=15;ord=4101523980998;npa=0;auiddc=1826515049.1782551964;gdid=dY2Q2ZW;uaa=x86;uab=64;uafvl=HeadlessChrome%3B149.0.7827.55%7CChromium%3B149.0.7827.55%7CNot)A%253BBrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=10_15_7;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe66p0h2v9251705574z8845167050za20gzb845167050zd845167050xea;gcs=G111;gcd=13r3r3r2r5l1;dma_cps=a;dma=1;dc_fmt=2;tag_exp=115616986~115938465~115938468~119027224~119576891~119576895;epver=2;dc_random=1782552006_NiHzTj5aSNnmoklZ1UAJdtIZALdmSJEGpg;_dc_test=1;~oref=https%3A%2F%2Fmoneyhub.com%2Fuse-cases%2Fincrease-deposits-with-savings-goals%2F?",
+        "title": null
+      },
+      {
+        "src": "https://16925211.fls.doubleclick.net/activityi;src=16925211;type=land0;cat=smp-20;rcb=15;ord=4330810309034;npa=0;auiddc=1826515049.1782551964;gdid=dY2Q2ZW;uaa=x86;uab=64;uafvl=HeadlessChrome%3B149.0.7827.55%7CChromium%3B149.0.7827.55%7CNot)A%253BBrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=10_15_7;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe66p0h2v9251705574z8845167050za20gzb845167050zd845167050xea;gcs=G111;gcd=13r3r3r2r5l1;dma_cps=a;dma=1;dc_fmt=2;tag_exp=115616986~115938465~115938468~119027224~119576891~119576895;epver=2;dc_random=1782552006_F9LVhZ7bVKO_FMW4pktD9wFEbD7DNYR2Pw;_dc_test=1;~oref=https%3A%2F%2Fmoneyhub.com%2Fuse-cases%2Fincrease-deposits-with-savings-goals%2F?",
+        "title": null
+      },
+      {
+        "src": "",
+        "title": "archetype"
+      },
+      {
+        "src": "https://16925211.fls.doubleclick.net/activityi;src=16925211;type=land0;cat=smp-50;rcb=15;ord=9926541102576;npa=0;auiddc=1826515049.1782551964;gdid=dY2Q2ZW;uaa=x86;uab=64;uafvl=HeadlessChrome%3B149.0.7827.55%7CChromium%3B149.0.7827.55%7CNot)A%253BBrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=10_15_7;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe66p0h2v9251705574z8845167050za20gzb845167050zd845167050xea;gcs=G111;gcd=13r3r3r2r5l1;dma_cps=a;dma=1;dc_fmt=2;tag_exp=115616986~115938465~115938468~119027224~119576891~119576895;epver=2;dc_random=1782552010_HOBoq7KtMIwL3dlI3j-s0FnrF4ghhqwCdQ;_dc_test=1;~oref=https%3A%2F%2Fmoneyhub.com%2Fuse-cases%2Fincrease-deposits-with-savings-goals%2F?",
+        "title": null
+      },
+      {
+        "src": "https://16925211.fls.doubleclick.net/activityi;src=16925211;type=land0;cat=smp-80;rcb=15;ord=6043185629749;npa=0;auiddc=1826515049.1782551964;gdid=dY2Q2ZW;uaa=x86;uab=64;uafvl=HeadlessChrome%3B149.0.7827.55%7CChromium%3B149.0.7827.55%7CNot)A%253BBrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=10_15_7;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe66p0h2v9251705574z8845167050za20gzb845167050zd845167050xea;gcs=G111;gcd=13r3r3r2r5l1;dma_cps=a;dma=1;dc_fmt=2;tag_exp=115616986~115938465~115938468~119027224~119576891~119576895;epver=2;dc_random=1782552011_VC1k877pn_1lfIv9t-Jyyd7U9PD2PBl8Pw;_dc_test=1;~oref=https%3A%2F%2Fmoneyhub.com%2Fuse-cases%2Fincrease-deposits-with-savings-goals%2F?",
+        "title": null
+      }
+    ],
+    "videos": [],
+    "cssBackgrounds": [
+      {
+        "urls": [
+          "https://moneyhub.com/wp-content/themes/moneyhub/img/pattern.webp"
+        ],
+        "domPath": "html > body.wp-singular.use-cases-template-default",
+        "rect": {
+          "w": 1440,
+          "h": 12464,
+          "top": 0
+        },
+        "backgroundSize": "238px 137px",
+        "backgroundPosition": "0% 0%",
+        "backgroundRepeat": "repeat"
+      }
+    ]
+  },
+  "forms": [
+    {
+      "action": null,
+      "method": "get",
+      "fields": [
+        {
+          "type": "select-one",
+          "name": null
+        },
+        {
+          "type": "select-one",
+          "name": null
+        }
+      ]
+    },
+    {
+      "action": null,
+      "method": "get",
+      "fields": [
+        {
+          "type": "select-one",
+          "name": null
+        },
+        {
+          "type": "select-one",
+          "name": null
+        }
+      ]
+    },
+    {
+      "action": null,
+      "method": "get",
+      "fields": [
+        {
+          "type": "select-one",
+          "name": null
+        },
+        {
+          "type": "select-one",
+          "name": null
+        }
+      ]
+    }
+  ],
+  "widgets": {
+    "modals": 1,
+    "accordions": 17,
+    "tabs": 0
+  },
+  "perSectionStyle": [
+    {
+      "landmark": "div",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Lato, sans-serif"
+    },
+    {
+      "landmark": "header#header",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Lato, sans-serif"
+    },
+    {
+      "landmark": "a",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Lato, sans-serif"
+    },
+    {
+      "landmark": "main#main",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Lato, sans-serif"
+    },
+    {
+      "landmark": "header",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Lato, sans-serif"
+    },
+    {
+      "landmark": "footer#footer",
+      "backgroundColor": "rgb(102, 102, 102)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "48px 64px",
+      "fontFamily": "Lato, sans-serif"
+    },
+    {
+      "landmark": "a",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "padding": "0px",
+      "fontFamily": "Lato, sans-serif"
+    },
+    {
+      "landmark": "nav",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "padding": "0px 20px 0px 0px",
+      "fontFamily": "Lato, sans-serif"
+    },
+    {
+      "landmark": "nav",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "padding": "0px 20px 0px 0px",
+      "fontFamily": "Lato, sans-serif"
+    },
+    {
+      "landmark": "nav",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "padding": "0px 20px 0px 0px",
+      "fontFamily": "Lato, sans-serif"
+    },
+    {
+      "landmark": "nav",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "padding": "0px 20px 0px 0px",
+      "fontFamily": "Lato, sans-serif"
+    },
+    {
+      "landmark": "nav",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "padding": "0px 20px 0px 0px",
+      "fontFamily": "Lato, sans-serif"
+    },
+    {
+      "landmark": "nav",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "padding": "0px",
+      "fontFamily": "Lato, sans-serif"
+    },
+    {
+      "landmark": "nav",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "padding": "0px 20px 0px 0px",
+      "fontFamily": "Lato, sans-serif"
+    }
+  ],
+  "cssCustomProperties": [
+    {
+      "name": "--tw-ring-offset-shadow",
+      "value": "0 0 #0000"
+    },
+    {
+      "name": "--wp--preset--gradient--midnight",
+      "value": "linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%)"
+    },
+    {
+      "name": "--tw-backdrop-sepia",
+      "value": ""
+    },
+    {
+      "name": "--tw-ring-shadow",
+      "value": "0 0 #0000"
+    },
+    {
+      "name": "--wp-admin-theme-color-darker-20",
+      "value": "#005a87"
+    },
+    {
+      "name": "--wp--preset--font-size--large",
+      "value": "36px"
+    },
+    {
+      "name": "--wp--preset--shadow--outlined",
+      "value": "6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0)"
+    },
+    {
+      "name": "--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan",
+      "value": "linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%)"
+    },
+    {
+      "name": "--wp--preset--gradient--blush-light-purple",
+      "value": "linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%)"
+    },
+    {
+      "name": "--tw-sepia",
+      "value": ""
+    },
+    {
+      "name": "--wp--preset--color--dark",
+      "value": "#666666"
+    },
+    {
+      "name": "--wp--preset--color--vivid-purple",
+      "value": "#9b51e0"
+    },
+    {
+      "name": "--wp--preset--aspect-ratio--16-9",
+      "value": "16/9"
+    },
+    {
+      "name": "--tw-ordinal",
+      "value": ""
+    },
+    {
+      "name": "--wp--preset--color--pale-pink",
+      "value": "#f78da7"
+    },
+    {
+      "name": "--tw-backdrop-saturate",
+      "value": ""
+    },
+    {
+      "name": "--wp-block-synced-color--rgb",
+      "value": "122,0,223"
+    },
+    {
+      "name": "--tw-contain-style",
+      "value": ""
+    },
+    {
+      "name": "--wp-bound-block-color",
+      "value": "#7a00df"
+    },
+    {
+      "name": "--wp--preset--color--cyan-bluish-gray",
+      "value": "#abb8c3"
+    },
+    {
+      "name": "--tw-ring-inset",
+      "value": ""
+    },
+    {
+      "name": "--tw-backdrop-invert",
+      "value": ""
+    },
+    {
+      "name": "--wp--preset--gradient--electric-grass",
+      "value": "linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%)"
+    },
+    {
+      "name": "--wp--preset--gradient--blush-bordeaux",
+      "value": "linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%)"
+    },
+    {
+      "name": "--wp--preset--spacing--60",
+      "value": "2.25rem"
+    },
+    {
+      "name": "--tw-numeric-spacing",
+      "value": ""
+    },
+    {
+      "name": "--wp--preset--color--vivid-green-cyan",
+      "value": "#00d084"
+    },
+    {
+      "name": "--wp--preset--shadow--deep",
+      "value": "12px 12px 50px rgba(0, 0, 0, 0.4)"
+    },
+    {
+      "name": "--tw-border-spacing-x",
+      "value": "0"
+    },
+    {
+      "name": "--wp-editor-canvas-background",
+      "value": "#ddd"
+    },
+    {
+      "name": "--tw-brightness",
+      "value": ""
+    },
+    {
+      "name": "--tw-backdrop-grayscale",
+      "value": ""
+    },
+    {
+      "name": "--tw-hue-rotate",
+      "value": ""
+    },
+    {
+      "name": "--tw-scale-y",
+      "value": "1"
+    },
+    {
+      "name": "--wp-admin-theme-color-darker-20--rgb",
+      "value": "0,90,135"
+    },
+    {
+      "name": "--tw-pan-y",
+      "value": ""
+    },
+    {
+      "name": "--wp--preset--spacing--40",
+      "value": "1rem"
+    },
+    {
+      "name": "--tw-backdrop-contrast",
+      "value": ""
+    },
+    {
+      "name": "--tw-drop-shadow",
+      "value": ""
+    },
+    {
+      "name": "--wp-admin-theme-color--rgb",
+      "value": "0,124,186"
+    },
+    {
+      "name": "--wp-admin-theme-color",
+      "value": "#007cba"
+    },
+    {
+      "name": "--wp--preset--color--feature",
+      "value": "#3bb143"
+    },
+    {
+      "name": "--tw-backdrop-brightness",
+      "value": ""
+    },
+    {
+      "name": "--tw-ring-color",
+      "value": "rgb(59 130 246 / 0.5)"
+    },
+    {
+      "name": "--wp--preset--aspect-ratio--3-2",
+      "value": "3/2"
+    },
+    {
+      "name": "--wp--preset--color--luminous-vivid-orange",
+      "value": "#ff6900"
+    },
+    {
+      "name": "--tw-pan-x",
+      "value": ""
+    },
+    {
+      "name": "--tw-translate-y",
+      "value": "0"
+    },
+    {
+      "name": "--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple",
+      "value": "linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%)"
+    },
+    {
+      "name": "--wp--preset--font-size--x-large",
+      "value": "42px"
+    },
+    {
+      "name": "--wp--preset--font-size--huge",
+      "value": "42px"
+    },
+    {
+      "name": "--wp--preset--aspect-ratio--2-3",
+      "value": "2/3"
+    },
+    {
+      "name": "--wp--preset--font-size--normal",
+      "value": "16px"
+    },
+    {
+      "name": "--tw-rotate",
+      "value": "0"
+    },
+    {
+      "name": "--tw-ring-offset-color",
+      "value": "#fff"
+    },
+    {
+      "name": "--tw-contain-size",
+      "value": ""
+    },
+    {
+      "name": "--tw-contrast",
+      "value": ""
+    },
+    {
+      "name": "--wp-admin-theme-color-darker-10--rgb",
+      "value": "0,107,160.5"
+    },
+    {
+      "name": "--wp--preset--color--vivid-cyan-blue",
+      "value": "#0693e3"
+    },
+    {
+      "name": "--wp--preset--shadow--natural",
+      "value": "6px 6px 9px rgba(0, 0, 0, 0.2)"
+    },
+    {
+      "name": "--wp--preset--spacing--30",
+      "value": "0.67rem"
+    },
+    {
+      "name": "--wp--preset--aspect-ratio--4-3",
+      "value": "4/3"
+    },
+    {
+      "name": "--wp--preset--spacing--50",
+      "value": "1.5rem"
+    },
+    {
+      "name": "--wp--preset--color--pale-cyan-blue",
+      "value": "#8ed1fc"
+    },
+    {
+      "name": "--tw-skew-x",
+      "value": "0"
+    },
+    {
+      "name": "--wp--preset--font-size--small",
+      "value": "13px"
+    },
+    {
+      "name": "--wp--preset--spacing--70",
+      "value": "3.38rem"
+    },
+    {
+      "name": "--wp--preset--color--grey",
+      "value": "#fafafa"
+    },
+    {
+      "name": "--tw-backdrop-blur",
+      "value": ""
+    },
+    {
+      "name": "--tw-shadow",
+      "value": "0 0 #0000"
+    },
+    {
+      "name": "--tw-translate-x",
+      "value": "0"
+    },
+    {
+      "name": "--tw-ring-offset-width",
+      "value": "0px"
+    },
+    {
+      "name": "--wp--preset--gradient--luminous-dusk",
+      "value": "linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%)"
+    },
+    {
+      "name": "--tw-gradient-via-position",
+      "value": ""
+    },
+    {
+      "name": "--wp-block-synced-color",
+      "value": "#7a00df"
+    },
+    {
+      "name": "--wp--preset--color--luminous-vivid-amber",
+      "value": "#fcb900"
+    },
+    {
+      "name": "--tw-saturate",
+      "value": ""
+    },
+    {
+      "name": "--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange",
+      "value": "linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%)"
+    },
+    {
+      "name": "--tw-scroll-snap-strictness",
+      "value": "proximity"
+    },
+    {
+      "name": "--wp--preset--aspect-ratio--9-16",
+      "value": "9/16"
+    },
+    {
+      "name": "--wp--preset--color--vivid-red",
+      "value": "#cf2e2e"
+    },
+    {
+      "name": "--tw-grayscale",
+      "value": ""
+    },
+    {
+      "name": "--bs-link-color-rgb",
+      "value": "#000"
+    },
+    {
+      "name": "--wp--preset--shadow--crisp",
+      "value": "6px 6px 0px rgb(0, 0, 0)"
+    },
+    {
+      "name": "--wp--preset--color--light-green-cyan",
+      "value": "#7bdcb5"
+    },
+    {
+      "name": "--tw-scale-x",
+      "value": "1"
+    },
+    {
+      "name": "--tw-backdrop-hue-rotate",
+      "value": ""
+    },
+    {
+      "name": "--sa-uid",
+      "value": "'0-6157e078-8982-5b6c-6f13-f97dd91cba9f'"
+    },
+    {
+      "name": "--wp-admin-border-width-focus",
+      "value": "1.5px"
+    },
+    {
+      "name": "--wp--preset--aspect-ratio--square",
+      "value": "1"
+    },
+    {
+      "name": "--tw-shadow-colored",
+      "value": "0 0 #0000"
+    },
+    {
+      "name": "--tw-gradient-to-position",
+      "value": ""
+    },
+    {
+      "name": "--tw-border-spacing-y",
+      "value": "0"
+    },
+    {
+      "name": "--wp--preset--gradient--pale-ocean",
+      "value": "linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%)"
+    },
+    {
+      "name": "--tw-numeric-fraction",
+      "value": ""
+    },
+    {
+      "name": "--wp--preset--spacing--80",
+      "value": "5.06rem"
+    },
+    {
+      "name": "--wp--preset--color--white",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "--wp--preset--shadow--sharp",
+      "value": "6px 6px 0px rgba(0, 0, 0, 0.2)"
+    },
+    {
+      "name": "--wp--preset--font-size--medium",
+      "value": "20px"
+    },
+    {
+      "name": "--wp--preset--aspect-ratio--3-4",
+      "value": "3/4"
+    },
+    {
+      "name": "--wp-admin-theme-color-darker-10",
+      "value": "#006ba1"
+    },
+    {
+      "name": "--tw-skew-y",
+      "value": "0"
+    },
+    {
+      "name": "--wp--preset--color--black",
+      "value": "#000000"
+    },
+    {
+      "name": "--tw-slashed-zero",
+      "value": ""
+    },
+    {
+      "name": "--tw-blur",
+      "value": ""
+    },
+    {
+      "name": "--tw-invert",
+      "value": ""
+    },
+    {
+      "name": "--wp--preset--gradient--luminous-vivid-orange-to-vivid-red",
+      "value": "linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%)"
+    },
+    {
+      "name": "--wp--preset--spacing--20",
+      "value": "0.44rem"
+    },
+    {
+      "name": "--tw-backdrop-opacity",
+      "value": ""
+    },
+    {
+      "name": "--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray",
+      "value": "linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%)"
+    },
+    {
+      "name": "--tw-gradient-from-position",
+      "value": ""
+    },
+    {
+      "name": "--tw-numeric-figure",
+      "value": ""
+    },
+    {
+      "name": "--tw-pinch-zoom",
+      "value": ""
+    },
+    {
+      "name": "--tw-contain-paint",
+      "value": ""
+    },
+    {
+      "name": "--tw-contain-layout",
+      "value": ""
+    },
+    {
+      "name": "--wp--preset--gradient--cool-to-warm-spectrum",
+      "value": "linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%)"
+    }
+  ],
+  "logo": {
+    "type": "inline-svg",
+    "markup": "<svg width=\"177\" height=\"30\" viewBox=\"0 0 177 30\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n        <path d=\"M173.445 7.87843L163.177 13.6835L173.476 19.4358L176.035 15.0952C176.564 14.1964 176.559 13.0967 176.025 12.2032L173.445 7.87843Z\" fill=\"#EF551F\"></path>\n        <path d=\"M161.009 12.4781L160.978 0.920807L155.839 0.936668C154.776 0.936668 153.798 1.4918 153.269 2.39059L150.71 6.73119L161.009 12.4834V12.4781Z\" fill=\"#EF551F\"></path>\n        <path d=\"M167.566 0.899719H167.555L162.416 0.91558L162.448 12.4729L172.715 6.66781L170.135 2.34306C169.601 1.44956 168.623 0.905006 167.566 0.905006\" fill=\"#EF551F\"></path>\n        <path d=\"M149.997 7.94193L147.438 12.2825C146.909 13.1813 146.914 14.281 147.443 15.1745L153.333 25.04C153.867 25.9335 154.85 26.4833 155.908 26.4781L167.629 26.4463C168.691 26.4463 169.67 25.8912 170.198 24.9924L172.757 20.6518L149.997 7.93665V7.94193Z\" fill=\"#EF551F\"></path>\n        <path d=\"M15.1736 7.46072C13.5769 7.46072 12.1019 8.06872 11.0022 9.14197C10.9387 9.20013 10.8965 9.28472 10.8383 9.34288C9.75975 8.14802 8.1578 7.46072 6.18576 7.46072C4.58909 7.46072 3.00829 8.06872 1.9086 9.14197C0.703167 10.3368 0 11.9969 0 13.9214V21.6615H2.99243V13.7416C2.99243 12.5468 3.70088 10.2998 6.10645 10.2998C7.60267 10.2998 8.7658 10.9713 9.03544 12.7688V21.6827H12.2552V13.8844C12.2552 13.4984 12.2764 13.1336 12.2552 12.7477C12.3609 11.5105 13.3126 10.2945 15.1419 10.2945C16.9712 10.2945 18.3194 11.7749 18.3194 13.6782V21.6774H21.3488V13.8791C21.3277 9.97203 18.9591 7.45543 15.1842 7.45543\" fill=\"#EF551F\"></path>\n        <path d=\"M27.434 14.7198C27.434 17.1994 29.0994 19.2296 31.8328 19.2296C34.5661 19.2296 36.2738 17.1994 36.2738 14.7198C36.2738 12.2402 34.4604 10.1466 31.8328 10.1466C29.2051 10.1466 27.434 12.2613 27.434 14.7198ZM39.3191 14.7198C39.3191 18.8436 36.3796 21.9365 31.8539 21.9365C27.3283 21.9365 24.4521 18.8278 24.4521 14.7198C24.4521 10.6118 27.3917 7.46606 31.8539 7.46606C36.3161 7.46606 39.3191 10.6382 39.3191 14.7198Z\" fill=\"#EF551F\"></path>\n        <path d=\"M48.6241 7.46083C45.177 7.46083 41.9995 9.80825 41.9995 14.0167V21.6828H44.9496V13.7946C44.9496 12.198 46.007 9.48574 49.6445 10.0937C51.3046 10.3792 52.5312 11.775 52.5312 13.4087V21.6405H55.4813V13.9321C55.439 9.9087 52.6369 7.46083 48.6241 7.46083Z\" fill=\"#EF551F\"></path>\n        <path d=\"M70.2481 13.3399C70.0842 11.1511 68.4241 10.0144 66.0344 10.0144C63.8773 10.0144 62.0903 11.1669 61.6145 13.3399H70.2481ZM61.5722 15.7719C61.8419 17.8603 63.6289 19.2402 66.2195 19.2402C67.6522 19.2402 69.4762 18.7115 70.3486 17.7598L72.2783 19.5838C70.8033 21.1435 68.3554 21.9365 66.1772 21.9365C61.5088 21.9365 58.5005 19.0604 58.5005 14.6405C58.5005 10.2206 61.5299 7.46606 65.971 7.46606C70.412 7.46606 73.6688 10.1836 73.1295 15.7983L61.5722 15.7772V15.7719Z\" fill=\"#EF551F\"></path>\n        <path d=\"M85.7122 8.11633L82.7462 14.9312L81.1548 18.9546L79.6691 14.8731L77.0997 8.11633H73.4517L79.4154 22.2431L76.3383 29.1003H79.7749L89.1963 8.11633H85.7122Z\" fill=\"#EF551F\"></path>\n        <path d=\"M95.4617 1.55522V9.85577C96.7094 8.09521 98.3854 7.50835 100.082 7.50835C104.09 7.50835 105.951 10.2311 105.951 14.3814V22.1956H102.964V14.4026C102.964 11.6798 101.573 10.3157 99.3846 10.3157C97.0742 10.3157 95.4564 12.2613 95.4564 14.6299V22.1744H92.4692V1.55522H95.4564H95.4617Z\" fill=\"#EF551F\"></path>\n        <path d=\"M116.054 22.4547C119.433 22.4547 122.584 19.9752 122.584 15.6187V7.64594H119.697V15.698C119.697 17.1889 118.835 19.6315 116.075 19.6315C113.966 19.6315 112.248 17.8657 112.248 15.698V7.64594H109.361V15.6821C109.34 19.8694 112.126 22.4547 116.054 22.4547Z\" fill=\"#EF551F\"></path>\n        <path d=\"M133.581 19.7477C131.048 19.7477 128.849 17.8338 128.849 15.0582C128.849 12.4728 130.747 10.3686 133.581 10.3686C136.414 10.3686 138.027 12.4728 138.027 15.0582C138.006 17.9184 136.087 19.7477 133.581 19.7477ZM128.891 1.55522H125.909V14.889C125.909 19.4093 129.399 22.5445 133.581 22.5445C137.763 22.5445 141.009 19.7054 141.009 15.0582C141.009 10.707 138.069 7.5718 133.565 7.5718C130.34 7.5718 128.912 9.8029 128.891 9.82405\" fill=\"#EF551F\"></path>\n    </svg>"
+  },
+  "stats": {
+    "wordCount": 2557,
+    "ctaCount": 23,
+    "internalLinkCount": 53,
+    "externalLinkCount": 6,
+    "imageCount": 10
+  },
+  "screenshot": "stardust/current/assets/screenshots/use-cases-increase-deposits-with-savings-goals.png"
+}

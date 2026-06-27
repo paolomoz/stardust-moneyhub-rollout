@@ -1,0 +1,2135 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:extract",
+    "writtenAt": "2026-06-27T09:21:29.368Z",
+    "readArtifacts": [
+      "https://moneyhub.com/policies/privacy-policy/"
+    ],
+    "synthesizedInputs": [],
+    "stardustVersion": "0.13.0",
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-06-27T09:21:19.219Z",
+    "waitMode": "medium",
+    "waitMs": 8411,
+    "httpStatus": 200,
+    "contentType": "text/html",
+    "finalUrl": "https://moneyhub.com/policies/privacy-policy/"
+  },
+  "slug": "policies-privacy-policy",
+  "url": "https://moneyhub.com/policies/privacy-policy/",
+  "finalUrl": "https://moneyhub.com/policies/privacy-policy/",
+  "type": "static",
+  "title": "Global Privacy Policy (including Cookies Statement) - Moneyhub",
+  "metaDescription": "Understand Moneyhub's privacy and cookie policy to protect your data and ensure a safe online experience.",
+  "og": {
+    "title": "Global Privacy Policy (including Cookies Statement) - Moneyhub",
+    "description": "Understand Moneyhub's privacy and cookie policy to protect your data and ensure a safe online experience.",
+    "image": "https://moneyhub.com/wp-content/uploads/2025/09/moneyhub-logo.png",
+    "type": "article",
+    "siteName": "Moneyhub"
+  },
+  "themeColor": {
+    "light": "#ffffff"
+  },
+  "language": "en-GB",
+  "headings": [
+    {
+      "level": 2,
+      "text": "Global Privacy Policy (including Cookies Statement)",
+      "id": null,
+      "domPath": "section.block.text-container > div.container.mx-auto > div.grid.grid-cols-12 > div.col-span-12.md:col-span-8 > div.base-content.has-parent-white > h2.text-heading-24.md:text-4xl",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "48px",
+        "lineHeight": "48px",
+        "letterSpacing": "normal",
+        "color": "rgb(41, 51, 56)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "1. Who we are & our approach to personal data",
+      "id": null,
+      "domPath": "div.container.mx-auto > div.grid.grid-cols-12 > div.col-span-12.md:col-span-8 > div.base-content.has-parent-white > div.mb-10.mt-0 > h2",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "32px",
+        "lineHeight": "40px",
+        "letterSpacing": "normal",
+        "color": "rgb(41, 51, 56)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "2. Collection, purpose and legal basis for processing",
+      "id": null,
+      "domPath": "div.container.mx-auto > div.grid.grid-cols-12 > div.col-span-12.md:col-span-8 > div.base-content.has-parent-white > div.mb-10.mt-0 > h2",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "32px",
+        "lineHeight": "40px",
+        "letterSpacing": "normal",
+        "color": "rgb(41, 51, 56)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "3. Sharing of information with third parties",
+      "id": null,
+      "domPath": "div.container.mx-auto > div.grid.grid-cols-12 > div.col-span-12.md:col-span-8 > div.base-content.has-parent-white > div.mb-10.mt-0 > h2",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "32px",
+        "lineHeight": "40px",
+        "letterSpacing": "normal",
+        "color": "rgb(41, 51, 56)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "4. Where we store your personal data",
+      "id": null,
+      "domPath": "div.container.mx-auto > div.grid.grid-cols-12 > div.col-span-12.md:col-span-8 > div.base-content.has-parent-white > div.mb-10.mt-0 > h2",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "32px",
+        "lineHeight": "40px",
+        "letterSpacing": "normal",
+        "color": "rgb(41, 51, 56)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "5. International transfers",
+      "id": null,
+      "domPath": "div.container.mx-auto > div.grid.grid-cols-12 > div.col-span-12.md:col-span-8 > div.base-content.has-parent-white > div.mb-10.mt-0 > h2",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "32px",
+        "lineHeight": "40px",
+        "letterSpacing": "normal",
+        "color": "rgb(41, 51, 56)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "6. How long we store your personal data for (retention & duration)",
+      "id": null,
+      "domPath": "div.container.mx-auto > div.grid.grid-cols-12 > div.col-span-12.md:col-span-8 > div.base-content.has-parent-white > div.mb-10.mt-0 > h2",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "32px",
+        "lineHeight": "40px",
+        "letterSpacing": "normal",
+        "color": "rgb(41, 51, 56)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "7. Data Security",
+      "id": null,
+      "domPath": "div.container.mx-auto > div.grid.grid-cols-12 > div.col-span-12.md:col-span-8 > div.base-content.has-parent-white > div.mb-10.mt-0 > h2",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "32px",
+        "lineHeight": "40px",
+        "letterSpacing": "normal",
+        "color": "rgb(41, 51, 56)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "8. Moneyhub’s Cookie Statement – our deployment of cookies across our website and our products (which will be different in each case)",
+      "id": null,
+      "domPath": "div.container.mx-auto > div.grid.grid-cols-12 > div.col-span-12.md:col-span-8 > div.base-content.has-parent-white > div.mb-10.mt-0 > h2",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "32px",
+        "lineHeight": "40px",
+        "letterSpacing": "normal",
+        "color": "rgb(41, 51, 56)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "9. Changes to this Privacy Policy",
+      "id": null,
+      "domPath": "div.container.mx-auto > div.grid.grid-cols-12 > div.col-span-12.md:col-span-8 > div.base-content.has-parent-white > div.mb-10.mt-0 > h2",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "32px",
+        "lineHeight": "40px",
+        "letterSpacing": "normal",
+        "color": "rgb(41, 51, 56)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "10. Your rights",
+      "id": null,
+      "domPath": "div.container.mx-auto > div.grid.grid-cols-12 > div.col-span-12.md:col-span-8 > div.base-content.has-parent-white > div.mb-10.mt-0 > h2",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "32px",
+        "lineHeight": "40px",
+        "letterSpacing": "normal",
+        "color": "rgb(41, 51, 56)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "11. Complaints & Contact",
+      "id": null,
+      "domPath": "div.container.mx-auto > div.grid.grid-cols-12 > div.col-span-12.md:col-span-8 > div.base-content.has-parent-white > div.mb-10.mt-0 > h2",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "32px",
+        "lineHeight": "40px",
+        "letterSpacing": "normal",
+        "color": "rgb(41, 51, 56)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "12. Optional Information – For those based in the EU",
+      "id": null,
+      "domPath": "div.container.mx-auto > div.grid.grid-cols-12 > div.col-span-12.md:col-span-8 > div.base-content.has-parent-white > div.mb-10.mt-0 > h2",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "32px",
+        "lineHeight": "40px",
+        "letterSpacing": "normal",
+        "color": "rgb(41, 51, 56)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "13. Optional Information – for those accounts not accessible via Open Banking",
+      "id": null,
+      "domPath": "div.container.mx-auto > div.grid.grid-cols-12 > div.col-span-12.md:col-span-8 > div.base-content.has-parent-white > div.mb-10.mt-0 > h2",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "32px",
+        "lineHeight": "40px",
+        "letterSpacing": "normal",
+        "color": "rgb(41, 51, 56)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "14. Optional Information – for those occasions where we use credit reference agencies",
+      "id": null,
+      "domPath": "div.container.mx-auto > div.grid.grid-cols-12 > div.col-span-12.md:col-span-8 > div.base-content.has-parent-white > div.mb-10.mt-0 > h2",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "32px",
+        "lineHeight": "40px",
+        "letterSpacing": "normal",
+        "color": "rgb(41, 51, 56)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "15. Optional Information – for those using Moneyhub for the Rent Recognition Service",
+      "id": null,
+      "domPath": "div.container.mx-auto > div.grid.grid-cols-12 > div.col-span-12.md:col-span-8 > div.base-content.has-parent-white > div.mb-10.mt-0 > h2",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "32px",
+        "lineHeight": "40px",
+        "letterSpacing": "normal",
+        "color": "rgb(41, 51, 56)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "16. Optional Information – Details about our International Partners",
+      "id": null,
+      "domPath": "div.container.mx-auto > div.grid.grid-cols-12 > div.col-span-12.md:col-span-8 > div.base-content.has-parent-white > div.mb-10.mt-0 > h2",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "32px",
+        "lineHeight": "40px",
+        "letterSpacing": "normal",
+        "color": "rgb(41, 51, 56)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Build for real life",
+      "id": null,
+      "domPath": "section.block.cta-container > div.container.mx-auto > div.grid.grid-cols-12 > div.col-span-12.md:col-span-6 > div.base-content.has-parent- > h2.text-heading-24.md:text-4xl",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "48px",
+        "lineHeight": "48px",
+        "letterSpacing": "normal",
+        "color": "rgb(41, 51, 56)"
+      }
+    },
+    {
+      "level": 4,
+      "text": "Follow us",
+      "id": null,
+      "domPath": "footer#footer > div.container.mx-auto > div.footer__content.grid > div.col-span-12.md:col-span-3 > div.col-span-1.md:col-span-2 > h4.text-base.font-bold",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "16px",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(255, 255, 255)"
+      }
+    },
+    {
+      "level": 4,
+      "text": "Solutions",
+      "id": null,
+      "domPath": "footer#footer > div.container.mx-auto > div.footer__content.grid > div.col-span-12.md:col-span-9 > div.footer__nav--list > h4.text-base.font-bold",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "16px",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(255, 255, 255)"
+      }
+    },
+    {
+      "level": 4,
+      "text": "Products",
+      "id": null,
+      "domPath": "div.container.mx-auto > div.footer__content.grid > div.col-span-12.md:col-span-9 > div.grid.grid-cols-2 > div.footer__nav--list.mb-6 > h4.text-base.font-bold",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "16px",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(255, 255, 255)"
+      }
+    },
+    {
+      "level": 4,
+      "text": "Policies & Info",
+      "id": null,
+      "domPath": "div.container.mx-auto > div.footer__content.grid > div.col-span-12.md:col-span-9 > div.grid.grid-cols-2 > div.footer__nav--list.mb-6 > h4.text-base.font-bold",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "16px",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(255, 255, 255)"
+      }
+    },
+    {
+      "level": 4,
+      "text": "",
+      "id": null,
+      "domPath": "div.container.mx-auto > div.footer__content.grid > div.col-span-12.md:col-span-9 > div.grid.grid-cols-2 > div.footer__nav--list.mb-6 > h4.text-base.font-bold",
+      "style": {
+        "fontFamily": "Raleway, sans-serif, sans-serif, Arial, -apple-system, \"system-ui\", \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontWeight": "700",
+        "fontSize": "16px",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(255, 255, 255)"
+      }
+    }
+  ],
+  "landmarks": [
+    {
+      "tag": "div",
+      "role": "region",
+      "id": null,
+      "classes": [
+        "cky-hide",
+        "cky-consent-container",
+        "cky-popup-center"
+      ],
+      "innerText": "We value your privacyWe use cookies to enhance your browsing experience, serve personalised ads or content, and analyse our traffic. By clicking \"Accept All\", you consent to our use of cookies.Customise Accept AllPowered by",
+      "children": [
+        {
+          "tag": "div",
+          "id": null,
+          "classes": [
+            "cky-consent-bar"
+          ],
+          "headlineText": null,
+          "innerTextSummary": "We value your privacyWe use cookies to enhance your browsing experience, serve personalised ads or content, and analyse our traffic. By clicking \"Accept All\", you consent to our use of cookies.Customise Accept AllPowered by",
+          "wordCount": 34,
+          "body": [
+            "We value your privacy",
+            "We use cookies to enhance your browsing experience, serve personalised ads or content, and analyse our traffic. By clicking \"Accept All\", you consent to our use of cookies."
+          ],
+          "lists": [],
+          "qa": [],
+          "quotes": []
+        }
+      ]
+    },
+    {
+      "tag": "header",
+      "role": "banner",
+      "id": "header",
+      "classes": [],
+      "innerText": "Moneyhub Solutions Products Developers Discover About CONTACT CONTACT Latest Moneyhub release puts an end to unrecognised transaction panic",
+      "children": [
+        {
+          "tag": "div",
+          "id": null,
+          "classes": [
+            "container",
+            "mx-auto",
+            "h-full",
+            "px-4",
+            "md:px-8",
+            "lg:px-16"
+          ],
+          "headlineText": null,
+          "innerTextSummary": "Moneyhub Solutions Products Developers Discover About CONTACT CONTACT",
+          "wordCount": 8,
+          "body": [
+            "Turn raw, ambiguous banking data into clear, actionable insights",
+            "Connect to financial and non-financial customer accounts",
+            "Overcome segmentation challenges to create targeted campaigns",
+            "Embed customised solutions into your app",
+            "Access transparent real-time management reporting",
+            "Facilitate variable recurring payments"
+          ],
+          "lists": [
+            {
+              "ordered": false,
+              "items": [
+                "Solutions Banking and Lending Solutions Transaction Categorisation and Enrichment Smart Segmentation Smart Money Actions Smart Product Match Smart Payments Smart Lending Pension and Wealth Solutions Win Schemes Build and Retain In Retirement Pensions Dashboard Targeted Support Smart Fact Find",
+                "Products Invisible placeholder column Categorisation and Enrichment Engine Turn raw, ambiguous banking data into clear, actionable insights Data Aggregation Connect to financial and non-financial customer accounts Data Insights and Recommendations Overcome segmentation challenges to create targeted campaigns Invisible placeholder column Embedded Solutions and Portals Embed customised solutions into your app Data Explorer Access transparent real-time management reporting Payments Facilitate variable recurring payments",
+                "Developers Developers API Developer Hub Access Sandbox",
+                "Discover Discover Articles Case studies Categorisation and Enrichment Press Releases Use Cases Webinars",
+                "About About About Careers",
+                "Contact"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "Banking and Lending Solutions Transaction Categorisation and Enrichment Smart Segmentation Smart Money Actions Smart Product Match Smart Payments Smart Lending",
+                "Pension and Wealth Solutions Win Schemes Build and Retain In Retirement Pensions Dashboard Targeted Support Smart Fact Find"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "Transaction Categorisation and Enrichment",
+                "Smart Segmentation",
+                "Smart Money Actions",
+                "Smart Product Match",
+                "Smart Payments",
+                "Smart Lending"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "Win Schemes",
+                "Build and Retain",
+                "In Retirement",
+                "Pensions Dashboard",
+                "Targeted Support",
+                "Smart Fact Find"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "Invisible placeholder column Categorisation and Enrichment Engine Turn raw, ambiguous banking data into clear, actionable insights Data Aggregation Connect to financial and non-financial customer accounts Data Insights and Recommendations Overcome segmentation challenges to create targeted campaigns",
+                "Invisible placeholder column Embedded Solutions and Portals Embed customised solutions into your app Data Explorer Access transparent real-time management reporting Payments Facilitate variable recurring payments"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "Categorisation and Enrichment Engine Turn raw, ambiguous banking data into clear, actionable insights",
+                "Data Aggregation Connect to financial and non-financial customer accounts",
+                "Data Insights and Recommendations Overcome segmentation challenges to create targeted campaigns"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "Embedded Solutions and Portals Embed customised solutions into your app",
+                "Data Explorer Access transparent real-time management reporting",
+                "Payments Facilitate variable recurring payments"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "Developers API Developer Hub Access Sandbox"
+              ]
+            }
+          ],
+          "qa": [],
+          "quotes": []
+        }
+      ]
+    },
+    {
+      "tag": "a",
+      "role": "navigation",
+      "id": null,
+      "classes": [
+        "block",
+        "mb-4---",
+        "brand"
+      ],
+      "innerText": "Moneyhub",
+      "children": []
+    },
+    {
+      "tag": "main",
+      "role": "main",
+      "id": "main",
+      "classes": [
+        "mt-16"
+      ],
+      "innerText": "Global Privacy Policy (including Cookies Statement) 1. Who we are & our approach to personal data 1.1 Moneyhub Financial Technology Ltd is a company registered in England and Wales (company number 06909772) with its registered office at C/o Roxburgh Milkins Limited Merchants House North, Wapping Road, Bristol, United Kingdom BS1 4RW and its principal place of business at Runway East Temple Meads, 101 Victoria Street, Bristol, BS1 6PU, United Kingdom (“Moneyhub”). This Privacy Policy outlines the purposes and legal bases for which collects, processes, stores, and shares personally identifiable data from you (the “End User”). Moneyhub reserves the right to publish bespoke versions of this global policy for specific products, sites, or applications. 1.2 Moneyhub is authorised and regulated by the Financial Conduct Authority (FCA) as both an Account Information Service Provider and a Payment Initiation Service Provider, with reference number 809360. The company also holds permission from the FCA to provide Credit Information Services under reference number 991638. Additionally, Moneyhub is a registered data controller with the Information Commissioner’s Office, with registration number ZS507137. 1.3 You can contact Moneyhub at any time for more information about this policy so please get in touch with us at support@moneyhub.com 1.4 This Privacy Policy primarily applies to our account-information services, our payment initiation services, and to your use of our platform and software applications hosted or made available by us, wherever and however you access them (“the Service”). To a lesser extent this Privacy Policy applies to any visitor to our websites (where the level of interaction with your data and the amount of data processing will be much less). 1.5 Together with our various user terms (“Terms of Use”), this Privacy Policy forms our agreement with you. Capitalised terms not defined in this Privacy Policy shall have the meaning given to them in our applicable Terms of Use or in the General Data Protection Regulation (EU) 2016/679 (the “EU GDPR”) or the retained version of the EU GDPR as it applies in the UK from 1 January 2021 (the “UK GDPR”). 2. Collection, purpose and legal basis for processing Moneyhub only uses personal data when the law allows us to. The most relevant lawful bases to our business model are as follows: User-Type What Type of Personal Data Do We Use? Purpose of Processing Lawful Basis Relied Upon General Website Visitor / Browser (especially non-regulated activities) If you are simply a visitor to our sites or browsing our app Your name, email address and any other personal data you supply to us through forms you complete (such as any feedback or survey responses) To provide you with basic information and updates on our activities, services and products, for statistical analysis, to identify which elements of the Service or other products might interest you, to record your marketing preferences and any feedback or responses for the purposes of improving our Services. With your consent through our Terms of Use Any personal data we collect as part of your cookies setting. These include email-opening statistics, IP address/location, browser type and version, page views and searches. To allow us to run the operation of our websites, domains, portals, and ensure that our provision of Services runs as smoothly as possible, in a personalised way. With your consent obtained through our Terms of Use and the purposes of our legitimate interests judged in favour of processing (balanced against your fundamental rights and freedoms at all times). If you use any non-regulated other services (such as subject access requests, requests for proposals Your username, email and account information, supplied to us by you or your enterprise (if relevant) To debug and remedy any issues you have when you access our Services and to improve our processes. Our legitimate interests and occasionally we will need to comply with a particular legal obligation (such as GDPR on subject access requests) Account Information & Payment Initiation Service Users If you are an end-user of our platform, AISP & PISP services in the UK Any personal data that is contained in the account information that you consent to sharing with us (at the time of use and in accordance with Open Banking legislation). This will include account numbers and sort codes in the case of AISP services and payment information in the case of PISP services. To deliver & improve our Services, to keep you informed about initiated payments or to categorise payment transactions accurately. Also, to disclose to third parties (such as the police) in order to comply with any legal obligation, to refer to a credit reference agency to check your identity to only authorised Third Party Service Providers, who act for us to operate the Service fully, to anti-fraud agencies, to debt collectors and other third parties (tax authorities and auditors). To comply with our legal obligations (esp Payment Service Regulations 2017 and the Consumer Rights Act 2015). Also, it is judged necessary for our legitimate interest in ensuring that we can provide you (or your enterprise provider) with the Services and to continuously improve our Services. It is also essential for the performance of our Terms of Use as a contract to which you are party. Other information you give us through forms, or when reporting a support-desk issue, or your log of visits to the Service and the resources, tabs and features that you access To manage, administer and improve the Service, including providing you with newsletters, emails, updates on our activities, services and products; to record your marketing preferences With your consent and in pursuance of our legitimate interests Your name, date of birth, address, email, photo identification such as passport and telephone number. Such personal data may include any criminal background information. On a very infrequent basis we may need to conduct basic KYC/ AML checking (such as when enabling payments for an end user for the first time) To comply with our legal obligations Enterprise Clients (and their agents & staff) If you are an enterprise client employee, contractor or agent in the UK and you register as an authorised user Your name, date of birth, address, email, photo identification such as passport and telephone number. Such personal data may include any criminal background information. To deliver our Services to you To deliver a contractual service to you as an enterprise with an API, whitelabel, TSP or other form of contract with Moneyhub. Your name, date of birth, address, email, telephone number. Such personal data may include any criminal background information (on enterprise clients). To conduct any due diligence, KYC, AML (including credit checks) that we are required to do in order for you to receive our Services To comply with our legal obligations (including regulatory requirements we are under) Your name, email address, username TTo deliver our Services to you and to give you access to information we hold about you, and for corporate / M&A purposes where we may be asked to disclose our client lists/contracts database to a prospective funder, seller or buyer With your consent and in pursuance of our legitimate interests. 3. Sharing of information with third parties 3.1 We may need to share information about you with certain service providers who help us to deliver the Service to you, such as agents registered with the FCA or third party technology companies who may provide elements of the Service functionality and other companies in our corporate group). We refer to the latter service providers as (“Third Party Service Providers”). We only disclose personal data to Third Party Service Providers for the purposes explained in this Privacy Policy. 3.2 You may access the Service directly through us or through enterprise clients of Moneyhub whose platforms are powered by Moneyhub or through other partners who operate within the Moneyhub ecosystem (for example, your financial adviser, your employer or a provider of your financial products) (“Third Party Members”). In order to engage with such Third Party Members, you may be required to enter into contracts with them and accept additional privacy policies which are specific to those Third Party Members. We may also share anonymous aggregated data with Third Party Members so they can understand trends and preferences across groups of users in a non-personalised way such as how spending habits are evolving or which new technologies or payment-types are being used more than others. These insights in turn allows Third Party Members to refine or pivot their own service-offers to their clients or create new partnerships with other organisations to provide better, more relevant functionality, products and services which users may want to use. 4. Where we store your personal data Moneyhub processes and stores the personal data described in this Privacy Policy inside the UK and in the European Economic Area (“EEA”). We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy, GDPR and UK GDPR at all times. 5. International transfers 5.1 Moneyhub does not engage in restricted transfers of personal data (i.e. those which do not benefit from the “appropriate safeguards” under UK GDPR or EU GDPR). We do however engage in some international transfers of data (outside the EEA and UK) where the appropriate safeguards are in place, such as the deemed application of standard contractual clauses approved by the European Commission. We shall continue to use these and will also use UK related standard contractual clauses as and when appropriate and applicable. 5.2 For more information on the privacy practices of our key international partners, please see the relevant additional material at the foot of this Privacy Policy. 6. How long we store your personal data for (retention & duration) 6.1 Where we hold your personal data and are responsible for it, it will be stored for the life of your contract with us (plus 5 years – as per the Moneyhub data retention policy). 6.2 Your contract with us would typically expire when you delete your account with us or ask us to delete your Moneyhub account for you. Our databases are backed up but such back-ups are never held for more than 90 days at a time. It is crucial that we hold your personal data in this way because without it, we would not be able to fulfil our contract with you and show you copies of your account information or payment transaction information, when you request/select to see these. 7. Data Security 7.1 Once we have received your information, we will use procedures and security features to try to prevent unauthorised and unlawful access and processing, as well as accidental loss, destruction or damage. We use encryption technology to protect personal data that you submit to us online in order to reduce the risk of your data being intercepted by unauthorised persons during transmission. 7.2 We deploy a range of “technical and organisational” measures including physical, electronic, and procedural safeguards to protect information we process and maintain. 7.3 Please be aware that the transmission of information via the internet or mobile networks is not completely secure; we cannot guarantee the security of your data transmitted to or from us and any transmission is at your own risk. Moneyhub may include links to third-party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. It will be clear to you when you click on a link that will take you to a Third Party Member we strongly encourage you to read their privacy policies in detail. We do not control these third-party websites and are not responsible for their content or their privacy statements. 7.4 In the event there is an occasion in future where there is an unauthorised use or breach with respect to personal data, Moneyhub shall comply with GDPR expectations and timelines (including a 72 hour investigation and reporting window) in order to mitigate the risk to any individuals affected. 8. Moneyhub’s Cookie Statement – our deployment of cookies across our website and our products (which will be different in each case) Moneyhub uses (i) Strictly necessary (essential) (ii) Functional (iii) Analytical (measuring performance) and (iv) Tracking/advertising types of cookies. Cookies may be delivered by us directly to you (first-party cookies) or delivered by one of our partners (such as Intercom for users of AISP or PISP services). Cookies can be either session cookies or persistent cookies. Session cookies enable sites to recognise and link the actions of a user during a browsing session and expire at the end of each session. Persistent cookies help us recognise you and these are stored on your system or device until they expire, although you can delete them before the expiry date. 8.1 Moneyhub uses cookies for the following reasons: For our products/platform: To help us improve End Users’ experience To fulfil API calls and integration requests to connect to various accounts To help with data protection and spot fraudulent activity For our websites: To remember preferences and settings To identify errors on the site and assess performance To help us understand traffic data relating to our site, e.g. time and date of visit 8.2 What other similar technologies does Moneyhub use? Moneyhub uses certain tools for basic font usage and to understand email-opening statistics by recipients of our emails). These help us to gauge the effectiveness of certain communications, promotions and marketing campaigns. 8.3 How you can take control of cookies and similar technologies You have rights to manage and turn off/on certain cookies as you wish from your browser settings but you may not be able to use our applications or features of our sites if cookies are disabled. 8.4 In light of recent changes to cookies practices in 2021 (with respect to the disablement of third party cookies on some browsers) we include below an updated list of the more popular browser types with hyperlinks showing how to adapt their cookie settings accordingly: Google Chrome Microsoft Edge Mozilla Firefox Opera Apple Safari 8.5 Where & how Moneyhub uses cookies We use cookies in several places, and some examples from third parties are included below: For our Product (platform): Adjust Braze Heap Intercom Zendesk For our websites: Squarespace Google Ads Google Analytics Vimeo Cloudflare Pardot For more information on the main cookies currently used, their purpose and their duration please get in touch with us at support@moneyhub.com 9. Changes to this Privacy Policy We reserve the right to add to or change the terms of this Privacy Policy in the same way that we need from time to time to vary our Terms of Use to keep up to date with evolving data protection laws or to take account of changes to our Service. You are therefore advised to keep abreast of this Privacy Policy through whatever medium, site or device you access it. 10. Your rights 10.1 Right of Access You have the right to access information held about you and you can ask us for a copy of the information at any time. Where we have good reason, and if the law permits, we can refuse your request for a copy of your personal data, or certain elements of the request. If we refuse your request or any element of it, we will provide you with our reasons for doing so. 10.2 Right of Correction or Completion If personal data we control and hold about you is not accurate or needs updating you have a right of rectification (we can easily correct some of your personal data like an email address upon your instruction, but we cannot unilaterally amend your credit card transaction data if supplied to us in error by a third party) . 10.3 Right of Erasure In certain circumstances, you have the right to request that personal data we hold about you is erased for example if the information is no longer necessary for the purposes for which it was collected or processed or our processing of the information is based on your consent and there are no other legal grounds on which we may process the information. 10.4 Right to Object to or Restrict Processing In certain circumstances, you have the right to object to our processing of your personal data by contacting us. You have the right to object to use of your personal data for direct marketing purposes. You have a legal right to object at any time to: (i) use of your personal data for direct marketing purposes; and (ii) processing of your personal data which is based on our legitimate interests, unless there are compelling legitimate grounds for our continued processing. NOTE: If you do object, it is highly unlikely we will be able to provide our Service to you given the nature of our products and solutions. 10.5 Right of Data Portability To save you time, you should know that the vast majority of the personal data and transaction data you would want to port across to other systems, devices or software solutions are readily downloadable from our platform and the Moneyhub App. (It is highly unlikely if you are a website visitor we will have any personal data you would wish to port). Where your request to move or migrate is more complex than you simply downloading the data that you need from the platform, you can ask us to transmit your data in a structured, commonly used and machine-readable format. Of course, we cannot guarantee technical compatibility with a third party organisation’s systems if that is your desired destination and we cannot accede to requests that involve personal data belonging to other persons. 10.6 Marketing You have the right to ask us not to process your personal data for marketing purposes. We will only process your personal data for such purposes where you agree to such processing (e.g., by checking certain boxes on the forms or registration pages we use to collect your information). If you have previously agreed to us using your personal data for marketing purposes, you may change your mind at any time by contacting us at marketing@moneyhub.com. You will also be given the opportunity to unsubscribe when you receive marketing messages. 10.7 Most of the above rights are subject to limitations and exceptions. We will provide reasons if we are unable to comply with any request for the exercise of your rights. To the extent that we are processing your personal data based on your consent, you have the right to withdraw your consent at any time. You can do this by contacting us. We aim to keep your personal data up-to-date, so please advise us of any changes and feel free to exercise any of the above rights by contacting us at support@moneyhub.com 11. Complaints & Contact 11.1 Should you be dissatisfied with the service we provide, you have the right to file a formal complaint to the Information Commissioner’s Office at www.ico.org.uk, or to the relevant data protection supervisory authority in your country of residence. The ICO can be contacted at Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF. They can be contacted by telephone on 0303 123 1113 or 01625 545 745. 11.2 Contact details for Moneyhub’s EU Representative in the EU as required by Article 27 of the EU GDPR shall be made available upon request in writing. 12. Optional Information – For those based in the EU 12.1 This Privacy Policy applies to our provision of services within the EU and the UK. As you may be located in the EU, please note that all personal data is held by us in compliance with applicable GDPR legislation. 12.2 We may need to share information about you with certain service providers who help us to deliver the Service to you. One such entity is GoCardless, our European outsourced partner who provides AISP and PISP service delivery to our End Users in the EU. GoCardless will have a role in processing and storing your personal data in accordance with its policies (linked below): GoCardless Privacy Centre: Merchants GoCardless Privacy Centre: Account Holders GoCardless Terms of Service 13. Optional Information – for those accounts not accessible via Open Banking 13.1 Where possible we will use Open Banking to allow you to see your accounts and payment transactions in Moneyhub. Where a particular bank, financial institution or account is not enabled for Open Banking we may use another method via the non-exclusive use of certain aggregation partners. One such partner is Yodlee Inc who allow you to retrieve your financial/account data using their services. We work with Yodlee Inc as a Third Party Service Provider who are supervised by the US Banking Regulators (a body similar to the UK’s Financial Conduct Authority). 13.2 Yodlee Inc handle any personal data (which can exist as part of aggregated data or wider client data) in accordance with this privacy policy and its own privacy practices which we are required to point out to you, as part of our terms and conditions with Yodlee. We provide you with important information about Yodlee’s client privacy arrangements through a dedicated link, which is available here. 14. Optional Information – for those occasions where we use credit reference agencies 14.1 Another subset of personal data shared with Third Party Service Providers relates to identity data emanating from our Know-Your-Client and anti-money laundering obligations. On rare occasions we will need to check user identity and other personal details with a fraud prevention and credit reference agency. An example of when we will need to do this includes when using our payments capability for high value, high volume or unusual transactions or if you opt into our Rent Recognition Service to submit your rent data to a credit reference agency. If you give false or inaccurate information and we identify fraud, this will be recorded and may be shared by those agencies with other organisations. This is important: a. to trace debtors, recover debt, prevent fraud, and to manage your accounts or insurance policies; and, b. to prevent fraud and money laundering, for example, for payments services or where a bank or other third party, such as an Enterprise client requests these checks as part of their service. 14.2 Links to each agency’s relevant Credit Reference Agency Information Notice: Transunion: www.transunion.co.uk/legal/privacy-centre Equifax: www.equifax.co.uk/crain Experian: www.experian.co.uk/crain 15. Optional Information – for those using Moneyhub for the Rent Recognition Service 15.1 We provide a Rent Recognition feature (delivered in conjunction with Experian) which helps individuals by giving them intended credit-score benefits flowing from their regular property rental payments. End-User data can only be used to positively impact your credit score when rent is paid on time. 15.2 When you sign up to use the Experian Rental Exchange service (known as Rent Recognition on the Moneyhub app/service), you are expressly consenting to our use and process any personal data provided to deliver this particular service. The kind of personal data includes financial account categorisations for the rental information and tenancy details, and other identifiers such as your name, address, date of birth. 15.3 We will continue to exchange information about you with Experian while you have a relationship with us. Please note that we understand that Experian will record any outstanding debt. Experian will hold your rental data for the time limits explained in their CRAIN notice as explained above. 15.4 Further information about the Rent Recognition service is available here: https://www.experian.co.uk/assets/rental-exchange/rental-exchange-privacy-notice.pdf & here https://www.experian.co.uk/assets/rental-exchange/rental-exchange-data-protection.pdf 16. Optional Information – Details about our International Partners We enclose below some privacy statements and related information from our international partners and Third Party Service Providers, for your further information. Website: https://www.squarespace.com/privacy https://policies.google.com/privacy?hl=en and https://analytics.google.com/analytics/web/provision/#/provision https://www.pardot.com https://marketingplatform.google.com/intl/en_uk/about/tag-manager/ https://vimeo.com/privacy https://www.cloudflare.com/en-gb/privacypolicy/ Product (platform): https://www.intercom.com/terms-and-policies#privacy https://www.yodlee.com/europe/company/clients-consumers https://www.zoopla.co.uk/privacy/ https://www.adjust.com/terms/privacy-policy/ https://www.braze.com/company/legal/privacy https://www.heap.io/privacy https://www.zendesk.co.uk/company/agreements-and-terms/privacy-notice/ V17 – 11 November 2024 Update",
+      "children": [
+        {
+          "tag": "section",
+          "id": null,
+          "classes": [
+            "block",
+            "text-container",
+            "has-white-background-color",
+            "pt-12",
+            "pb-12",
+            "px-4"
+          ],
+          "headlineText": "Global Privacy Policy (including Cookies Statement)",
+          "innerTextSummary": "Global Privacy Policy (including Cookies Statement) 1. Who we are & our approach to personal data 1.1 Moneyhub Financial Technology Ltd is a company registered in England and Wales (company number 06909772) with its registered office at C/o",
+          "wordCount": 3952,
+          "body": [
+            "1.1 Moneyhub Financial Technology Ltd is a company registered in England and Wales (company number 06909772) with its registered office at C/o Roxburgh Milkins Limited Merchants House North, Wapping Road, Bristol, United Kingdom BS1 4RW and its principal place of business at Runway East Temple Meads, 101 Victoria Street, Bristol, BS1 6PU, United Kingdom (“Moneyhub”). This Privacy Policy outlines the purposes and legal bases for which collects, processes, stores, and shares personally identifiable data from you (the “End User”). Moneyhub reserves the right to publish bespoke versions of this global policy for specific products, sites, or applications.",
+            "1.2 Moneyhub is authorised and regulated by the Financial Conduct Authority (FCA) as both an Account Information Service Provider and a Payment Initiation Service Provider, with reference number 809360. The company also holds permission from the FCA to provide Credit Information Services under reference number 991638. Additionally, Moneyhub is a registered data controller with the Information Commissioner’s Office, with registration number ZS507137.",
+            "1.3 You can contact Moneyhub at any time for more information about this policy so please get in touch with us at support@moneyhub.com",
+            "1.4 This Privacy Policy primarily applies to our account-information services, our payment initiation services, and to your use of our platform and software applications hosted or made available by us, wherever and however you access them (“the Service”). To a lesser extent this Privacy Policy applies to any visitor to our websites (where the level of interaction with your data and the amount of data processing will be much less).",
+            "1.5 Together with our various user terms (“Terms of Use”), this Privacy Policy forms our agreement with you. Capitalised terms not defined in this Privacy Policy shall have the meaning given to them in our applicable Terms of Use or in the General Data Protection Regulation (EU) 2016/679 (the “EU GDPR”) or the retained version of the EU GDPR as it applies in the UK from 1 January 2021 (the “UK GDPR”).",
+            "Moneyhub only uses personal data when the law allows us to. The most relevant lawful bases to our business model are as follows:",
+            "3.1 We may need to share information about you with certain service providers who help us to deliver the Service to you, such as agents registered with the FCA or third party technology companies who may provide elements of the Service functionality and other companies in our corporate group). We refer to the latter service providers as (“Third Party Service Providers”). We only disclose personal data to Third Party Service Providers for the purposes explained in this Privacy Policy.",
+            "3.2 You may access the Service directly through us or through enterprise clients of Moneyhub whose platforms are powered by Moneyhub or through other partners who operate within the Moneyhub ecosystem (for example, your financial adviser, your employer or a provider of your financial products) (“Third Party Members”). In order to engage with such Third Party Members, you may be required to enter into contracts with them and accept additional privacy policies which are specific to those Third Party Members. We may also share anonymous aggregated data with Third Party Members so they can understand trends and preferences across groups of users in a non-personalised way such as how spending habits are evolving or which new technologies or payment-types are being used more than others. These insights in turn allows Third Party Members to refine or pivot their own service-offers to their clients or create new partnerships with other organisations to provide better, more relevant functionality, products and services which users may want to use.",
+            "Moneyhub processes and stores the personal data described in this Privacy Policy inside the UK and in the European Economic Area (“EEA”). We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy, GDPR and UK GDPR at all times.",
+            "5.1 Moneyhub does not engage in restricted transfers of personal data (i.e. those which do not benefit from the “appropriate safeguards” under UK GDPR or EU GDPR). We do however engage in some international transfers of data (outside the EEA and UK) where the appropriate safeguards are in place, such as the deemed application of standard contractual clauses approved by the European Commission. We shall continue to use these and will also use UK related standard contractual clauses as and when appropriate and applicable.",
+            "5.2 For more information on the privacy practices of our key international partners, please see the relevant additional material at the foot of this Privacy Policy.",
+            "6.1 Where we hold your personal data and are responsible for it, it will be stored for the life of your contract with us (plus 5 years – as per the Moneyhub data retention policy).",
+            "6.2 Your contract with us would typically expire when you delete your account with us or ask us to delete your Moneyhub account for you. Our databases are backed up but such back-ups are never held for more than 90 days at a time. It is crucial that we hold your personal data in this way because without it, we would not be able to fulfil our contract with you and show you copies of your account information or payment transaction information, when you request/select to see these.",
+            "7.1 Once we have received your information, we will use procedures and security features to try to prevent unauthorised and unlawful access and processing, as well as accidental loss, destruction or damage. We use encryption technology to protect personal data that you submit to us online in order to reduce the risk of your data being intercepted by unauthorised persons during transmission.",
+            "7.2 We deploy a range of “technical and organisational” measures including physical, electronic, and procedural safeguards to protect information we process and maintain."
+          ],
+          "lists": [
+            {
+              "ordered": false,
+              "items": [
+                "To help us improve End Users’ experience",
+                "To fulfil API calls and integration requests to connect to various accounts",
+                "To help with data protection and spot fraudulent activity"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "To remember preferences and settings",
+                "To identify errors on the site and assess performance",
+                "To help us understand traffic data relating to our site, e.g. time and date of visit"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "Google Chrome",
+                "Microsoft Edge",
+                "Mozilla Firefox",
+                "Opera",
+                "Apple Safari"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "Adjust",
+                "Braze",
+                "Heap",
+                "Intercom",
+                "Zendesk"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "Squarespace",
+                "Google Ads",
+                "Google Analytics",
+                "Vimeo",
+                "Cloudflare",
+                "Pardot"
+              ]
+            }
+          ],
+          "qa": [],
+          "quotes": []
+        }
+      ]
+    },
+    {
+      "tag": "footer",
+      "role": "contentinfo",
+      "id": "footer",
+      "classes": [
+        "has-dark-background-color",
+        "py-12",
+        "px-4",
+        "md:px-8",
+        "lg:px-16"
+      ],
+      "innerText": "Moneyhub London Office: 70 Gracechurch Street, London, UK EC3V 0HR Follow us LinkedIn Solutions Banking and Lending Solutions Smart Segmentation Smart Lending Smart Money Actions Smart Payments Smart Product Match Transaction Categorisation and Enrichment Pension and Wealth Solutions Build and Retain In Retirement Pensions Dashboard Smart Fact Find Targeted Support Win Schemes Products Payments Data Explorer Embedded Solutions and Portals Data Insights and Recommendations Data Aggregation Categorisation and Enrichment Engine Policies & Info Global Privacy Policy ESG Report Modern Slavery Policy Security and Trust Global Terms of Use API Terms of Use Cookie Settings Connections Status Press and partners Glossary Moneyhub and Moneyhub Enterprise are trading styles of Moneyhub Financial Technology Limited, a company registered in England and Wales (company number 06909772) and its registered address at C/O Roxburgh Milkins Limited Merchants House North, Wapping Road, Bristol, BS1 4RW, United Kingdom. Moneyhub Financial Technology is authorised and regulated by the Financial Conduct Authority (FCA) and is a registered AISP (Account Information Service Provider) and PISP (Payment Initiation Service Provider). Reference no. 809360 found at fca.org.uk/register. © Moneyhub Financial Technology Limited 2026.",
+      "children": [
+        {
+          "tag": "div",
+          "id": null,
+          "classes": [
+            "container",
+            "mx-auto",
+            "has-parent-dark"
+          ],
+          "headlineText": "Follow us",
+          "innerTextSummary": "Moneyhub London Office: 70 Gracechurch Street, London, UK EC3V 0HR Follow us LinkedIn Solutions Banking and Lending Solutions Smart Segmentation Smart Lending Smart Money Actions Smart Payments Smart Product Match Transaction Categorisation",
+          "wordCount": 181,
+          "body": [
+            "London Office: 70 Gracechurch Street, London, UK EC3V 0HR",
+            "Moneyhub and Moneyhub Enterprise are trading styles of Moneyhub Financial Technology Limited, a company registered in England and Wales (company number 06909772) and its registered address at C/O Roxburgh Milkins Limited Merchants House North, Wapping Road, Bristol, BS1 4RW, United Kingdom. Moneyhub Financial Technology is authorised and regulated by the Financial Conduct Authority (FCA) and is a registered AISP (Account Information Service Provider) and PISP (Payment Initiation Service Provider). Reference no. 809360 found at fca.org.uk/register.",
+            "© Moneyhub Financial Technology Limited 2026."
+          ],
+          "lists": [
+            {
+              "ordered": false,
+              "items": [
+                "LinkedIn"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "Banking and Lending Solutions Smart Segmentation Smart Lending Smart Money Actions Smart Payments Smart Product Match Transaction Categorisation and Enrichment"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "Smart Segmentation",
+                "Smart Lending",
+                "Smart Money Actions",
+                "Smart Payments",
+                "Smart Product Match",
+                "Transaction Categorisation and Enrichment"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "Pension and Wealth Solutions Build and Retain In Retirement Pensions Dashboard Smart Fact Find Targeted Support Win Schemes"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "Build and Retain",
+                "In Retirement",
+                "Pensions Dashboard",
+                "Smart Fact Find",
+                "Targeted Support",
+                "Win Schemes"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "Payments",
+                "Data Explorer",
+                "Embedded Solutions and Portals",
+                "Data Insights and Recommendations",
+                "Data Aggregation",
+                "Categorisation and Enrichment Engine"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "Global Privacy Policy",
+                "ESG Report",
+                "Modern Slavery Policy",
+                "Security and Trust",
+                "Global Terms of Use",
+                "API Terms of Use",
+                "Cookie Settings",
+                "Connections Status",
+                "Press and partners",
+                "Glossary"
+              ]
+            }
+          ],
+          "qa": [],
+          "quotes": []
+        }
+      ]
+    },
+    {
+      "tag": "a",
+      "role": "navigation",
+      "id": null,
+      "classes": [
+        "block",
+        "brand",
+        "mb-6",
+        "col-span-2",
+        "max-w-full"
+      ],
+      "innerText": "Moneyhub",
+      "children": []
+    },
+    {
+      "tag": "nav",
+      "role": null,
+      "id": null,
+      "classes": [
+        "col-span-1",
+        "pe-5"
+      ],
+      "innerText": "Banking and Lending Solutions Smart Segmentation Smart Lending Smart Money Actions Smart Payments Smart Product Match Transaction Categorisation and Enrichment",
+      "children": []
+    },
+    {
+      "tag": "nav",
+      "role": null,
+      "id": null,
+      "classes": [
+        "col-span-1",
+        "pe-5"
+      ],
+      "innerText": "Pension and Wealth Solutions Build and Retain In Retirement Pensions Dashboard Smart Fact Find Targeted Support Win Schemes",
+      "children": []
+    },
+    {
+      "tag": "nav",
+      "role": null,
+      "id": null,
+      "classes": [
+        "col-span-1",
+        "pe-5"
+      ],
+      "innerText": "",
+      "children": []
+    },
+    {
+      "tag": "nav",
+      "role": null,
+      "id": null,
+      "classes": [
+        "pe-5"
+      ],
+      "innerText": "Payments Data Explorer Embedded Solutions and Portals Data Insights and Recommendations Data Aggregation Categorisation and Enrichment Engine",
+      "children": []
+    },
+    {
+      "tag": "nav",
+      "role": null,
+      "id": null,
+      "classes": [
+        "pe-5"
+      ],
+      "innerText": "Global Privacy Policy ESG Report Modern Slavery Policy Security and Trust Global Terms of Use API Terms of Use Cookie Settings Connections Status Press and partners Glossary",
+      "children": []
+    },
+    {
+      "tag": "nav",
+      "role": null,
+      "id": null,
+      "classes": [],
+      "innerText": "",
+      "children": []
+    },
+    {
+      "tag": "nav",
+      "role": null,
+      "id": null,
+      "classes": [
+        "pe-5"
+      ],
+      "innerText": "",
+      "children": []
+    }
+  ],
+  "ctas": [
+    {
+      "label": "Customise",
+      "href": null,
+      "tag": "button",
+      "domPath": "div.cky-consent-bar > div.cky-notice-content-wrapper > div.cky-notice > div.cky-notice-group > div.cky-notice-btn-wrapper > button.cky-btn.cky-btn-customize",
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(33, 33, 33)",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": "500",
+        "borderRadius": "2px",
+        "padding": "8px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "fold"
+    },
+    {
+      "label": "Accept All",
+      "href": null,
+      "tag": "button",
+      "domPath": "div.cky-consent-bar > div.cky-notice-content-wrapper > div.cky-notice > div.cky-notice-group > div.cky-notice-btn-wrapper > button.cky-btn.cky-btn-accept",
+      "style": {
+        "backgroundColor": "rgb(239, 85, 32)",
+        "color": "rgb(255, 255, 255)",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": "500",
+        "borderRadius": "2px",
+        "padding": "8px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "fold"
+    },
+    {
+      "label": "Close",
+      "href": null,
+      "tag": "button",
+      "domPath": "div#ckyPreferenceCenter > div.cky-preference-header > button.cky-btn-close",
+      "style": {
+        "backgroundColor": "rgba(255, 255, 255, 0)",
+        "color": "rgb(33, 33, 33)",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": "400",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "below-fold"
+    },
+    {
+      "label": "Show more",
+      "href": null,
+      "tag": "button",
+      "domPath": "div#ckyPreferenceCenter > div.cky-preference-body-wrapper > div.cky-preference-content-wrapper > p > button.cky-show-desc-btn",
+      "style": {
+        "backgroundColor": "rgba(255, 255, 255, 0)",
+        "color": "rgb(24, 99, 220)",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": "400",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "below-fold"
+    },
+    {
+      "label": "Necessary",
+      "href": null,
+      "tag": "button",
+      "domPath": "div#ckyDetailCategorynecessary > div.cky-accordion-item > div.cky-accordion-header-wrapper > div.cky-accordion-header > button.cky-accordion-btn",
+      "style": {
+        "backgroundColor": "rgba(255, 255, 255, 0)",
+        "color": "rgb(33, 33, 33)",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": "700",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "below-fold"
+    },
+    {
+      "label": "Functional",
+      "href": null,
+      "tag": "button",
+      "domPath": "div#ckyDetailCategoryfunctional > div.cky-accordion-item > div.cky-accordion-header-wrapper > div.cky-accordion-header > button.cky-accordion-btn",
+      "style": {
+        "backgroundColor": "rgba(255, 255, 255, 0)",
+        "color": "rgb(33, 33, 33)",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": "700",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "below-fold"
+    },
+    {
+      "label": "Analytics",
+      "href": null,
+      "tag": "button",
+      "domPath": "div#ckyDetailCategoryanalytics > div.cky-accordion-item > div.cky-accordion-header-wrapper > div.cky-accordion-header > button.cky-accordion-btn",
+      "style": {
+        "backgroundColor": "rgba(255, 255, 255, 0)",
+        "color": "rgb(33, 33, 33)",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": "700",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "below-fold"
+    },
+    {
+      "label": "Performance",
+      "href": null,
+      "tag": "button",
+      "domPath": "div#ckyDetailCategoryperformance > div.cky-accordion-item > div.cky-accordion-header-wrapper > div.cky-accordion-header > button.cky-accordion-btn",
+      "style": {
+        "backgroundColor": "rgba(255, 255, 255, 0)",
+        "color": "rgb(33, 33, 33)",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": "700",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "below-fold"
+    },
+    {
+      "label": "Advertisement",
+      "href": null,
+      "tag": "button",
+      "domPath": "div#ckyDetailCategoryadvertisement > div.cky-accordion-item > div.cky-accordion-header-wrapper > div.cky-accordion-header > button.cky-accordion-btn",
+      "style": {
+        "backgroundColor": "rgba(255, 255, 255, 0)",
+        "color": "rgb(33, 33, 33)",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": "700",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "below-fold"
+    },
+    {
+      "label": "Uncategorised",
+      "href": null,
+      "tag": "button",
+      "domPath": "div#ckyDetailCategoryother > div.cky-accordion-item > div.cky-accordion-header-wrapper > div.cky-accordion-header > button.cky-accordion-btn",
+      "style": {
+        "backgroundColor": "rgba(255, 255, 255, 0)",
+        "color": "rgb(33, 33, 33)",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": "700",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "below-fold"
+    },
+    {
+      "label": "Save My Preferences",
+      "href": null,
+      "tag": "button",
+      "domPath": "div#ckyPreferenceCenter > div.cky-footer-wrapper > div.cky-prefrence-btn-wrapper > button.cky-btn.cky-btn-preferences",
+      "style": {
+        "backgroundColor": "rgb(239, 85, 32)",
+        "color": "rgb(255, 255, 255)",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": "500",
+        "borderRadius": "2px",
+        "padding": "8px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "below-fold"
+    },
+    {
+      "label": "Accept All",
+      "href": null,
+      "tag": "button",
+      "domPath": "div#ckyPreferenceCenter > div.cky-footer-wrapper > div.cky-prefrence-btn-wrapper > button.cky-btn.cky-btn-accept",
+      "style": {
+        "backgroundColor": "rgb(239, 85, 32)",
+        "color": "rgb(255, 255, 255)",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": "500",
+        "borderRadius": "2px",
+        "padding": "8px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "below-fold"
+    },
+    {
+      "label": "Solutions",
+      "href": "#",
+      "tag": "a",
+      "domPath": "div.container.mx-auto > div.navbar-header.flex > div.flex.items-center > ul.menu.nav > li.mx-2.xl:mx-5 > a.dropdown-toggle.flex",
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(41, 51, 56)",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": "700",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "fold"
+    },
+    {
+      "label": "Products",
+      "href": "#",
+      "tag": "a",
+      "domPath": "div.container.mx-auto > div.navbar-header.flex > div.flex.items-center > ul.menu.nav > li.mx-2.xl:mx-5 > a.dropdown-toggle.flex",
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(41, 51, 56)",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": "700",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "fold"
+    },
+    {
+      "label": "Developers",
+      "href": "#",
+      "tag": "a",
+      "domPath": "div.container.mx-auto > div.navbar-header.flex > div.flex.items-center > ul.menu.nav > li.mx-2.xl:mx-5 > a.dropdown-toggle.flex",
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(41, 51, 56)",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": "700",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "fold"
+    },
+    {
+      "label": "Discover",
+      "href": "#",
+      "tag": "a",
+      "domPath": "div.container.mx-auto > div.navbar-header.flex > div.flex.items-center > ul.menu.nav > li.mx-2.xl:mx-5 > a.dropdown-toggle.flex",
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(41, 51, 56)",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": "700",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "fold"
+    },
+    {
+      "label": "About",
+      "href": "#",
+      "tag": "a",
+      "domPath": "div.container.mx-auto > div.navbar-header.flex > div.flex.items-center > ul.menu.nav > li.mx-2.xl:mx-5 > a.dropdown-toggle.flex",
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(41, 51, 56)",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": "700",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "fold"
+    },
+    {
+      "label": "Toggle Navigation",
+      "href": null,
+      "tag": "button",
+      "domPath": "header#header > div.container.mx-auto > div.navbar-header.flex > div.flex.items-center > div.navbar-buttons.flex > button.navbar-toggle.collapsed",
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": "400",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "fold"
+    },
+    {
+      "label": "Banking and Lending Solutions",
+      "href": "https://moneyhub.com/solutions/banking-and-lending-solutions/",
+      "tag": "a",
+      "domPath": "div.footer__nav--list > div.grid.grid-cols-2 > nav.col-span-1.pe-5 > ul > li > a.dropdown-toggle.flex",
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": "400",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "below-fold"
+    },
+    {
+      "label": "Pension and Wealth Solutions",
+      "href": "https://moneyhub.com/solutions/pension-and-wealth-solutions/",
+      "tag": "a",
+      "domPath": "div.footer__nav--list > div.grid.grid-cols-2 > nav.col-span-1.pe-5 > ul > li > a.dropdown-toggle.flex",
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": "400",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "below-fold"
+    }
+  ],
+  "links": {
+    "internal": [
+      {
+        "href": "/",
+        "text": "Moneyhub",
+        "domPath": "header#header > div.container.mx-auto > div.navbar-header.flex > div.flex.flex-wrap > a.block.mb-4---"
+      },
+      {
+        "href": "/solutions/banking-and-lending-solutions/",
+        "text": "Banking and Lending Solutions",
+        "domPath": "div.flex.items-center > ul.menu.nav > li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-post_type > a"
+      },
+      {
+        "href": "/solutions/banking-and-lending-solutions/transaction-categorisation-enrichment/",
+        "text": "Transaction Categorisation and Enrichment",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-post_type > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/solutions/banking-and-lending-solutions/smart-segmentation/",
+        "text": "Smart Segmentation",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-post_type > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/solutions/banking-and-lending-solutions/smart-money-actions/",
+        "text": "Smart Money Actions",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-post_type > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/solutions/banking-and-lending-solutions/smart-product-match/",
+        "text": "Smart Product Match",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-post_type > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/solutions/banking-and-lending-solutions/smart-payments/",
+        "text": "Smart Payments",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-post_type > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/solutions/banking-and-lending-solutions/smart-lending/",
+        "text": "Smart Lending",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-post_type > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/solutions/pension-and-wealth-solutions/",
+        "text": "Pension and Wealth Solutions",
+        "domPath": "div.flex.items-center > ul.menu.nav > li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-post_type > a"
+      },
+      {
+        "href": "/solutions/pension-and-wealth-solutions/win-schemes/",
+        "text": "Win Schemes",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-post_type > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/solutions/pension-and-wealth-solutions/build-and-retain/",
+        "text": "Build and Retain",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-post_type > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/solutions/pension-and-wealth-solutions/in-retirement/",
+        "text": "In Retirement",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-post_type > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/solutions/pension-and-wealth-solutions/pensions-dashboards/",
+        "text": "Pensions Dashboard",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-post_type > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/solutions/pension-and-wealth-solutions/targeted-support/",
+        "text": "Targeted Support",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-post_type > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/solutions/pension-and-wealth-solutions/smart-fact-find/",
+        "text": "Smart Fact Find",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-post_type > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/products/categorisation-enrichment-engine/",
+        "text": "Categorisation and Enrichment Engine",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-custom > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/products/data-aggregation/",
+        "text": "Data Aggregation",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-custom > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/products/data-insights-recommendations/",
+        "text": "Data Insights and Recommendations",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-custom > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/products/embedded-solutions-portals/",
+        "text": "Embedded Solutions and Portals",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-custom > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/products/data-explorer/",
+        "text": "Data Explorer",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-custom > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/products/payments/",
+        "text": "Payments",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-custom > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/articles/",
+        "text": "Articles",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-custom > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/case-studies/",
+        "text": "Case studies",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-custom > ul > li.menu-item.menu-item-type-custom > a.py-2.block"
+      },
+      {
+        "href": "/discover/guide-to-categorisation-and-enrichment/",
+        "text": "Categorisation and Enrichment",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-custom > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/press-releases/",
+        "text": "Press Releases",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-custom > ul > li.menu-item.menu-item-type-custom > a.py-2.block"
+      },
+      {
+        "href": "/use-cases/",
+        "text": "Use Cases",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-custom > ul > li.menu-item.menu-item-type-post_type_archive > a.py-2.block"
+      },
+      {
+        "href": "/webinars/",
+        "text": "Webinars",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-custom > ul > li.menu-item.menu-item-type-custom > a.py-2.block"
+      },
+      {
+        "href": "/about/",
+        "text": "About",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-custom > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/careers/",
+        "text": "Careers",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-custom > ul > li.menu-item.menu-item-type-post_type > a.py-2.block"
+      },
+      {
+        "href": "/contact/",
+        "text": "CONTACT",
+        "domPath": "div.container.mx-auto > div.navbar-header.flex > div.flex.items-center > ul.menu.nav > li.btn-contact > a.button.button--primary"
+      },
+      {
+        "href": "/press-releases/latest-moneyhub-release-puts-an-end-to-unrecognised-transaction-panic/",
+        "text": "Latest Moneyhub release puts an end to unrecognised transaction panic",
+        "domPath": "header#header > a.header-banner"
+      },
+      {
+        "href": "/contact/",
+        "text": "GET STARTED",
+        "domPath": "div.container.mx-auto > div.grid.grid-cols-12 > div.col-span-12.md:col-span-6 > div.base-content.has-parent- > div.flex.gap-6 > a.button.button--primary"
+      },
+      {
+        "href": "/policies/privacy-policy/",
+        "text": "Global Privacy Policy",
+        "domPath": "div.grid.grid-cols-2 > div.footer__nav--list.mb-6 > nav.pe-5 > ul > li > a.flex.items-center"
+      },
+      {
+        "href": "/policies/environmental-social-and-governance-report/",
+        "text": "ESG Report",
+        "domPath": "div.grid.grid-cols-2 > div.footer__nav--list.mb-6 > nav.pe-5 > ul > li > a.flex.items-center"
+      },
+      {
+        "href": "/policies/modern-slavery-and-human-trafficking-policy/",
+        "text": "Modern Slavery Policy",
+        "domPath": "div.grid.grid-cols-2 > div.footer__nav--list.mb-6 > nav.pe-5 > ul > li > a.flex.items-center"
+      },
+      {
+        "href": "/policies/security-and-trust-at-moneyhub/",
+        "text": "Security and Trust",
+        "domPath": "div.grid.grid-cols-2 > div.footer__nav--list.mb-6 > nav.pe-5 > ul > li > a.flex.items-center"
+      },
+      {
+        "href": "/policies/global-terms-of-use/",
+        "text": "Global Terms of Use",
+        "domPath": "div.grid.grid-cols-2 > div.footer__nav--list.mb-6 > nav.pe-5 > ul > li > a.flex.items-center"
+      },
+      {
+        "href": "/policies/api-terms-of-use/",
+        "text": "API Terms of Use",
+        "domPath": "div.grid.grid-cols-2 > div.footer__nav--list.mb-6 > nav.pe-5 > ul > li > a.flex.items-center"
+      },
+      {
+        "href": "/status/",
+        "text": "Connections Status",
+        "domPath": "div.grid.grid-cols-2 > div.footer__nav--list.mb-6 > nav.pe-5 > ul > li > a.flex.items-center"
+      },
+      {
+        "href": "/press-and-partners/",
+        "text": "Press and partners",
+        "domPath": "div.grid.grid-cols-2 > div.footer__nav--list.mb-6 > nav.pe-5 > ul > li > a.flex.items-center"
+      },
+      {
+        "href": "/glossary",
+        "text": "Glossary",
+        "domPath": "div.grid.grid-cols-2 > div.footer__nav--list.mb-6 > nav.pe-5 > ul > li > a.flex.items-center"
+      }
+    ],
+    "external": [
+      {
+        "href": "https://www.cookieyes.com/product/cookie-consent/?ref=cypbcyb&utm_source=cookie-banner&utm_medium=fl-branding",
+        "text": "",
+        "domPath": "div.cky-hide.cky-consent-container > div.cky-consent-bar > div > div > div > a"
+      },
+      {
+        "href": "https://docs.moneyhubenterprise.com/",
+        "text": "API Developer Hub",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-custom > ul > li.menu-item.menu-item-type-custom > a.py-2.block"
+      },
+      {
+        "href": "https://docs.moneyhubenterprise.com/docs/admin-portal-sign-up",
+        "text": "Access Sandbox",
+        "domPath": "li.mx-2.xl:mx-5 > ul.mega-menu.sub-menu > li.menu-item.menu-item-type-custom > ul > li.menu-item.menu-item-type-custom > a.py-2.block"
+      },
+      {
+        "href": "https://support.google.com/chrome/answer/95647?hl=en-GB&co=GENIE.Platform%3DDesktop",
+        "text": "Google Chrome",
+        "domPath": "div.col-span-12.md:col-span-8 > div.base-content.has-parent-white > div.mb-10.mt-0 > ul > li > a"
+      },
+      {
+        "href": "https://support.microsoft.com/en-us/windows/manage-cookies-in-microsoft-edge-view-allow-block-delete-and-use-168dab11-0753-043d-7c16-ede5947fc64d",
+        "text": "Microsoft Edge",
+        "domPath": "div.col-span-12.md:col-span-8 > div.base-content.has-parent-white > div.mb-10.mt-0 > ul > li > a"
+      },
+      {
+        "href": "https://support.mozilla.org/en-US/kb/block-websites-storing-cookies-site-data-firefox",
+        "text": "Mozilla Firefox",
+        "domPath": "div.col-span-12.md:col-span-8 > div.base-content.has-parent-white > div.mb-10.mt-0 > ul > li > a"
+      },
+      {
+        "href": "https://help.opera.com/en/latest/web-preferences/",
+        "text": "Opera",
+        "domPath": "div.col-span-12.md:col-span-8 > div.base-content.has-parent-white > div.mb-10.mt-0 > ul > li > a"
+      },
+      {
+        "href": "https://support.apple.com/en-gb/guide/safari/ibrw850f6c51/mac",
+        "text": "Apple Safari",
+        "domPath": "div.col-span-12.md:col-span-8 > div.base-content.has-parent-white > div.mb-10.mt-0 > ul > li > a"
+      },
+      {
+        "href": "https://ico.org.uk/",
+        "text": "www.ico.org.uk",
+        "domPath": "div.grid.grid-cols-12 > div.col-span-12.md:col-span-8 > div.base-content.has-parent-white > div.mb-10.mt-0 > p > a"
+      },
+      {
+        "href": "https://gocardless.com/privacy/merchants/",
+        "text": "GoCardless Privacy Centre: Merchants",
+        "domPath": "div.grid.grid-cols-12 > div.col-span-12.md:col-span-8 > div.base-content.has-parent-white > div.mb-10.mt-0 > p > a"
+      },
+      {
+        "href": "https://gocardless.com/privacy/account-holders/",
+        "text": "GoCardless Privacy Centre: Account Holders",
+        "domPath": "div.grid.grid-cols-12 > div.col-span-12.md:col-span-8 > div.base-content.has-parent-white > div.mb-10.mt-0 > p > a"
+      },
+      {
+        "href": "https://gocardless.com/legal/bank-account-data/",
+        "text": "GoCardless Terms of Service",
+        "domPath": "div.grid.grid-cols-12 > div.col-span-12.md:col-span-8 > div.base-content.has-parent-white > div.mb-10.mt-0 > p > a"
+      },
+      {
+        "href": "https://www.transunion.co.uk/legal/privacy-centre",
+        "text": "www.transunion.co.uk/legal/privacy-centre",
+        "domPath": "div.grid.grid-cols-12 > div.col-span-12.md:col-span-8 > div.base-content.has-parent-white > div.mb-10.mt-0 > p > a"
+      },
+      {
+        "href": "https://www.equifax.co.uk/crain",
+        "text": "www.equifax.co.uk/crain",
+        "domPath": "div.grid.grid-cols-12 > div.col-span-12.md:col-span-8 > div.base-content.has-parent-white > div.mb-10.mt-0 > p > a"
+      },
+      {
+        "href": "https://www.experian.co.uk/legal/crain/",
+        "text": "www.experian.co.uk/crain",
+        "domPath": "div.grid.grid-cols-12 > div.col-span-12.md:col-span-8 > div.base-content.has-parent-white > div.mb-10.mt-0 > p > a"
+      },
+      {
+        "href": "https://www.experian.co.uk/assets/rental-exchange/rental-exchange-privacy-notice.pdf",
+        "text": "https://www.experian.co.uk/assets/rental-exchange/rental-exchange-privacy-notice",
+        "domPath": "div.grid.grid-cols-12 > div.col-span-12.md:col-span-8 > div.base-content.has-parent-white > div.mb-10.mt-0 > p > a"
+      },
+      {
+        "href": "https://www.experian.co.uk/assets/rental-exchange/rental-exchange-data-protection.pdf",
+        "text": "https://www.experian.co.uk/assets/rental-exchange/rental-exchange-data-protectio",
+        "domPath": "div.grid.grid-cols-12 > div.col-span-12.md:col-span-8 > div.base-content.has-parent-white > div.mb-10.mt-0 > p > a"
+      },
+      {
+        "href": "https://www.squarespace.com/privacy",
+        "text": "https://www.squarespace.com/privacy",
+        "domPath": "div.grid.grid-cols-12 > div.col-span-12.md:col-span-8 > div.base-content.has-parent-white > div.mb-10.mt-0 > p > a"
+      },
+      {
+        "href": "https://policies.google.com/privacy?hl=en",
+        "text": "https://policies.google.com/privacy?hl=en",
+        "domPath": "div.grid.grid-cols-12 > div.col-span-12.md:col-span-8 > div.base-content.has-parent-white > div.mb-10.mt-0 > p > a"
+      },
+      {
+        "href": "https://analytics.google.com/analytics/web/provision/#/provision",
+        "text": "https://analytics.google.com/analytics/web/provision/#/provision",
+        "domPath": "div.grid.grid-cols-12 > div.col-span-12.md:col-span-8 > div.base-content.has-parent-white > div.mb-10.mt-0 > p > a"
+      },
+      {
+        "href": "https://www.pardot.com/",
+        "text": "https://www.pardot.com",
+        "domPath": "div.grid.grid-cols-12 > div.col-span-12.md:col-span-8 > div.base-content.has-parent-white > div.mb-10.mt-0 > p > a"
+      },
+      {
+        "href": "https://marketingplatform.google.com/intl/en_uk/about/tag-manager/",
+        "text": "https://marketingplatform.google.com/intl/en_uk/about/tag-manager/",
+        "domPath": "div.grid.grid-cols-12 > div.col-span-12.md:col-span-8 > div.base-content.has-parent-white > div.mb-10.mt-0 > p > a"
+      },
+      {
+        "href": "https://vimeo.com/privacy",
+        "text": "https://vimeo.com/privacy",
+        "domPath": "div.grid.grid-cols-12 > div.col-span-12.md:col-span-8 > div.base-content.has-parent-white > div.mb-10.mt-0 > p > a"
+      },
+      {
+        "href": "https://www.cloudflare.com/en-gb/privacypolicy/",
+        "text": "https://www.cloudflare.com/en-gb/privacypolicy/",
+        "domPath": "div.grid.grid-cols-12 > div.col-span-12.md:col-span-8 > div.base-content.has-parent-white > div.mb-10.mt-0 > p > a"
+      },
+      {
+        "href": "https://www.intercom.com/terms-and-policies#privacy",
+        "text": "https://www.intercom.com/terms-and-policies#privacy",
+        "domPath": "div.grid.grid-cols-12 > div.col-span-12.md:col-span-8 > div.base-content.has-parent-white > div.mb-10.mt-0 > p > a"
+      },
+      {
+        "href": "https://www.yodlee.com/europe/company/clients-consumers",
+        "text": "https://www.yodlee.com/europe/company/clients-consumers",
+        "domPath": "div.grid.grid-cols-12 > div.col-span-12.md:col-span-8 > div.base-content.has-parent-white > div.mb-10.mt-0 > p > a"
+      },
+      {
+        "href": "https://www.zoopla.co.uk/privacy/",
+        "text": "https://www.zoopla.co.uk/privacy/",
+        "domPath": "div.grid.grid-cols-12 > div.col-span-12.md:col-span-8 > div.base-content.has-parent-white > div.mb-10.mt-0 > p > a"
+      },
+      {
+        "href": "https://www.adjust.com/terms/privacy-policy/",
+        "text": "https://www.adjust.com/terms/privacy-policy/",
+        "domPath": "div.grid.grid-cols-12 > div.col-span-12.md:col-span-8 > div.base-content.has-parent-white > div.mb-10.mt-0 > p > a"
+      },
+      {
+        "href": "https://www.braze.com/company/legal/privacy",
+        "text": "https://www.braze.com/company/legal/privacy",
+        "domPath": "div.grid.grid-cols-12 > div.col-span-12.md:col-span-8 > div.base-content.has-parent-white > div.mb-10.mt-0 > p > a"
+      },
+      {
+        "href": "https://www.heap.io/privacy",
+        "text": "https://www.heap.io/privacy",
+        "domPath": "div.grid.grid-cols-12 > div.col-span-12.md:col-span-8 > div.base-content.has-parent-white > div.mb-10.mt-0 > p > a"
+      },
+      {
+        "href": "https://www.zendesk.co.uk/company/agreements-and-terms/privacy-notice/",
+        "text": "https://www.zendesk.co.uk/company/agreements-and-terms/privacy-notice/",
+        "domPath": "div.grid.grid-cols-12 > div.col-span-12.md:col-span-8 > div.base-content.has-parent-white > div.mb-10.mt-0 > p > a"
+      },
+      {
+        "href": "https://www.linkedin.com/company/10994971",
+        "text": "LinkedIn",
+        "domPath": "div.footer__content.grid > div.col-span-12.md:col-span-3 > div.col-span-1.md:col-span-2 > ul.footer__social--- > li > a"
+      }
+    ]
+  },
+  "media": {
+    "images": [
+      {
+        "src": "https://cdn-cookieyes.com/assets/images/close.svg",
+        "srcset": null,
+        "alt": "cky-close-icon",
+        "naturalWidth": 10,
+        "naturalHeight": 10
+      },
+      {
+        "src": "https://moneyhub.com/wp-content/uploads/2025/11/Moneyhub-lawfulness-of-processing-2048x1690.png",
+        "srcset": "https://moneyhub.com/wp-content/uploads/2025/11/Moneyhub-lawfulness-of-processing-1024x845.png 1024w, https://moneyhub.com/wp-content/uploads/2025/11/Moneyhub-lawfulness-of-processing-300x248.png 300w, https://moneyhub.com/wp-content/uploads/2025/11/Moneyhub-lawfulness-of-processing-768x634.png 768w, https://moneyhub.com/wp-content/uploads/2025/11/Moneyhub-lawfulness-of-processing-1536x1267.png 1536w, https://moneyhub.com/wp-content/uploads/2025/11/Moneyhub-lawfulness-of-processing-2048x1690.png 2048w",
+        "alt": "",
+        "naturalWidth": 843,
+        "naturalHeight": 695
+      },
+      {
+        "src": "https://moneyhub.com/wp-content/themes/moneyhub/img/CCSS-logo.png",
+        "srcset": null,
+        "alt": "Crown Commercial Service Supplier",
+        "naturalWidth": 234,
+        "naturalHeight": 189
+      },
+      {
+        "src": "https://bat.bing.com/action/0?ti=52007878&tm=gtm002&Ver=2&mid=1e5d97ee-c550-49e1-8a93-8bd972def8fd&bo=3&sid=4a0a9730720911f1a6cd5372eabfffa5&vid=4a0a80c0720911f1a397b9b6ec4068d7&vids=0&msclkid=N&pi=0&lg=en-US&sw=1440&sh=900&sc=24&nwd=1&tl=Global%20Privacy%20Policy%20(including%20Cookies%20Statement)%20-%20Moneyhub&p=https%3A%2F%2Fmoneyhub.com%2Fpolicies%2Fprivacy-policy%2F&r=&lt=152&evt=pageLoad&sv=2&asc=G&cdb=AQcT&rn=310474",
+        "srcset": null,
+        "alt": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      }
+    ],
+    "inlineSvgCount": 11,
+    "iframes": [
+      {
+        "src": "https://16925211.fls.doubleclick.net/activityi;src=16925211;type=land0;cat=smp-a0;rcb=2;ord=3717688342384;npa=0;auiddc=1826515049.1782551964;gdid=dY2Q2ZW;uaa=x86;uab=64;uafvl=HeadlessChrome%3B149.0.7827.55%7CChromium%3B149.0.7827.55%7CNot)A%253BBrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=10_15_7;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe66p0h2v9251705574z8845167050za20gzb845167050zd845167050xea;gcs=G111;gcd=13r3r3r2r5l1;dma_cps=a;dma=1;dc_fmt=2;tag_exp=115938466~115938468~118395334~119027224~119576891~119576895;epver=2;dc_random=1782552079_IEy0QqUhAqgF5gjdjtHQOVJ6moVHPWXn-A;_dc_test=1;~oref=https%3A%2F%2Fmoneyhub.com%2Fpolicies%2Fprivacy-policy%2F?",
+        "title": null
+      },
+      {
+        "src": "https://16925211.fls.doubleclick.net/activityi;src=16925211;type=land0;cat=smp-20;rcb=2;ord=4660499640577;npa=0;auiddc=1826515049.1782551964;gdid=dY2Q2ZW;uaa=x86;uab=64;uafvl=HeadlessChrome%3B149.0.7827.55%7CChromium%3B149.0.7827.55%7CNot)A%253BBrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=10_15_7;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe66p0h2v9251705574z8845167050za20gzb845167050zd845167050xea;gcs=G111;gcd=13r3r3r2r5l1;dma_cps=a;dma=1;dc_fmt=2;tag_exp=115938466~115938468~118395334~119027224~119576891~119576895;epver=2;dc_random=1782552079_YrP-ZaOfzFN1CGkOM03DjQpEkjSuBqWb1w;_dc_test=1;~oref=https%3A%2F%2Fmoneyhub.com%2Fpolicies%2Fprivacy-policy%2F?",
+        "title": null
+      },
+      {
+        "src": "https://16925211.fls.doubleclick.net/activityi;src=16925211;type=land0;cat=smp-20;rcb=2;ord=8275468647311;npa=0;auiddc=1826515049.1782551964;gdid=dY2Q2ZW;uaa=x86;uab=64;uafvl=HeadlessChrome%3B149.0.7827.55%7CChromium%3B149.0.7827.55%7CNot)A%253BBrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=10_15_7;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe66p0h2v9251705574z8845167050za20gzb845167050zd845167050xea;gcs=G111;gcd=13r3r3r2r5l1;dma_cps=a;dma=1;dc_fmt=2;tag_exp=115938466~115938468~118395334~119027224~119576891~119576895;epver=2;dc_random=1782552079_Vh28S_giQv436Ozj8tdSqa6D6BmecX7nRA;_dc_test=1;~oref=https%3A%2F%2Fmoneyhub.com%2Fpolicies%2Fprivacy-policy%2F?",
+        "title": null
+      },
+      {
+        "src": "",
+        "title": "archetype"
+      },
+      {
+        "src": "https://16925211.fls.doubleclick.net/activityi;src=16925211;type=land0;cat=smp-50;rcb=2;ord=9278865701881;npa=0;auiddc=1826515049.1782551964;gdid=dY2Q2ZW;uaa=x86;uab=64;uafvl=HeadlessChrome%3B149.0.7827.55%7CChromium%3B149.0.7827.55%7CNot)A%253BBrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=10_15_7;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe66p0h2v9251705574z8845167050za20gzb845167050zd845167050xea;gcs=G111;gcd=13r3r3r2r5l1;dma_cps=a;dma=1;dc_fmt=2;tag_exp=115938466~115938468~118395334~119027224~119576891~119576895;epver=2;dc_random=1782552083_uvgvXwRtM0U1YXz9K5hDIjfm92k8RPzrdQ;_dc_test=1;~oref=https%3A%2F%2Fmoneyhub.com%2Fpolicies%2Fprivacy-policy%2F?",
+        "title": null
+      },
+      {
+        "src": "https://16925211.fls.doubleclick.net/activityi;src=16925211;type=land0;cat=smp-80;rcb=2;ord=2477097648302;npa=0;auiddc=1826515049.1782551964;gdid=dY2Q2ZW;uaa=x86;uab=64;uafvl=HeadlessChrome%3B149.0.7827.55%7CChromium%3B149.0.7827.55%7CNot)A%253BBrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=10_15_7;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe66p0h2v9251705574z8845167050za20gzb845167050zd845167050xea;gcs=G111;gcd=13r3r3r2r5l1;dma_cps=a;dma=1;dc_fmt=2;tag_exp=115938466~115938468~118395334~119027224~119576891~119576895;epver=2;dc_random=1782552085_V51azwnlRkLiWCSZPEs3e9kuSKVVFWOPRg;_dc_test=1;~oref=https%3A%2F%2Fmoneyhub.com%2Fpolicies%2Fprivacy-policy%2F?",
+        "title": null
+      }
+    ],
+    "videos": [],
+    "cssBackgrounds": [
+      {
+        "urls": [
+          "https://moneyhub.com/wp-content/themes/moneyhub/img/pattern.webp"
+        ],
+        "domPath": "html > body.privacy-policy.wp-singular",
+        "rect": {
+          "w": 1440,
+          "h": 15490,
+          "top": 0
+        },
+        "backgroundSize": "238px 137px",
+        "backgroundPosition": "0% 0%",
+        "backgroundRepeat": "repeat"
+      }
+    ]
+  },
+  "forms": [],
+  "widgets": {
+    "modals": 1,
+    "accordions": 14,
+    "tabs": 0
+  },
+  "perSectionStyle": [
+    {
+      "landmark": "div",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Lato, sans-serif"
+    },
+    {
+      "landmark": "header#header",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Lato, sans-serif"
+    },
+    {
+      "landmark": "a",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Lato, sans-serif"
+    },
+    {
+      "landmark": "main#main",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Lato, sans-serif"
+    },
+    {
+      "landmark": "footer#footer",
+      "backgroundColor": "rgb(102, 102, 102)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "48px 64px",
+      "fontFamily": "Lato, sans-serif"
+    },
+    {
+      "landmark": "a",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "padding": "0px",
+      "fontFamily": "Lato, sans-serif"
+    },
+    {
+      "landmark": "nav",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "padding": "0px 20px 0px 0px",
+      "fontFamily": "Lato, sans-serif"
+    },
+    {
+      "landmark": "nav",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "padding": "0px 20px 0px 0px",
+      "fontFamily": "Lato, sans-serif"
+    },
+    {
+      "landmark": "nav",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "padding": "0px 20px 0px 0px",
+      "fontFamily": "Lato, sans-serif"
+    },
+    {
+      "landmark": "nav",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "padding": "0px 20px 0px 0px",
+      "fontFamily": "Lato, sans-serif"
+    },
+    {
+      "landmark": "nav",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "padding": "0px 20px 0px 0px",
+      "fontFamily": "Lato, sans-serif"
+    },
+    {
+      "landmark": "nav",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "padding": "0px",
+      "fontFamily": "Lato, sans-serif"
+    },
+    {
+      "landmark": "nav",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "padding": "0px 20px 0px 0px",
+      "fontFamily": "Lato, sans-serif"
+    }
+  ],
+  "cssCustomProperties": [
+    {
+      "name": "--tw-ring-offset-shadow",
+      "value": "0 0 #0000"
+    },
+    {
+      "name": "--wp--preset--gradient--midnight",
+      "value": "linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%)"
+    },
+    {
+      "name": "--tw-backdrop-sepia",
+      "value": ""
+    },
+    {
+      "name": "--tw-ring-shadow",
+      "value": "0 0 #0000"
+    },
+    {
+      "name": "--wp-admin-theme-color-darker-20",
+      "value": "#005a87"
+    },
+    {
+      "name": "--wp--preset--font-size--large",
+      "value": "36px"
+    },
+    {
+      "name": "--wp--preset--shadow--outlined",
+      "value": "6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0)"
+    },
+    {
+      "name": "--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan",
+      "value": "linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%)"
+    },
+    {
+      "name": "--wp--preset--color--vivid-purple",
+      "value": "#9b51e0"
+    },
+    {
+      "name": "--wp--preset--gradient--blush-light-purple",
+      "value": "linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%)"
+    },
+    {
+      "name": "--wp--preset--color--dark",
+      "value": "#666666"
+    },
+    {
+      "name": "--tw-sepia",
+      "value": ""
+    },
+    {
+      "name": "--wp--preset--aspect-ratio--16-9",
+      "value": "16/9"
+    },
+    {
+      "name": "--tw-ordinal",
+      "value": ""
+    },
+    {
+      "name": "--wp--preset--color--pale-pink",
+      "value": "#f78da7"
+    },
+    {
+      "name": "--tw-backdrop-saturate",
+      "value": ""
+    },
+    {
+      "name": "--wp-block-synced-color--rgb",
+      "value": "122,0,223"
+    },
+    {
+      "name": "--tw-contain-style",
+      "value": ""
+    },
+    {
+      "name": "--wp-bound-block-color",
+      "value": "#7a00df"
+    },
+    {
+      "name": "--wp--preset--color--cyan-bluish-gray",
+      "value": "#abb8c3"
+    },
+    {
+      "name": "--tw-ring-inset",
+      "value": ""
+    },
+    {
+      "name": "--tw-backdrop-invert",
+      "value": ""
+    },
+    {
+      "name": "--wp--preset--gradient--electric-grass",
+      "value": "linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%)"
+    },
+    {
+      "name": "--wp--preset--gradient--blush-bordeaux",
+      "value": "linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%)"
+    },
+    {
+      "name": "--tw-numeric-spacing",
+      "value": ""
+    },
+    {
+      "name": "--wp--preset--spacing--60",
+      "value": "2.25rem"
+    },
+    {
+      "name": "--wp--preset--color--vivid-green-cyan",
+      "value": "#00d084"
+    },
+    {
+      "name": "--wp--preset--shadow--deep",
+      "value": "12px 12px 50px rgba(0, 0, 0, 0.4)"
+    },
+    {
+      "name": "--tw-border-spacing-x",
+      "value": "0"
+    },
+    {
+      "name": "--wp-editor-canvas-background",
+      "value": "#ddd"
+    },
+    {
+      "name": "--tw-brightness",
+      "value": ""
+    },
+    {
+      "name": "--tw-backdrop-grayscale",
+      "value": ""
+    },
+    {
+      "name": "--tw-hue-rotate",
+      "value": ""
+    },
+    {
+      "name": "--tw-scale-y",
+      "value": "1"
+    },
+    {
+      "name": "--wp-admin-theme-color-darker-20--rgb",
+      "value": "0,90,135"
+    },
+    {
+      "name": "--wp--preset--spacing--40",
+      "value": "1rem"
+    },
+    {
+      "name": "--tw-pan-y",
+      "value": ""
+    },
+    {
+      "name": "--tw-backdrop-contrast",
+      "value": ""
+    },
+    {
+      "name": "--tw-drop-shadow",
+      "value": ""
+    },
+    {
+      "name": "--wp-admin-theme-color--rgb",
+      "value": "0,124,186"
+    },
+    {
+      "name": "--wp-admin-theme-color",
+      "value": "#007cba"
+    },
+    {
+      "name": "--tw-ring-color",
+      "value": "rgb(59 130 246 / 0.5)"
+    },
+    {
+      "name": "--tw-backdrop-brightness",
+      "value": ""
+    },
+    {
+      "name": "--wp--preset--color--feature",
+      "value": "#3bb143"
+    },
+    {
+      "name": "--wp--preset--aspect-ratio--3-2",
+      "value": "3/2"
+    },
+    {
+      "name": "--wp--preset--color--luminous-vivid-orange",
+      "value": "#ff6900"
+    },
+    {
+      "name": "--tw-pan-x",
+      "value": ""
+    },
+    {
+      "name": "--tw-translate-y",
+      "value": "0"
+    },
+    {
+      "name": "--wp--preset--aspect-ratio--2-3",
+      "value": "2/3"
+    },
+    {
+      "name": "--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple",
+      "value": "linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%)"
+    },
+    {
+      "name": "--wp--preset--font-size--huge",
+      "value": "42px"
+    },
+    {
+      "name": "--wp--preset--font-size--x-large",
+      "value": "42px"
+    },
+    {
+      "name": "--wp--preset--font-size--normal",
+      "value": "16px"
+    },
+    {
+      "name": "--tw-rotate",
+      "value": "0"
+    },
+    {
+      "name": "--tw-ring-offset-color",
+      "value": "#fff"
+    },
+    {
+      "name": "--tw-contain-size",
+      "value": ""
+    },
+    {
+      "name": "--tw-contrast",
+      "value": ""
+    },
+    {
+      "name": "--wp-admin-theme-color-darker-10--rgb",
+      "value": "0,107,160.5"
+    },
+    {
+      "name": "--wp--preset--color--vivid-cyan-blue",
+      "value": "#0693e3"
+    },
+    {
+      "name": "--wp--preset--shadow--natural",
+      "value": "6px 6px 9px rgba(0, 0, 0, 0.2)"
+    },
+    {
+      "name": "--wp--preset--spacing--30",
+      "value": "0.67rem"
+    },
+    {
+      "name": "--wp--preset--aspect-ratio--4-3",
+      "value": "4/3"
+    },
+    {
+      "name": "--wp--preset--spacing--50",
+      "value": "1.5rem"
+    },
+    {
+      "name": "--wp--preset--color--pale-cyan-blue",
+      "value": "#8ed1fc"
+    },
+    {
+      "name": "--tw-skew-x",
+      "value": "0"
+    },
+    {
+      "name": "--wp--preset--font-size--small",
+      "value": "13px"
+    },
+    {
+      "name": "--wp--preset--spacing--70",
+      "value": "3.38rem"
+    },
+    {
+      "name": "--wp--preset--color--grey",
+      "value": "#fafafa"
+    },
+    {
+      "name": "--tw-backdrop-blur",
+      "value": ""
+    },
+    {
+      "name": "--tw-shadow",
+      "value": "0 0 #0000"
+    },
+    {
+      "name": "--tw-translate-x",
+      "value": "0"
+    },
+    {
+      "name": "--tw-ring-offset-width",
+      "value": "0px"
+    },
+    {
+      "name": "--wp--preset--gradient--luminous-dusk",
+      "value": "linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%)"
+    },
+    {
+      "name": "--tw-gradient-via-position",
+      "value": ""
+    },
+    {
+      "name": "--wp-block-synced-color",
+      "value": "#7a00df"
+    },
+    {
+      "name": "--wp--preset--color--luminous-vivid-amber",
+      "value": "#fcb900"
+    },
+    {
+      "name": "--tw-saturate",
+      "value": ""
+    },
+    {
+      "name": "--sa-uid",
+      "value": "'0-6157e078-8982-5b6c-6f13-f97dd91cba9f'"
+    },
+    {
+      "name": "--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange",
+      "value": "linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%)"
+    },
+    {
+      "name": "--tw-scroll-snap-strictness",
+      "value": "proximity"
+    },
+    {
+      "name": "--wp--preset--aspect-ratio--9-16",
+      "value": "9/16"
+    },
+    {
+      "name": "--wp--preset--color--vivid-red",
+      "value": "#cf2e2e"
+    },
+    {
+      "name": "--tw-grayscale",
+      "value": ""
+    },
+    {
+      "name": "--bs-link-color-rgb",
+      "value": "#000"
+    },
+    {
+      "name": "--wp--preset--shadow--crisp",
+      "value": "6px 6px 0px rgb(0, 0, 0)"
+    },
+    {
+      "name": "--wp--preset--color--light-green-cyan",
+      "value": "#7bdcb5"
+    },
+    {
+      "name": "--tw-scale-x",
+      "value": "1"
+    },
+    {
+      "name": "--tw-backdrop-hue-rotate",
+      "value": ""
+    },
+    {
+      "name": "--tw-shadow-colored",
+      "value": "0 0 #0000"
+    },
+    {
+      "name": "--wp-admin-border-width-focus",
+      "value": "1.5px"
+    },
+    {
+      "name": "--wp--preset--aspect-ratio--square",
+      "value": "1"
+    },
+    {
+      "name": "--tw-gradient-to-position",
+      "value": ""
+    },
+    {
+      "name": "--tw-border-spacing-y",
+      "value": "0"
+    },
+    {
+      "name": "--wp--preset--gradient--pale-ocean",
+      "value": "linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%)"
+    },
+    {
+      "name": "--tw-numeric-fraction",
+      "value": ""
+    },
+    {
+      "name": "--wp--preset--color--white",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "--wp--preset--shadow--sharp",
+      "value": "6px 6px 0px rgba(0, 0, 0, 0.2)"
+    },
+    {
+      "name": "--wp--preset--spacing--80",
+      "value": "5.06rem"
+    },
+    {
+      "name": "--wp--preset--font-size--medium",
+      "value": "20px"
+    },
+    {
+      "name": "--wp--preset--color--black",
+      "value": "#000000"
+    },
+    {
+      "name": "--wp--preset--aspect-ratio--3-4",
+      "value": "3/4"
+    },
+    {
+      "name": "--wp-admin-theme-color-darker-10",
+      "value": "#006ba1"
+    },
+    {
+      "name": "--tw-skew-y",
+      "value": "0"
+    },
+    {
+      "name": "--tw-slashed-zero",
+      "value": ""
+    },
+    {
+      "name": "--tw-blur",
+      "value": ""
+    },
+    {
+      "name": "--wp--preset--gradient--luminous-vivid-orange-to-vivid-red",
+      "value": "linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%)"
+    },
+    {
+      "name": "--tw-invert",
+      "value": ""
+    },
+    {
+      "name": "--wp--preset--spacing--20",
+      "value": "0.44rem"
+    },
+    {
+      "name": "--tw-backdrop-opacity",
+      "value": ""
+    },
+    {
+      "name": "--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray",
+      "value": "linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%)"
+    },
+    {
+      "name": "--tw-gradient-from-position",
+      "value": ""
+    },
+    {
+      "name": "--tw-numeric-figure",
+      "value": ""
+    },
+    {
+      "name": "--tw-pinch-zoom",
+      "value": ""
+    },
+    {
+      "name": "--tw-contain-paint",
+      "value": ""
+    },
+    {
+      "name": "--wp--preset--gradient--cool-to-warm-spectrum",
+      "value": "linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%)"
+    },
+    {
+      "name": "--tw-contain-layout",
+      "value": ""
+    }
+  ],
+  "logo": {
+    "type": "inline-svg",
+    "markup": "<svg width=\"177\" height=\"30\" viewBox=\"0 0 177 30\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n        <path d=\"M173.445 7.87843L163.177 13.6835L173.476 19.4358L176.035 15.0952C176.564 14.1964 176.559 13.0967 176.025 12.2032L173.445 7.87843Z\" fill=\"#EF551F\"></path>\n        <path d=\"M161.009 12.4781L160.978 0.920807L155.839 0.936668C154.776 0.936668 153.798 1.4918 153.269 2.39059L150.71 6.73119L161.009 12.4834V12.4781Z\" fill=\"#EF551F\"></path>\n        <path d=\"M167.566 0.899719H167.555L162.416 0.91558L162.448 12.4729L172.715 6.66781L170.135 2.34306C169.601 1.44956 168.623 0.905006 167.566 0.905006\" fill=\"#EF551F\"></path>\n        <path d=\"M149.997 7.94193L147.438 12.2825C146.909 13.1813 146.914 14.281 147.443 15.1745L153.333 25.04C153.867 25.9335 154.85 26.4833 155.908 26.4781L167.629 26.4463C168.691 26.4463 169.67 25.8912 170.198 24.9924L172.757 20.6518L149.997 7.93665V7.94193Z\" fill=\"#EF551F\"></path>\n        <path d=\"M15.1736 7.46072C13.5769 7.46072 12.1019 8.06872 11.0022 9.14197C10.9387 9.20013 10.8965 9.28472 10.8383 9.34288C9.75975 8.14802 8.1578 7.46072 6.18576 7.46072C4.58909 7.46072 3.00829 8.06872 1.9086 9.14197C0.703167 10.3368 0 11.9969 0 13.9214V21.6615H2.99243V13.7416C2.99243 12.5468 3.70088 10.2998 6.10645 10.2998C7.60267 10.2998 8.7658 10.9713 9.03544 12.7688V21.6827H12.2552V13.8844C12.2552 13.4984 12.2764 13.1336 12.2552 12.7477C12.3609 11.5105 13.3126 10.2945 15.1419 10.2945C16.9712 10.2945 18.3194 11.7749 18.3194 13.6782V21.6774H21.3488V13.8791C21.3277 9.97203 18.9591 7.45543 15.1842 7.45543\" fill=\"#EF551F\"></path>\n        <path d=\"M27.434 14.7198C27.434 17.1994 29.0994 19.2296 31.8328 19.2296C34.5661 19.2296 36.2738 17.1994 36.2738 14.7198C36.2738 12.2402 34.4604 10.1466 31.8328 10.1466C29.2051 10.1466 27.434 12.2613 27.434 14.7198ZM39.3191 14.7198C39.3191 18.8436 36.3796 21.9365 31.8539 21.9365C27.3283 21.9365 24.4521 18.8278 24.4521 14.7198C24.4521 10.6118 27.3917 7.46606 31.8539 7.46606C36.3161 7.46606 39.3191 10.6382 39.3191 14.7198Z\" fill=\"#EF551F\"></path>\n        <path d=\"M48.6241 7.46083C45.177 7.46083 41.9995 9.80825 41.9995 14.0167V21.6828H44.9496V13.7946C44.9496 12.198 46.007 9.48574 49.6445 10.0937C51.3046 10.3792 52.5312 11.775 52.5312 13.4087V21.6405H55.4813V13.9321C55.439 9.9087 52.6369 7.46083 48.6241 7.46083Z\" fill=\"#EF551F\"></path>\n        <path d=\"M70.2481 13.3399C70.0842 11.1511 68.4241 10.0144 66.0344 10.0144C63.8773 10.0144 62.0903 11.1669 61.6145 13.3399H70.2481ZM61.5722 15.7719C61.8419 17.8603 63.6289 19.2402 66.2195 19.2402C67.6522 19.2402 69.4762 18.7115 70.3486 17.7598L72.2783 19.5838C70.8033 21.1435 68.3554 21.9365 66.1772 21.9365C61.5088 21.9365 58.5005 19.0604 58.5005 14.6405C58.5005 10.2206 61.5299 7.46606 65.971 7.46606C70.412 7.46606 73.6688 10.1836 73.1295 15.7983L61.5722 15.7772V15.7719Z\" fill=\"#EF551F\"></path>\n        <path d=\"M85.7122 8.11633L82.7462 14.9312L81.1548 18.9546L79.6691 14.8731L77.0997 8.11633H73.4517L79.4154 22.2431L76.3383 29.1003H79.7749L89.1963 8.11633H85.7122Z\" fill=\"#EF551F\"></path>\n        <path d=\"M95.4617 1.55522V9.85577C96.7094 8.09521 98.3854 7.50835 100.082 7.50835C104.09 7.50835 105.951 10.2311 105.951 14.3814V22.1956H102.964V14.4026C102.964 11.6798 101.573 10.3157 99.3846 10.3157C97.0742 10.3157 95.4564 12.2613 95.4564 14.6299V22.1744H92.4692V1.55522H95.4564H95.4617Z\" fill=\"#EF551F\"></path>\n        <path d=\"M116.054 22.4547C119.433 22.4547 122.584 19.9752 122.584 15.6187V7.64594H119.697V15.698C119.697 17.1889 118.835 19.6315 116.075 19.6315C113.966 19.6315 112.248 17.8657 112.248 15.698V7.64594H109.361V15.6821C109.34 19.8694 112.126 22.4547 116.054 22.4547Z\" fill=\"#EF551F\"></path>\n        <path d=\"M133.581 19.7477C131.048 19.7477 128.849 17.8338 128.849 15.0582C128.849 12.4728 130.747 10.3686 133.581 10.3686C136.414 10.3686 138.027 12.4728 138.027 15.0582C138.006 17.9184 136.087 19.7477 133.581 19.7477ZM128.891 1.55522H125.909V14.889C125.909 19.4093 129.399 22.5445 133.581 22.5445C137.763 22.5445 141.009 19.7054 141.009 15.0582C141.009 10.707 138.069 7.5718 133.565 7.5718C130.34 7.5718 128.912 9.8029 128.891 9.82405\" fill=\"#EF551F\"></path>\n    </svg>"
+  },
+  "stats": {
+    "wordCount": 4176,
+    "ctaCount": 20,
+    "internalLinkCount": 41,
+    "externalLinkCount": 32,
+    "imageCount": 4
+  },
+  "screenshot": "stardust/current/assets/screenshots/policies-privacy-policy.png"
+}

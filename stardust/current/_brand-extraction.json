@@ -1,0 +1,82 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:extract",
+    "writtenAt": "2026-06-27T00:00:00Z",
+    "readArtifacts": ["20 pages under stardust/current/pages/*.json"],
+    "synthesizedInputs": [],
+    "stardustVersion": "0.13.0",
+    "aggregationScope": "all 20 extracted pages (cross-page), home-only for logo/voice/heroImage",
+    "notes": "Consent-banner CTAs (Accept All, Customise, Necessary…) were filtered from CTA aggregation. Brand surface aggregated across all extracted pages to avoid home-page bias."
+  },
+  "site": {
+    "name": "Moneyhub",
+    "origin": "https://moneyhub.com",
+    "register": "brand",
+    "registerBasis": "Marketing/landing site for a B2B open-finance data platform; sells solutions/products to financial institutions.",
+    "tagline": "Build for real life",
+    "positioning": "We collect, enrich and contextualise customer data so that financial institutions can drive better customer outcomes."
+  },
+  "logo": {
+    "type": "inline-svg",
+    "localPath": "stardust/current/assets/logo.svg",
+    "intrinsic": { "width": 177, "height": 30 },
+    "description": "Moneyhub wordmark, lowercase, with an orange angular 'M'/hub glyph accent (#EF5520).",
+    "synthesized": false,
+    "source": "header inline <svg> (logo locator chain step 1)"
+  },
+  "palette": [
+    { "role": "primary", "name": "Moneyhub Orange", "hex": "#EF5520", "rgb": "rgb(239, 85, 32)", "usage": "accent text highlight, primary buttons, section headings, geometric motif, link accents", "freq": 23 },
+    { "role": "ink", "name": "Slate Ink", "hex": "#293338", "rgb": "rgb(41, 51, 56)", "usage": "headings, dark color-block section backgrounds, footer", "freq": 300 },
+    { "role": "text", "name": "Near Black", "hex": "#212121", "rgb": "rgb(33, 33, 33)", "usage": "body copy", "freq": 80 },
+    { "role": "background", "name": "White", "hex": "#FFFFFF", "rgb": "rgb(255, 255, 255)", "usage": "primary page background, cards, text on dark blocks", "freq": 176 },
+    { "role": "surface", "name": "Mid Grey", "hex": "#666666", "rgb": "rgb(102, 102, 102)", "usage": "muted band backgrounds, secondary text", "freq": 20 },
+    { "role": "border", "name": "Black", "hex": "#000000", "rgb": "rgb(0, 0, 0)", "usage": "occasional borders / icons", "freq": 20 }
+  ],
+  "type": {
+    "heading": { "family": "Raleway", "weights": [700, 800], "scale": ["64px", "48px", "32px", "24px"], "source": "Google Fonts" },
+    "body": { "family": "Lato", "weights": [400, 700], "sizes": ["18px", "16px"], "source": "Google Fonts" },
+    "scaleAudit": { "kind": "modular", "ratioApprox": 1.33, "note": "h1 64 / h2 48 / h3 32 — clean descending scale" },
+    "files": [
+      { "url": "fonts.gstatic.com (Raleway)", "family": "Raleway", "localPaths": ["assets/fonts/1Ptsg8zYS_SKggPNyCg4TYFqL_KWxQ.woff2", "assets/fonts/1Ptug8zYS_SKggPNyC0IT4ttDfA.woff2"], "licensingFlag": "open (Google Fonts / OFL)" },
+      { "url": "fonts.gstatic.com (Lato)", "family": "Lato", "localPaths": ["assets/fonts/S6u8w4BMUTPHjxsAXC-qNiXg7Q.woff2", "assets/fonts/S6u9w4BMUTPHh6UVSwiPGQ3q5d0.woff2", "assets/fonts/S6u9w4BMUTPHh7USSwiPGQ3q5d0.woff2", "assets/fonts/S6u_w4BMUTPHjxsI5wq_Gwftx9897g.woff2", "assets/fonts/S6uyw4BMUTPHjx4wXiWtFCc.woff2", "assets/fonts/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2"], "licensingFlag": "open (Google Fonts / OFL)" }
+    ]
+  },
+  "motifs": {
+    "borderRadius": { "dominant": "0px", "note": "Sharp, square-cornered design. Buttons ~2px; occasional 100% (circular avatars) and 20px (rare). The square edge is a deliberate corporate-fintech signature." },
+    "shadows": { "stack": [], "note": "Near-flat; minimal/absent drop shadows. Depth comes from color-block contrast, not elevation." },
+    "gradients": [],
+    "patterns": ["confetti-geometric (floating orange triangles + grey rounded blobs around heroes)", "alternating full-bleed color-block sections (white / slate / orange)", "customer-logo trust strip", "bordered card grids", "split image+text rows", "eyebrow + heading + CTA blocks"]
+  },
+  "voice": {
+    "heroHeadline": "Build for real life",
+    "leadParagraph": "We collect, enrich, and contextualise the data fragments. Enabling you to deliver intelligent personalised financial journeys and drive better customer outcomes.",
+    "ctaSamples": ["Get started", "Explore", "Learn more", "Read case study", "All case studies", "Contact"],
+    "tone": "Confident, plain-spoken, outcome-oriented B2B. Short imperative headlines; benefit-led body copy aimed at product/CX leaders at banks, lenders, pension and wealth providers.",
+    "heroImage": "https://moneyhub.com/wp-content/uploads/2025/09/moneyhub-logo.png (og:image is the logo; the live hero is a white canvas with geometric confetti, not a photo)"
+  },
+  "systemComponents": {
+    "header": {
+      "description": "Sticky top nav. White on load; an orange (#EF5520) condensed bar appears on scroll. Left: Moneyhub wordmark. Center/right: top-level nav. Right: CONTACT button.",
+      "nav": [
+        { "label": "Banking and Lending Solutions", "href": "/solutions/banking-and-lending-solutions/" },
+        { "label": "Pension and Wealth Solutions", "href": "/solutions/pension-and-wealth-solutions/" },
+        { "label": "Products", "href": "/products/" },
+        { "label": "Developers", "href": "/developers/" },
+        { "label": "Discover", "href": "/discover/" },
+        { "label": "About", "href": "/about/" },
+        { "label": "Contact", "href": "/contact/" }
+      ]
+    },
+    "footer": {
+      "description": "Dark slate (#293338) footer with link columns and office details.",
+      "office": "London Office: 70 Gracechurch Street, London, UK EC3V 0HR",
+      "social": [{ "label": "LinkedIn", "href": "https://www.linkedin.com/company/moneyhub-enterprise" }],
+      "columns": {
+        "Solutions": ["Banking and Lending Solutions", "Smart Segmentation", "Smart Lending", "Smart Money Actions", "Smart Payments", "Smart Product Match", "Transaction Categorisation and Enrichment", "Pension and Wealth Solutions", "Build and Retain", "In Retirement", "Pensions Dashboard", "Smart Fact Find", "Targeted Support", "Win Schemes"],
+        "Products": ["Payments", "Data Explorer", "Embedded Solutions and Portals", "Data Insights and Recommendations", "Data Aggregation", "Categorisation and Enrichment Engine"],
+        "Policies & Info": ["Global Privacy Policy", "ESG Report", "Modern Slavery Policy", "Security and Trust", "Global Terms of Use", "API Terms of Use", "Connections Status", "Press and partners", "Glossary"]
+      }
+    }
+  },
+  "trustedBy": ["Lloyds", "Scottish Widows", "Admiral Money", "Mercer", "Nationwide", "Standard Life", "Paragon", "L&G"]
+}

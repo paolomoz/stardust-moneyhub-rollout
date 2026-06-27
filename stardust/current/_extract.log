@@ -1,0 +1,24 @@
+consent: selector:[aria-label*="accept" i]
+OK  home                                             200  5958ms img/bg=31/1 big=28 h=27
+OK  about                                            200  5311ms img/bg=13/1 big=7 h=19
+OK  products                                         200  4080ms img/bg=9/1 big=6 h=14
+OK  products-data-explorer                           200  5150ms img/bg=8/1 big=5 h=16
+OK  solutions-pension-and-wealth                     200  5945ms img/bg=8/1 big=5 h=22
+OK  solutions-targeted-support                       200  4943ms img/bg=5/1 big=2 h=10
+OK  use-cases                                        200  4216ms img/bg=3/1 big=0 h=11
+OK  use-cases-increase-deposits-with-savings-goals   200  7134ms img/bg=10/1 big=3 h=28
+OK  case-studies                                     200  4990ms img/bg=13/1 big=10 h=17
+OK  case-studies-mercer-money                        200  4696ms img/bg=9/1 big=3 h=16
+OK  articles                                         200  4777ms img/bg=15/1 big=12 h=19
+OK  articles-democratising-financial-advice          200  5188ms img/bg=10/1 big=3 h=15
+OK  press-and-partners                               200  4389ms img/bg=3/1 big=0 h=11
+OK  press-releases-uk-demands-payment-methods        200  4772ms img/bg=9/1 big=3 h=11
+OK  webinars                                         200  3833ms img/bg=6/1 big=3 h=10
+OK  glossary                                         200  3798ms img/bg=3/1 big=0 h=6
+OK  glossary-consumer-duty                           200  7468ms img/bg=9/1 big=1 h=30
+OK  contact                                          200  4142ms img/bg=3/1 big=0 h=9
+OK  careers                                          200  6113ms img/bg=6/1 big=3 h=25
+OK  policies-privacy-policy                          200  8411ms img/bg=4/1 big=1 h=23
+
+Fonts saved: 8
+Pages OK: 20  FAIL: 0

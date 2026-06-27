@@ -1,0 +1,182 @@
+[
+  {
+    "slug": "home",
+    "url": "https://moneyhub.com/",
+    "type": "landing",
+    "status": "extracted",
+    "currentStatePath": "stardust/current/pages/home.json",
+    "bgCount": 1,
+    "bigImgs": 28
+  },
+  {
+    "slug": "about",
+    "url": "https://moneyhub.com/about/",
+    "type": "static",
+    "status": "extracted",
+    "currentStatePath": "stardust/current/pages/about.json",
+    "bgCount": 1,
+    "bigImgs": 7
+  },
+  {
+    "slug": "products",
+    "url": "https://moneyhub.com/products/",
+    "type": "listing",
+    "status": "extracted",
+    "currentStatePath": "stardust/current/pages/products.json",
+    "bgCount": 1,
+    "bigImgs": 6
+  },
+  {
+    "slug": "products-data-explorer",
+    "url": "https://moneyhub.com/products/data-explorer/",
+    "type": "program",
+    "status": "extracted",
+    "currentStatePath": "stardust/current/pages/products-data-explorer.json",
+    "bgCount": 1,
+    "bigImgs": 5
+  },
+  {
+    "slug": "solutions-pension-and-wealth",
+    "url": "https://moneyhub.com/solutions/pension-and-wealth-solutions/",
+    "type": "landing",
+    "status": "extracted",
+    "currentStatePath": "stardust/current/pages/solutions-pension-and-wealth.json",
+    "bgCount": 1,
+    "bigImgs": 5
+  },
+  {
+    "slug": "solutions-targeted-support",
+    "url": "https://moneyhub.com/solutions/pension-and-wealth-solutions/targeted-support/",
+    "type": "program",
+    "status": "extracted",
+    "currentStatePath": "stardust/current/pages/solutions-targeted-support.json",
+    "bgCount": 1,
+    "bigImgs": 2
+  },
+  {
+    "slug": "use-cases",
+    "url": "https://moneyhub.com/use-cases/",
+    "type": "listing",
+    "status": "extracted",
+    "currentStatePath": "stardust/current/pages/use-cases.json",
+    "bgCount": 1,
+    "bigImgs": 0
+  },
+  {
+    "slug": "use-cases-increase-deposits-with-savings-goals",
+    "url": "https://moneyhub.com/use-cases/increase-deposits-with-savings-goals/",
+    "type": "program",
+    "status": "extracted",
+    "currentStatePath": "stardust/current/pages/use-cases-increase-deposits-with-savings-goals.json",
+    "bgCount": 1,
+    "bigImgs": 3
+  },
+  {
+    "slug": "case-studies",
+    "url": "https://moneyhub.com/case-studies/",
+    "type": "listing",
+    "status": "extracted",
+    "currentStatePath": "stardust/current/pages/case-studies.json",
+    "bgCount": 1,
+    "bigImgs": 10
+  },
+  {
+    "slug": "case-studies-mercer-money",
+    "url": "https://moneyhub.com/case-studies/transforming-pensions-engagement-through-mercer-money/",
+    "type": "article",
+    "status": "extracted",
+    "currentStatePath": "stardust/current/pages/case-studies-mercer-money.json",
+    "bgCount": 1,
+    "bigImgs": 3
+  },
+  {
+    "slug": "articles",
+    "url": "https://moneyhub.com/articles/",
+    "type": "listing",
+    "status": "extracted",
+    "currentStatePath": "stardust/current/pages/articles.json",
+    "bgCount": 1,
+    "bigImgs": 12
+  },
+  {
+    "slug": "articles-democratising-financial-advice",
+    "url": "https://moneyhub.com/articles/how-technology-is-democratising-financial-advice/",
+    "type": "article",
+    "status": "extracted",
+    "currentStatePath": "stardust/current/pages/articles-democratising-financial-advice.json",
+    "bgCount": 1,
+    "bigImgs": 3
+  },
+  {
+    "slug": "press-and-partners",
+    "url": "https://moneyhub.com/press-and-partners/",
+    "type": "listing",
+    "status": "extracted",
+    "currentStatePath": "stardust/current/pages/press-and-partners.json",
+    "bgCount": 1,
+    "bigImgs": 0
+  },
+  {
+    "slug": "press-releases-uk-demands-payment-methods",
+    "url": "https://moneyhub.com/press-releases/uk-demands-more-innovative-payment-methods/",
+    "type": "article",
+    "status": "extracted",
+    "currentStatePath": "stardust/current/pages/press-releases-uk-demands-payment-methods.json",
+    "bgCount": 1,
+    "bigImgs": 3
+  },
+  {
+    "slug": "webinars",
+    "url": "https://moneyhub.com/webinars/",
+    "type": "listing",
+    "status": "extracted",
+    "currentStatePath": "stardust/current/pages/webinars.json",
+    "bgCount": 1,
+    "bigImgs": 3
+  },
+  {
+    "slug": "glossary",
+    "url": "https://moneyhub.com/glossary/",
+    "type": "listing",
+    "status": "extracted",
+    "currentStatePath": "stardust/current/pages/glossary.json",
+    "bgCount": 1,
+    "bigImgs": 0
+  },
+  {
+    "slug": "glossary-consumer-duty",
+    "url": "https://moneyhub.com/glossary/consumer-duty/",
+    "type": "article",
+    "status": "extracted",
+    "currentStatePath": "stardust/current/pages/glossary-consumer-duty.json",
+    "bgCount": 1,
+    "bigImgs": 1
+  },
+  {
+    "slug": "contact",
+    "url": "https://moneyhub.com/contact/",
+    "type": "form",
+    "status": "extracted",
+    "currentStatePath": "stardust/current/pages/contact.json",
+    "bgCount": 1,
+    "bigImgs": 0
+  },
+  {
+    "slug": "careers",
+    "url": "https://moneyhub.com/careers/",
+    "type": "static",
+    "status": "extracted",
+    "currentStatePath": "stardust/current/pages/careers.json",
+    "bgCount": 1,
+    "bigImgs": 3
+  },
+  {
+    "slug": "policies-privacy-policy",
+    "url": "https://moneyhub.com/policies/privacy-policy/",
+    "type": "static",
+    "status": "extracted",
+    "currentStatePath": "stardust/current/pages/policies-privacy-policy.json",
+    "bgCount": 1,
+    "bigImgs": 1
+  }
+]

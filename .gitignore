@@ -8,6 +8,11 @@ helix-importer-ui
 *.bak
 .idea
 
+# secrets and migration working dirs
+.env*
+qa/
+samples/
+
 # Ensure these files are tracked
 !CLAUDE.md
 !AGENTS.md
