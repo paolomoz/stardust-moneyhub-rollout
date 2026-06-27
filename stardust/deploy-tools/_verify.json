@@ -1,0 +1,1064 @@
+{
+  "ok": 100,
+  "total": 100,
+  "byTpl": {
+    "home": {
+      "total": 1,
+      "ok": 1
+    },
+    "form": {
+      "total": 2,
+      "ok": 2
+    },
+    "listing": {
+      "total": 8,
+      "ok": 8
+    },
+    "policy": {
+      "total": 6,
+      "ok": 6
+    },
+    "solution-overview": {
+      "total": 2,
+      "ok": 2
+    },
+    "static": {
+      "total": 3,
+      "ok": 3
+    },
+    "article": {
+      "total": 20,
+      "ok": 20
+    },
+    "case-study": {
+      "total": 10,
+      "ok": 10
+    },
+    "glossary-entry": {
+      "total": 4,
+      "ok": 4
+    },
+    "press-release": {
+      "total": 18,
+      "ok": 18
+    },
+    "product-detail": {
+      "total": 6,
+      "ok": 6
+    },
+    "solution-detail": {
+      "total": 12,
+      "ok": 12
+    },
+    "use-case-detail": {
+      "total": 5,
+      "ok": 5
+    },
+    "webinar": {
+      "total": 3,
+      "ok": 3
+    }
+  },
+  "results": [
+    {
+      "slug": "home",
+      "template": "home",
+      "path": "index",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 19,
+      "authored": true
+    },
+    {
+      "slug": "contact",
+      "template": "form",
+      "path": "contact",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 0,
+      "authored": true
+    },
+    {
+      "slug": "articles",
+      "template": "listing",
+      "path": "articles",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 0,
+      "authored": true
+    },
+    {
+      "slug": "press-and-partners",
+      "template": "listing",
+      "path": "press-and-partners",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 0,
+      "authored": true
+    },
+    {
+      "slug": "case-studies",
+      "template": "listing",
+      "path": "case-studies",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 0,
+      "authored": true
+    },
+    {
+      "slug": "webinars",
+      "template": "listing",
+      "path": "webinars",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 0,
+      "authored": true
+    },
+    {
+      "slug": "glossary",
+      "template": "listing",
+      "path": "glossary",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 0,
+      "authored": true
+    },
+    {
+      "slug": "use-cases",
+      "template": "listing",
+      "path": "use-cases",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 0,
+      "authored": true
+    },
+    {
+      "slug": "products",
+      "template": "listing",
+      "path": "products",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 0,
+      "authored": true
+    },
+    {
+      "slug": "policies-security-and-trust-at-moneyhub",
+      "template": "policy",
+      "path": "policies/security-and-trust-at-moneyhub",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 0,
+      "authored": true
+    },
+    {
+      "slug": "policies-environmental-social-and-governance-report",
+      "template": "policy",
+      "path": "policies/environmental-social-and-governance-report",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 0,
+      "authored": true
+    },
+    {
+      "slug": "policies-modern-slavery-and-human-trafficking-policy",
+      "template": "policy",
+      "path": "policies/modern-slavery-and-human-trafficking-policy",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 0,
+      "authored": true
+    },
+    {
+      "slug": "policies-api-terms-of-use",
+      "template": "policy",
+      "path": "policies/api-terms-of-use",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 0,
+      "authored": true
+    },
+    {
+      "slug": "policies-global-terms-of-use",
+      "template": "policy",
+      "path": "policies/global-terms-of-use",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 0,
+      "authored": true
+    },
+    {
+      "slug": "policies-privacy-policy",
+      "template": "policy",
+      "path": "policies/privacy-policy",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 0,
+      "authored": true
+    },
+    {
+      "slug": "solutions-banking-and-lending-solutions",
+      "template": "solution-overview",
+      "path": "solutions/banking-and-lending-solutions",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 1,
+      "authored": true
+    },
+    {
+      "slug": "solutions-pension-and-wealth-solutions",
+      "template": "solution-overview",
+      "path": "solutions/pension-and-wealth-solutions",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 1,
+      "authored": true
+    },
+    {
+      "slug": "about",
+      "template": "static",
+      "path": "about",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 1,
+      "authored": true
+    },
+    {
+      "slug": "careers",
+      "template": "static",
+      "path": "careers",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 3,
+      "authored": true
+    },
+    {
+      "slug": "status",
+      "template": "static",
+      "path": "status",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 0,
+      "authored": true
+    },
+    {
+      "slug": "press-releases",
+      "template": "listing",
+      "path": "press-releases",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 12,
+      "authored": true
+    },
+    {
+      "slug": "articles-drive-engagement-and-understanding-with-personalised-video",
+      "template": "article",
+      "path": "articles/drive-engagement-and-understanding-with-personalised-video",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 1,
+      "authored": true
+    },
+    {
+      "slug": "articles-talk-money-week-open-finance-features-to-help-your-customers-talkmoney",
+      "template": "article",
+      "path": "articles/talk-money-week-open-finance-features-to-help-your-customers-talkmoney",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 0,
+      "authored": true
+    },
+    {
+      "slug": "articles-how-technology-is-democratising-financial-advice",
+      "template": "article",
+      "path": "articles/how-technology-is-democratising-financial-advice",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 1,
+      "authored": true
+    },
+    {
+      "slug": "articles-really-know-your-customer-can-they-afford-it-and-are-you-able-to-help-them-pay",
+      "template": "article",
+      "path": "articles/really-know-your-customer-can-they-afford-it-and-are-you-able-to-help-them-pay",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 1,
+      "authored": true
+    },
+    {
+      "slug": "articles-pensions-blue-monday",
+      "template": "article",
+      "path": "articles/pensions-blue-monday",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 3,
+      "authored": true
+    },
+    {
+      "slug": "articles-moneyhub-underpins-nationwide",
+      "template": "article",
+      "path": "articles/moneyhub-underpins-nationwide",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 2,
+      "authored": true
+    },
+    {
+      "slug": "articles-open-banking-expo-2025",
+      "template": "article",
+      "path": "articles/open-banking-expo-2025",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 2,
+      "authored": true
+    },
+    {
+      "slug": "articles-risky-business-targeted-support",
+      "template": "article",
+      "path": "articles/risky-business-targeted-support",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 1,
+      "authored": true
+    },
+    {
+      "slug": "articles-regulatory-leadership-the-path-to-accelerating-commercial-pensions-dashboards",
+      "template": "article",
+      "path": "articles/regulatory-leadership-the-path-to-accelerating-commercial-pensions-dashboards",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 1,
+      "authored": true
+    },
+    {
+      "slug": "articles-evolution-or-revolution-advice-guidance-boundary-review-targeted-support-for-pensions",
+      "template": "article",
+      "path": "articles/evolution-or-revolution-advice-guidance-boundary-review-targeted-support-for-pensions",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 1,
+      "authored": true
+    },
+    {
+      "slug": "articles-ministerial-statement-paving-the-way-for-commercial-pensions-dashboards",
+      "template": "article",
+      "path": "articles/ministerial-statement-paving-the-way-for-commercial-pensions-dashboards",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 1,
+      "authored": true
+    },
+    {
+      "slug": "articles-price-and-value-in-the-era-of-consumer-duty",
+      "template": "article",
+      "path": "articles/price-and-value-in-the-era-of-consumer-duty",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 1,
+      "authored": true
+    },
+    {
+      "slug": "articles-activating-29-million-current-account-coasters-key-learnings-from-our-webinar-with-paragon-bank",
+      "template": "article",
+      "path": "articles/activating-29-million-current-account-coasters-key-learnings-from-our-webinar-with-paragon-bank",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 1,
+      "authored": true
+    },
+    {
+      "slug": "articles-protecting-the-backbook-why-data-not-just-rates-will-win-the-2026-remortgage-race",
+      "template": "article",
+      "path": "articles/protecting-the-backbook-why-data-not-just-rates-will-win-the-2026-remortgage-race",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 1,
+      "authored": true
+    },
+    {
+      "slug": "articles-pensions-faster-journeys",
+      "template": "article",
+      "path": "articles/pensions-faster-journeys",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 3,
+      "authored": true
+    },
+    {
+      "slug": "articles-false-positives-bad-for-banks",
+      "template": "article",
+      "path": "articles/false-positives-bad-for-banks",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 3,
+      "authored": true
+    },
+    {
+      "slug": "articles-reasons-for-false-positives-banks",
+      "template": "article",
+      "path": "articles/reasons-for-false-positives-banks",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 3,
+      "authored": true
+    },
+    {
+      "slug": "articles-is-your-banking-app-speaking-in-code-the-multi-million-pound-cost-of-transaction-confusion",
+      "template": "article",
+      "path": "articles/is-your-banking-app-speaking-in-code-the-multi-million-pound-cost-of-transaction-confusion",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 1,
+      "authored": true
+    },
+    {
+      "slug": "articles-rental-rewards",
+      "template": "article",
+      "path": "articles/rental-rewards",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 1,
+      "authored": true
+    },
+    {
+      "slug": "articles-batch-processing-payment-fraud",
+      "template": "article",
+      "path": "articles/batch-processing-payment-fraud",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 2,
+      "authored": true
+    },
+    {
+      "slug": "case-studies-bridging-the-advice-gap-with-wps-advisory",
+      "template": "case-study",
+      "path": "case-studies/bridging-the-advice-gap-with-wps-advisory",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 0,
+      "authored": true
+    },
+    {
+      "slug": "case-studies-transforming-pensions-engagement-through-mercer-money",
+      "template": "case-study",
+      "path": "case-studies/transforming-pensions-engagement-through-mercer-money",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 0,
+      "authored": true
+    },
+    {
+      "slug": "case-studies-improving-pension-engagement-and-financial-wellbeing-with-scottish-widows",
+      "template": "case-study",
+      "path": "case-studies/improving-pension-engagement-and-financial-wellbeing-with-scottish-widows",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 1,
+      "authored": true
+    },
+    {
+      "slug": "case-studies-the-well-one-money-financial-wellbeing-proposition",
+      "template": "case-study",
+      "path": "case-studies/the-well-one-money-financial-wellbeing-proposition",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 3,
+      "authored": true
+    },
+    {
+      "slug": "case-studies-increasing-credit-scores-and-financial-inclusivity-with-loqbox",
+      "template": "case-study",
+      "path": "case-studies/increasing-credit-scores-and-financial-inclusivity-with-loqbox",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 1,
+      "authored": true
+    },
+    {
+      "slug": "case-studies-refining-loan-approvals-and-reducing-risk-with-admiral-money-personal-loans",
+      "template": "case-study",
+      "path": "case-studies/refining-loan-approvals-and-reducing-risk-with-admiral-money-personal-loans",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 0,
+      "authored": true
+    },
+    {
+      "slug": "case-studies-financial-inclusion-simplifying-access-to-voxis-discounted-phone-tariff-with-open-banking-powered-eligibility-checking",
+      "template": "case-study",
+      "path": "case-studies/financial-inclusion-simplifying-access-to-voxis-discounted-phone-tariff-with-open-banking-powered-eligibility-checking",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 0,
+      "authored": true
+    },
+    {
+      "slug": "case-studies-nationwide-deploys-real-time-savings-account-funding-through-open-banking-payments",
+      "template": "case-study",
+      "path": "case-studies/nationwide-deploys-real-time-savings-account-funding-through-open-banking-payments",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 0,
+      "authored": true
+    },
+    {
+      "slug": "case-studies-building-the-uks-most-engaging-pensions-app-for-standard-life",
+      "template": "case-study",
+      "path": "case-studies/building-the-uks-most-engaging-pensions-app-for-standard-life",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 0,
+      "authored": true
+    },
+    {
+      "slug": "case-studies-how-spring-app-transformed-digital-savings-with-moneyhub",
+      "template": "case-study",
+      "path": "case-studies/how-spring-app-transformed-digital-savings-with-moneyhub",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 0,
+      "authored": true
+    },
+    {
+      "slug": "demo-request-form",
+      "template": "form",
+      "path": "demo-request-form",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 0,
+      "authored": true
+    },
+    {
+      "slug": "glossary-agentic-ai-financial-services",
+      "template": "glossary-entry",
+      "path": "glossary/agentic-ai-financial-services",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 1,
+      "authored": true
+    },
+    {
+      "slug": "glossary-consumer-duty",
+      "template": "glossary-entry",
+      "path": "glossary/consumer-duty",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 3,
+      "authored": true
+    },
+    {
+      "slug": "glossary-nudges-in-financial-services",
+      "template": "glossary-entry",
+      "path": "glossary/nudges-in-financial-services",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 1,
+      "authored": true
+    },
+    {
+      "slug": "glossary-merchant-identification",
+      "template": "glossary-entry",
+      "path": "glossary/merchant-identification",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 5,
+      "authored": true
+    },
+    {
+      "slug": "press-releases-moneyhub-appoints-alastair-mcgill-as-ceo-signaling-a-bold-new-era-of-growth-and-innovation",
+      "template": "press-release",
+      "path": "press-releases/moneyhub-appoints-alastair-mcgill-as-ceo-signaling-a-bold-new-era-of-growth-and-innovation",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 0,
+      "authored": true
+    },
+    {
+      "slug": "press-releases-uk-demands-more-innovative-payment-methods",
+      "template": "press-release",
+      "path": "press-releases/uk-demands-more-innovative-payment-methods",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 0,
+      "authored": true
+    },
+    {
+      "slug": "press-releases-lloyds-banking-group-selects-moneyhub-as-their-data-enrichment-and-categorisation-partner",
+      "template": "press-release",
+      "path": "press-releases/lloyds-banking-group-selects-moneyhub-as-their-data-enrichment-and-categorisation-partner",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 0,
+      "authored": true
+    },
+    {
+      "slug": "press-releases-one-size-fits-all-finance-is-over-moneyhub-enables-financial-institutions-to-get-personal",
+      "template": "press-release",
+      "path": "press-releases/one-size-fits-all-finance-is-over-moneyhub-enables-financial-institutions-to-get-personal",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 0,
+      "authored": true
+    },
+    {
+      "slug": "press-releases-continuing-service-of-the-moneyhub-app",
+      "template": "press-release",
+      "path": "press-releases/continuing-service-of-the-moneyhub-app",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 0,
+      "authored": true
+    },
+    {
+      "slug": "press-releases-wps-advisory-partners-with-moneyhub-to-launch-financial-confidence-app-lifestage",
+      "template": "press-release",
+      "path": "press-releases/wps-advisory-partners-with-moneyhub-to-launch-financial-confidence-app-lifestage",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 0,
+      "authored": true
+    },
+    {
+      "slug": "press-releases-moneyhub-partners-with-the-tax-guys-to-help-landlords-and-sole-traders-navigate-making-tax-digital",
+      "template": "press-release",
+      "path": "press-releases/moneyhub-partners-with-the-tax-guys-to-help-landlords-and-sole-traders-navigate-making-tax-digital",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 0,
+      "authored": true
+    },
+    {
+      "slug": "press-releases-nationwide-building-society-selects-moneyhub-as-its-data-enrichment-and-categorisation-partner",
+      "template": "press-release",
+      "path": "press-releases/nationwide-building-society-selects-moneyhub-as-its-data-enrichment-and-categorisation-partner",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 0,
+      "authored": true
+    },
+    {
+      "slug": "press-releases-stratiphy-selects-moneyhub-to-unlock-seamless-funding-of-personalised-investment-strategies",
+      "template": "press-release",
+      "path": "press-releases/stratiphy-selects-moneyhub-to-unlock-seamless-funding-of-personalised-investment-strategies",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 0,
+      "authored": true
+    },
+    {
+      "slug": "press-releases-paragon-bank-launches-spring-a-pioneering-savings-app-powered-by-moneyhub",
+      "template": "press-release",
+      "path": "press-releases/paragon-bank-launches-spring-a-pioneering-savings-app-powered-by-moneyhub",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 0,
+      "authored": true
+    },
+    {
+      "slug": "press-releases-expenseondemand-chooses-moneyhub-to-power-cutting-edge-expense-management-solution",
+      "template": "press-release",
+      "path": "press-releases/expenseondemand-chooses-moneyhub-to-power-cutting-edge-expense-management-solution",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 0,
+      "authored": true
+    },
+    {
+      "slug": "press-releases-wps-advisory-enhances-financial-advice-journey-with-moneyhub-platform-upgrade",
+      "template": "press-release",
+      "path": "press-releases/wps-advisory-enhances-financial-advice-journey-with-moneyhub-platform-upgrade",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 0,
+      "authored": true
+    },
+    {
+      "slug": "press-releases-moneyhub-extends-its-partnership-with-experian-to-help-people-pay-debt-faster",
+      "template": "press-release",
+      "path": "press-releases/moneyhub-extends-its-partnership-with-experian-to-help-people-pay-debt-faster",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 0,
+      "authored": true
+    },
+    {
+      "slug": "press-releases-moneyhub-appoints-anne-de-kerckhove-as-chair-of-the-board",
+      "template": "press-release",
+      "path": "press-releases/moneyhub-appoints-anne-de-kerckhove-as-chair-of-the-board",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 0,
+      "authored": true
+    },
+    {
+      "slug": "press-releases-moneyhub-to-provide-open-banking-solutions-to-uk-government",
+      "template": "press-release",
+      "path": "press-releases/moneyhub-to-provide-open-banking-solutions-to-uk-government",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 0,
+      "authored": true
+    },
+    {
+      "slug": "press-releases-latest-moneyhub-release-puts-an-end-to-unrecognised-transaction-panic",
+      "template": "press-release",
+      "path": "press-releases/latest-moneyhub-release-puts-an-end-to-unrecognised-transaction-panic",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 0,
+      "authored": true
+    },
+    {
+      "slug": "press-releases-moneyhub-and-brick-rewards-turn-rent-into-rewards-for-uk-tenants",
+      "template": "press-release",
+      "path": "press-releases/moneyhub-and-brick-rewards-turn-rent-into-rewards-for-uk-tenants",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 0,
+      "authored": true
+    },
+    {
+      "slug": "press-releases-moneyhub-becomes-first-participant-in-the-uk-payments-initiative",
+      "template": "press-release",
+      "path": "press-releases/moneyhub-becomes-first-participant-in-the-uk-payments-initiative",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 0,
+      "authored": true
+    },
+    {
+      "slug": "products-data-explorer",
+      "template": "product-detail",
+      "path": "products/data-explorer",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 4,
+      "authored": true
+    },
+    {
+      "slug": "products-data-insights-recommendations",
+      "template": "product-detail",
+      "path": "products/data-insights-recommendations",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 4,
+      "authored": true
+    },
+    {
+      "slug": "products-data-aggregation",
+      "template": "product-detail",
+      "path": "products/data-aggregation",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 4,
+      "authored": true
+    },
+    {
+      "slug": "products-payments",
+      "template": "product-detail",
+      "path": "products/payments",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 5,
+      "authored": true
+    },
+    {
+      "slug": "products-embedded-solutions-portals",
+      "template": "product-detail",
+      "path": "products/embedded-solutions-portals",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 5,
+      "authored": true
+    },
+    {
+      "slug": "products-categorisation-enrichment-engine",
+      "template": "product-detail",
+      "path": "products/categorisation-enrichment-engine",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 5,
+      "authored": true
+    },
+    {
+      "slug": "solutions-pension-and-wealth-solutions-targeted-support",
+      "template": "solution-detail",
+      "path": "solutions/pension-and-wealth-solutions/targeted-support",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 1,
+      "authored": true
+    },
+    {
+      "slug": "solutions-pension-and-wealth-solutions-win-schemes",
+      "template": "solution-detail",
+      "path": "solutions/pension-and-wealth-solutions/win-schemes",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 0,
+      "authored": true
+    },
+    {
+      "slug": "solutions-pension-and-wealth-solutions-in-retirement",
+      "template": "solution-detail",
+      "path": "solutions/pension-and-wealth-solutions/in-retirement",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 1,
+      "authored": true
+    },
+    {
+      "slug": "solutions-pension-and-wealth-solutions-smart-fact-find",
+      "template": "solution-detail",
+      "path": "solutions/pension-and-wealth-solutions/smart-fact-find",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 1,
+      "authored": true
+    },
+    {
+      "slug": "solutions-pension-and-wealth-solutions-pensions-dashboards",
+      "template": "solution-detail",
+      "path": "solutions/pension-and-wealth-solutions/pensions-dashboards",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 1,
+      "authored": true
+    },
+    {
+      "slug": "solutions-banking-and-lending-solutions-smart-segmentation",
+      "template": "solution-detail",
+      "path": "solutions/banking-and-lending-solutions/smart-segmentation",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 1,
+      "authored": true
+    },
+    {
+      "slug": "solutions-banking-and-lending-solutions-smart-product-match",
+      "template": "solution-detail",
+      "path": "solutions/banking-and-lending-solutions/smart-product-match",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 2,
+      "authored": true
+    },
+    {
+      "slug": "solutions-banking-and-lending-solutions-smart-lending",
+      "template": "solution-detail",
+      "path": "solutions/banking-and-lending-solutions/smart-lending",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 3,
+      "authored": true
+    },
+    {
+      "slug": "solutions-banking-and-lending-solutions-smart-payments",
+      "template": "solution-detail",
+      "path": "solutions/banking-and-lending-solutions/smart-payments",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 2,
+      "authored": true
+    },
+    {
+      "slug": "solutions-pension-and-wealth-solutions-build-and-retain",
+      "template": "solution-detail",
+      "path": "solutions/pension-and-wealth-solutions/build-and-retain",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 1,
+      "authored": true
+    },
+    {
+      "slug": "solutions-banking-and-lending-solutions-smart-money-actions",
+      "template": "solution-detail",
+      "path": "solutions/banking-and-lending-solutions/smart-money-actions",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 2,
+      "authored": true
+    },
+    {
+      "slug": "solutions-banking-and-lending-solutions-transaction-categorisation-enrichment",
+      "template": "solution-detail",
+      "path": "solutions/banking-and-lending-solutions/transaction-categorisation-enrichment",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 2,
+      "authored": true
+    },
+    {
+      "slug": "use-cases-increase-deposits-with-savings-goals",
+      "template": "use-case-detail",
+      "path": "use-cases/increase-deposits-with-savings-goals",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 4,
+      "authored": true
+    },
+    {
+      "slug": "use-cases-cross-sell-upsell-banking",
+      "template": "use-case-detail",
+      "path": "use-cases/cross-sell-upsell-banking",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 3,
+      "authored": true
+    },
+    {
+      "slug": "use-cases-transaction-analysis-product-marketing",
+      "template": "use-case-detail",
+      "path": "use-cases/transaction-analysis-product-marketing",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 2,
+      "authored": true
+    },
+    {
+      "slug": "use-cases-identify-fraud-real-time-banking-app",
+      "template": "use-case-detail",
+      "path": "use-cases/identify-fraud-real-time-banking-app",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 4,
+      "authored": true
+    },
+    {
+      "slug": "use-cases-customers-recognise-spending-banking-app",
+      "template": "use-case-detail",
+      "path": "use-cases/customers-recognise-spending-banking-app",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 4,
+      "authored": true
+    },
+    {
+      "slug": "webinar-open-is-2025-the-year-ai-transforms-pensions",
+      "template": "webinar",
+      "path": "webinar-open/is-2025-the-year-ai-transforms-pensions",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 0,
+      "authored": true
+    },
+    {
+      "slug": "webinars-is-2025-the-year-ai-transforms-the-pension-industry",
+      "template": "webinar",
+      "path": "webinars/is-2025-the-year-ai-transforms-the-pension-industry",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 0,
+      "authored": true
+    },
+    {
+      "slug": "webinars-the-ctos-roadmap-to-ai-personalisation-in-financial-services-governance-latency-and-stack-modernisation",
+      "template": "webinar",
+      "path": "webinars/the-ctos-roadmap-to-ai-personalisation-in-financial-services-governance-latency-and-stack-modernisation",
+      "code": 200,
+      "h1": 1,
+      "err": 0,
+      "img": 0,
+      "authored": true
+    }
+  ]
+}
