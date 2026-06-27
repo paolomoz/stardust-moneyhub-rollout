@@ -1,0 +1,105 @@
+<style>
+header.header{
+  position:sticky;
+  top:0;
+  z-index:100;
+  background:rgba(255,255,255,.96);
+  backdrop-filter:saturate(1.2) blur(6px);
+  border-bottom:1px solid var(--mh-border,#E2E6E8);
+  min-height:72px;
+}
+header.header .mh-hd{
+  max-width:var(--mh-maxw,1200px);
+  margin-inline:auto;
+  padding:0 var(--mh-gut,24px);
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:1.5rem;
+  min-height:72px;
+}
+header.header .mh-brand{
+  display:flex;
+  align-items:center;
+  font-family:var(--mh-font-head,"Raleway",sans-serif);
+  font-weight:800;
+  font-size:1.4rem;
+  color:var(--mh-ink,#293338);
+  letter-spacing:-.02em;
+  text-decoration:none;
+}
+header.header .mh-brand .dot{ color:var(--mh-orange,#EF5520); }
+header.header .mh-nav{
+  display:flex;
+  align-items:center;
+  gap:clamp(1rem,2vw,1.75rem);
+}
+header.header .mh-nav a{
+  font-family:var(--mh-font-head,"Raleway",sans-serif);
+  font-weight:600;
+  font-size:.95rem;
+  color:var(--mh-ink,#293338);
+  text-decoration:none;
+}
+header.header .mh-nav a:hover{ color:var(--mh-orange-deep,#C8430F); }
+header.header .mh-nav a.mh-contact{
+  background:var(--mh-orange,#EF5520);
+  color:#fff;
+  padding:10px 20px;
+  border-radius:var(--mh-radius,4px);
+}
+header.header .mh-nav a.mh-contact:hover{ background:var(--mh-orange-deep,#C8430F); }
+header.header .mh-burger{
+  display:none;
+  background:none;
+  border:0;
+  font-size:1.5rem;
+  color:var(--mh-ink,#293338);
+  line-height:1;
+}
+@media (max-width:860px){
+  header.header .mh-burger{ display:block; }
+  header.header .mh-nav{
+  display:none;
+  position:absolute;
+  top:72px;
+  left:0;
+  right:0;
+  flex-direction:column;
+  align-items:stretch;
+  gap:0;
+  background:#fff;
+  border-bottom:1px solid var(--mh-border,#E2E6E8);
+  padding:.25rem var(--mh-gut,24px);
+}
+  header.header .mh-nav.open{ display:flex; }
+  header.header .mh-nav a{
+  padding:.85rem 0;
+  border-bottom:1px solid var(--mh-border,#E2E6E8);
+}
+  header.header .mh-nav a.mh-contact{
+  text-align:center;
+  margin:.6rem 0;
+  border-bottom:0;
+}
+}
+</style>
+<div class="mh-hd">
+  <a class="mh-brand" href="/" aria-label="Moneyhub home">moneyhub<span class="dot">.</span></a>
+  <button class="mh-burger" aria-expanded="false" aria-controls="mh-nav" aria-label="Toggle navigation">☰</button>
+  <nav class="mh-nav" id="mh-nav" aria-label="Primary">
+    <a href="/solutions/banking-and-lending-solutions/">Banking &amp; Lending</a>
+    <a href="/solutions/pension-and-wealth-solutions/">Pension &amp; Wealth</a>
+    <a href="/products/">Products</a>
+    <a href="/use-cases/">Use cases</a>
+    <a href="/case-studies/">Case studies</a>
+    <a href="/about/">About</a>
+    <a class="mh-contact" href="/contact/">Contact</a>
+  </nav>
+</div>
+<script>
+(function(){var b=document.querySelector('header .mh-burger'),n=document.getElementById('mh-nav');if(b&&n){b.addEventListener('click',function(){
+  var o=n.classList.toggle('open');
+  b.setAttribute('aria-expanded',o?'true':'false');
+});}})();
+</script>

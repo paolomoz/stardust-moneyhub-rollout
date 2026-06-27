@@ -1,0 +1,106 @@
+<style>
+footer.footer{
+  background:var(--mh-slate-deep,#1C2429);
+  color:#aeb7bc;
+  margin-top:0;
+}
+footer.footer .mh-ft{
+  max-width:var(--mh-maxw,1200px);
+  margin-inline:auto;
+  padding:clamp(48px,7vw,72px) var(--mh-gut,24px) 2rem;
+}
+footer.footer .mh-ft-grid{
+  display:grid;
+  grid-template-columns:1.4fr 1fr 1fr 1fr;
+  gap:2rem;
+}
+footer.footer h4{
+  font-family:var(--mh-font-head,"Raleway",sans-serif);
+  color:#fff;
+  font-size:.9rem;
+  text-transform:uppercase;
+  letter-spacing:.06em;
+  margin:0 0 1rem;
+}
+footer.footer ul{
+  list-style:none;
+  margin:0;
+  padding:0;
+  display:flex;
+  flex-direction:column;
+  gap:.5rem;
+}
+footer.footer a{
+  color:#aeb7bc;
+  font-size:.9rem;
+  text-decoration:none;
+}
+footer.footer a:hover{ color:#fff; }
+footer.footer .mh-ft-brand .mh-brand{
+  font-family:var(--mh-font-head,"Raleway",sans-serif);
+  font-weight:800;
+  font-size:1.4rem;
+  color:#fff;
+  letter-spacing:-.02em;
+  text-decoration:none;
+}
+footer.footer .mh-ft-brand .dot{ color:var(--mh-orange,#EF5520); }
+footer.footer .mh-ft-brand p{
+  color:#8b969c;
+  font-size:.9rem;
+  margin:1rem 0 0;
+}
+footer.footer .mh-ft-bottom{
+  border-top:1px solid rgba(255,255,255,.12);
+  margin-top:2.5rem;
+  padding-top:1.5rem;
+  display:flex;
+  justify-content:space-between;
+  gap:1rem;
+  flex-wrap:wrap;
+  font-size:.85rem;
+  color:#8b969c;
+}
+@media (max-width:900px){footer.footer .mh-ft-grid{ grid-template-columns:1fr 1fr; }}
+@media (max-width:560px){footer.footer .mh-ft-grid{ grid-template-columns:1fr; }}
+</style>
+<div class="mh-ft">
+  <div class="mh-ft-grid">
+    <div class="mh-ft-brand">
+      <a class="mh-brand" href="/">moneyhub<span class="dot">.</span></a>
+      <p>London Office: 70 Gracechurch Street, London, UK EC3V 0HR</p>
+      <p><a href="https://www.linkedin.com/company/moneyhub-enterprise">LinkedIn</a></p>
+    </div>
+    <div>
+      <h4>Solutions</h4>
+      <ul>
+        <li><a href="/solutions/banking-and-lending-solutions/">Banking &amp; Lending</a></li>
+        <li><a href="/solutions/pension-and-wealth-solutions/">Pension &amp; Wealth</a></li>
+        <li><a href="/solutions/pension-and-wealth-solutions/targeted-support/">Targeted Support</a></li>
+        <li><a href="/solutions/banking-and-lending-solutions/smart-payments/">Smart Payments</a></li>
+      </ul>
+    </div>
+    <div>
+      <h4>Products</h4>
+      <ul>
+        <li><a href="/products/data-explorer/">Data Explorer</a></li>
+        <li><a href="/products/data-aggregation/">Data Aggregation</a></li>
+        <li><a href="/products/payments/">Payments</a></li>
+        <li><a href="/products/categorisation-enrichment-engine/">Categorisation &amp; Enrichment</a></li>
+      </ul>
+    </div>
+    <div>
+      <h4>Policies &amp; Info</h4>
+      <ul>
+        <li><a href="/policies/privacy-policy/">Privacy Policy</a></li>
+        <li><a href="/policies/security-and-trust-at-moneyhub/">Security &amp; Trust</a></li>
+        <li><a href="/press-and-partners/">Press &amp; Partners</a></li>
+        <li><a href="/glossary/">Glossary</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="mh-ft-bottom">
+    <span>© 2026 Moneyhub Financial Technology Limited. All rights reserved.</span>
+    <span>Authorised and regulated by the Financial Conduct Authority.</span>
+  </div>
+</div>

@@ -1,0 +1,31 @@
+.section.surface{
+  background:var(--mh-surface);
+  border-block:1px solid var(--mh-border);
+}
+
+.logo-strip.block .ls-grid{
+  display:grid;
+  grid-template-columns:repeat(4,1fr);
+  gap:clamp(1rem,3vw,2.5rem);
+  align-items:center;
+}
+
+.logo-strip .ls-logo img{
+  height:34px;
+  width:auto;
+  margin-inline:auto;
+  object-fit:contain;
+  filter:grayscale(1);
+  opacity:.85;
+  transition:filter .2s,opacity .2s;
+}
+
+.logo-strip .ls-logo img:hover{
+  filter:none;
+  opacity:1;
+}
+
+@media (width <=768px){.logo-strip.block .ls-grid{
+  grid-template-columns:repeat(2,1fr);
+  gap:1.5rem;
+}}

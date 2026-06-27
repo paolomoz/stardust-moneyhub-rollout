@@ -1,0 +1,37 @@
+.testimonials.block .tm-grid{
+  display:grid;
+  grid-template-columns:repeat(3,1fr);
+  gap:1.5rem;
+}
+
+.testimonials .tm-grid.single{
+  grid-template-columns:1fr;
+  max-width:760px;
+  margin-inline:auto;
+}
+
+.testimonials .tm-quote{
+  background:#fff;
+  border:1px solid var(--mh-border);
+  padding:2rem;
+  display:flex;
+  flex-direction:column;
+  margin:0;
+}
+
+.testimonials .tm-quote blockquote{
+  margin:0 0 1.25rem;
+  font-size:1.0625rem;
+  color:var(--mh-ink);
+}
+
+.testimonials .tm-who{
+  margin-top:auto;
+  font-family:var(--mh-font-head);
+  font-weight:700;
+  color:var(--mh-ink);
+  font-size:.95rem;
+}
+.testimonials .tm-who strong{ display:block; }
+
+@media (width <=1024px){.testimonials.block .tm-grid{ grid-template-columns:1fr; }}

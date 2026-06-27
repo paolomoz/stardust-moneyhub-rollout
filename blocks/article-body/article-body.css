@@ -1,0 +1,29 @@
+.article-body.block .ab-prose{
+  max-width:760px;
+  margin-inline:auto;
+}
+.article-body .ab-prose>*{ max-width:68ch; }
+
+.article-body .ab-prose h2{
+  font-size:clamp(1.5rem,2.6vw,2rem);
+  margin-top:2rem;
+}
+.article-body .ab-prose h3{ margin-top:1.75rem; }
+
+.article-body .ab-prose p,.article-body .ab-prose li{
+  font-size:1.0625rem;
+  color:var(--mh-text);
+}
+.article-body .ab-prose ul,.article-body .ab-prose ol{ padding-left:1.25rem; }
+.article-body .ab-prose li{ margin-bottom:.4rem; }
+
+.article-body .ab-prose blockquote{
+  border-left:3px solid var(--mh-orange);
+  margin:1.5rem 0;
+  padding:.5rem 0 .5rem 1.25rem;
+  font-size:1.25rem;
+  color:var(--mh-ink);
+  font-family:var(--mh-font-head);
+  font-weight:600;
+}
+.article-body .ab-prose img{ margin:1.5rem 0; }

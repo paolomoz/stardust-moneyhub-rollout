@@ -1,0 +1,30 @@
+.text-image.block .ti-grid{
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  gap:clamp(2rem,5vw,4.5rem);
+  align-items:center;
+}
+
+.text-image.block .ti-grid.no-media{
+  grid-template-columns:1fr;
+  max-width:760px;
+}
+
+.text-image .ti-media img{
+  width:100%;
+  aspect-ratio:4/3;
+  object-fit:cover;
+}
+.text-image .ti-copy h2{ margin-bottom:.75rem; }
+.text-image .ti-copy p{ color:var(--mh-text); }
+
+/* dark variant — full-bleed slate */
+.section.dark,.text-image.dark{ background:var(--mh-slate-deep); }
+.text-image.dark .ti-copy{ color:#c3ccd1; }
+.text-image.dark h2{ color:#fff; }
+.text-image.dark .ti-copy p{ color:#c3ccd1; }
+
+@media (width <=1024px){
+  .text-image.block .ti-grid{ grid-template-columns:1fr; }
+  .text-image.block .ti-grid .ti-media{ order:2; }
+}

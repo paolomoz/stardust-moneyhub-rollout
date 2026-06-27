@@ -1,0 +1,21 @@
+.form-embed.block .fe-wrap{
+  max-width:680px;
+  margin-inline:auto;
+  background:var(--mh-surface);
+  border:1px solid var(--mh-border);
+  padding:clamp(1.5rem,4vw,2.5rem);
+}
+.form-embed .fe-wrap h2{ margin-top:0; }
+.form-embed .fe-wrap p{ color:var(--mh-text); }
+
+.form-embed .fe-has-frame{
+  padding:0;
+  background:none;
+  border:0;
+}
+
+.form-embed .fe-wrap iframe{
+  width:100%;
+  min-height:680px;
+  border:0;
+}

@@ -1,0 +1,70 @@
+.cta-band.block{ text-align:center; }
+
+.cta-band .cb-inner{
+  position:relative;
+  max-width:760px;
+  margin-inline:auto;
+}
+.cta-band h2{ margin-bottom:0; }
+
+.cta-band .button-container{
+  justify-content:center;
+  margin-top:1.5rem;
+}
+.section.dark .cta-band h2,.cta-band.slate h2{ color:#fff; }
+
+/* confetti */
+.cta-band .cb-confetti{
+  position:absolute;
+  inset:-40px 0;
+  z-index:0;
+  pointer-events:none;
+}
+
+.cta-band .cb-confetti i{
+  position:absolute;
+  display:block;
+}
+
+.cta-band .cb-inner>*{
+  position:relative;
+  z-index:1;
+}
+
+.cta-band .tri{
+  width:0;
+  height:0;
+  border-left:13px solid transparent;
+  border-right:13px solid transparent;
+  border-bottom:22px solid var(--mh-orange);
+}
+
+.cta-band .blob{
+  width:42px;
+  height:28px;
+  border-radius:60% 40% 55% 45%;
+  background:#D7DCDF;
+}
+.cta-band .blob.dark{ background:#B7C0C4; }
+
+.cta-band .c1{
+  top:0;
+  left:6%;
+}
+
+.cta-band .c2{
+  top:10%;
+  right:9%;
+  transform:rotate(-20deg);
+}
+
+.cta-band .c4{
+  bottom:6%;
+  right:16%;
+}
+
+.cta-band .c5{
+  bottom:0;
+  left:14%;
+  transform:rotate(36deg);
+}
