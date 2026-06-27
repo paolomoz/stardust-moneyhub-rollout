@@ -221,8 +221,8 @@ a.btn.btn-secondary:hover{
 /* ---- Header CLS reserve (static fragment injects after first paint, #81) ---- */
 header{
   min-height:72px;
-  background:var(--mh-bg);
-  border-bottom:1px solid var(--mh-border);
+  background:var(--mh-orange);
+  border-bottom:1px solid rgb(0 0 0 / 8%);
 }
 
 @media (width <= 600px){header{ min-height:64px; }}
