@@ -168,7 +168,7 @@
       "url": "https://moneyhub.com/solutions/pension-and-wealth-solutions/targeted-support/",
       "title": "Targeted Support - Moneyhub",
       "type": "program",
-      "status": "directed",
+      "status": "approved",
       "history": [
         {
           "status": "extracted",
@@ -177,17 +177,26 @@
         {
           "status": "directed",
           "at": "2026-06-27T09:30:02.918Z"
+        },
+        {
+          "status": "prototyped",
+          "at": "2026-06-27T09:40:38.789Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-06-27T09:40:38.789Z"
         }
       ],
       "stale": false,
       "staleReason": null,
       "currentStatePath": "stardust/current/pages/solutions-targeted-support.json",
-      "prototypePath": null,
+      "prototypePath": "stardust/prototypes/solutions-targeted-support-proposed.html",
       "migratedPath": null,
       "media": {
         "bg": 1,
         "bigImgs": 2
-      }
+      },
+      "archetype": true
     },
     {
       "slug": "use-cases",
@@ -246,7 +255,7 @@
       "url": "https://moneyhub.com/case-studies/",
       "title": "Case Studies - Moneyhub",
       "type": "listing",
-      "status": "directed",
+      "status": "approved",
       "history": [
         {
           "status": "extracted",
@@ -255,24 +264,33 @@
         {
           "status": "directed",
           "at": "2026-06-27T09:30:02.918Z"
+        },
+        {
+          "status": "prototyped",
+          "at": "2026-06-27T09:40:38.789Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-06-27T09:40:38.789Z"
         }
       ],
       "stale": false,
       "staleReason": null,
       "currentStatePath": "stardust/current/pages/case-studies.json",
-      "prototypePath": null,
+      "prototypePath": "stardust/prototypes/case-studies-proposed.html",
       "migratedPath": null,
       "media": {
         "bg": 1,
         "bigImgs": 10
-      }
+      },
+      "archetype": true
     },
     {
       "slug": "case-studies-mercer-money",
       "url": "https://moneyhub.com/case-studies/transforming-pensions-engagement-through-mercer-money/",
       "title": "Transforming pensions engagement through Mercer Money - Moneyhub",
       "type": "article",
-      "status": "directed",
+      "status": "approved",
       "history": [
         {
           "status": "extracted",
@@ -281,17 +299,26 @@
         {
           "status": "directed",
           "at": "2026-06-27T09:30:02.918Z"
+        },
+        {
+          "status": "prototyped",
+          "at": "2026-06-27T09:40:38.789Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-06-27T09:40:38.789Z"
         }
       ],
       "stale": false,
       "staleReason": null,
       "currentStatePath": "stardust/current/pages/case-studies-mercer-money.json",
-      "prototypePath": null,
+      "prototypePath": "stardust/prototypes/case-study-proposed.html",
       "migratedPath": null,
       "media": {
         "bg": 1,
         "bigImgs": 3
-      }
+      },
+      "archetype": true
     },
     {
       "slug": "articles",
