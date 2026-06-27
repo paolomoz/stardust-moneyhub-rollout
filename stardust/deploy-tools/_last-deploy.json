@@ -7,41 +7,5 @@
     "h1": 1,
     "err": 0,
     "imgs": 19
-  },
-  {
-    "path": "glossary/nudges-in-financial-services",
-    "ok": true,
-    "stage": "verify",
-    "code": 200,
-    "h1": 1,
-    "err": 0,
-    "imgs": 1
-  },
-  {
-    "path": "use-cases/identify-fraud-real-time-banking-app",
-    "ok": true,
-    "stage": "verify",
-    "code": 200,
-    "h1": 1,
-    "err": 0,
-    "imgs": 4
-  },
-  {
-    "path": "articles/activating-29-million-current-account-coasters-key-learnings-from-our-webinar-with-paragon-bank",
-    "ok": true,
-    "stage": "verify",
-    "code": 200,
-    "h1": 1,
-    "err": 0,
-    "imgs": 1
-  },
-  {
-    "path": "case-studies/how-spring-app-transformed-digital-savings-with-moneyhub",
-    "ok": true,
-    "stage": "verify",
-    "code": 200,
-    "h1": 1,
-    "err": 0,
-    "imgs": 0
   }
 ]
