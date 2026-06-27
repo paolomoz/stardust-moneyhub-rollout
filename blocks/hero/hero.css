@@ -31,6 +31,39 @@
 .hero .eyebrow,.hero p strong:only-child{ color:var(--mh-orange-deep); }
 .hero .btn-group{ justify-content:center; }
 
+/* background video (original-site animated header) */
+.hero .hero-video-layer{
+  position:absolute;
+  inset:0;
+  z-index:0;
+  overflow:hidden;
+  background:var(--mh-surface,#F4F6F7);
+}
+
+.hero .hero-video{
+  position:absolute;
+  inset:0;
+  width:100%;
+  height:100%;
+  object-fit:cover;
+  opacity:0;
+  transition:opacity .8s ease;
+}
+
+.hero .hero-video[src],.hero.has-video .hero-video{ opacity:1; }
+
+/* legibility scrim so slate type stays AA over the moving footage */
+.hero .hero-video-layer::after{
+  content:"";
+  position:absolute;
+  inset:0;
+  background:linear-gradient(180deg,rgba(255,255,255,.74),rgba(255,255,255,.6));
+}
+
+@media (max-width:599px){
+  .hero .hero-video-layer{ display:none; }
+}
+
 /* confetti motif */
 .hero .hero-confetti{
   position:absolute;
