@@ -63,7 +63,7 @@ function extractContent(html) {
     if (seen.has(key)) continue; seen.add(key);
     // preserve inline links/em/strong in p/li/blockquote
     let inner = m[2].replace(/<(?!\/?(a|em|strong|b|i)\b)[^>]+>/gi, ' ').replace(/\s+/g, ' ').trim();
-    inner = dec(inner).replace(/\sclass="[^"]*"/g, '').replace(/<a\s+href="([^"]*)"[^>]*>/gi, (mm, h) => `<a href="${h.replace(ORIGIN, '')}">`);
+    inner = dec(inner).replace(/\sclass="[^"]*"/g, '').replace(/<a\s+href="([^"]*)"[^>]*>/gi, (mm, h) => { let u = h.replace(ORIGIN, ''); if (u.startsWith('/') && u.length > 1) u = u.replace(/\/$/, ''); return `<a href="${u}">`; });
     nodes.push({ t: tag, txt, html: inner });
   }
   return nodes;

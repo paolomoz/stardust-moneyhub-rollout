@@ -50,7 +50,7 @@ async function authorContentPage(page) {
   const file = join('content', path + '.html');
   mkdirSync(dirname(file), { recursive: true });
   writeFileSync(file, frag);
-  titles[page.slug] = { title: h1, desc, href: '/' + path + '/', tag: category };
+  titles[page.slug] = { title: h1, desc, href: '/' + path, tag: category };
   return { slug: page.slug, path, nodes: finalNodes.length, img: (leadImg ? 1 : 0) + finalNodes.filter((n) => n.t === 'img').length };
 }
 
@@ -64,7 +64,7 @@ async function authorListing(page) {
   if (childTpl) {
     cards = roster.filter((r) => r.template === childTpl).map((r) => {
       const t = titles[r.slug];
-      return { title: t ? t.title : r.slug.split('-').slice(-6).join(' '), href: '/' + normPath(r.path) + '/', excerpt: t ? (t.desc || '').slice(0, 120) : '', tag: CATEGORY[childTpl] };
+      return { title: t ? t.title : r.slug.split('-').slice(-6).join(' '), href: '/' + normPath(r.path), excerpt: t ? (t.desc || '').slice(0, 120) : '', tag: CATEGORY[childTpl] };
     });
   }
   const path = normPath(page.path);
