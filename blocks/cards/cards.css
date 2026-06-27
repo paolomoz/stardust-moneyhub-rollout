@@ -1,4 +1,4 @@
-.cards.block .cards-grid{
+.cards .cards-grid{
   display:grid;
   grid-template-columns:1fr 1fr;
   border:1px solid var(--mh-border);
@@ -35,4 +35,4 @@
   margin-top:auto;
 }
 
-@media (width <=768px){.cards.block .cards-grid{ grid-template-columns:1fr; }}
+@media (width <=768px){.cards .cards-grid{ grid-template-columns:1fr; }}

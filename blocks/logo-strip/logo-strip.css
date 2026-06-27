@@ -3,7 +3,7 @@
   border-block:1px solid var(--mh-border);
 }
 
-.logo-strip.block .ls-grid{
+.logo-strip .ls-grid{
   display:grid;
   grid-template-columns:repeat(4,1fr);
   gap:clamp(1rem,3vw,2.5rem);
@@ -25,7 +25,7 @@
   opacity:1;
 }
 
-@media (width <=768px){.logo-strip.block .ls-grid{
+@media (width <=768px){.logo-strip .ls-grid{
   grid-template-columns:repeat(2,1fr);
   gap:1.5rem;
 }}

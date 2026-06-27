@@ -1,4 +1,4 @@
-.article-header.block{ padding:0; }
+.article-header{ padding:0; }
 
 .article-header .ah-band{
   background:var(--mh-surface);

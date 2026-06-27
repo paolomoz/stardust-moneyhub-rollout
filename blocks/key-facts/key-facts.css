@@ -1,4 +1,4 @@
-.key-facts.block .kf-grid{
+.key-facts .kf-grid{
   display:grid;
   grid-template-columns:repeat(3,1fr);
   gap:1.5rem;
@@ -22,4 +22,4 @@
   margin:0;
 }
 
-@media (width <=768px){.key-facts.block .kf-grid{ grid-template-columns:1fr; }}
+@media (width <=768px){.key-facts .kf-grid{ grid-template-columns:1fr; }}

@@ -1,11 +1,11 @@
-.text-image.block .ti-grid{
+.text-image .ti-grid{
   display:grid;
   grid-template-columns:1fr 1fr;
   gap:clamp(2rem,5vw,4.5rem);
   align-items:center;
 }
 
-.text-image.block .ti-grid.no-media{
+.text-image .ti-grid.no-media{
   grid-template-columns:1fr;
   max-width:760px;
 }
@@ -25,6 +25,6 @@
 .text-image.dark .ti-copy p{ color:#c3ccd1; }
 
 @media (width <=1024px){
-  .text-image.block .ti-grid{ grid-template-columns:1fr; }
-  .text-image.block .ti-grid .ti-media{ order:2; }
+  .text-image .ti-grid{ grid-template-columns:1fr; }
+  .text-image .ti-grid .ti-media{ order:2; }
 }

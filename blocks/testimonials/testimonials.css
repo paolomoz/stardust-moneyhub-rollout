@@ -1,4 +1,4 @@
-.testimonials.block .tm-grid{
+.testimonials .tm-grid{
   display:grid;
   grid-template-columns:repeat(3,1fr);
   gap:1.5rem;
@@ -34,4 +34,4 @@
 }
 .testimonials .tm-who strong{ display:block; }
 
-@media (width <=1024px){.testimonials.block .tm-grid{ grid-template-columns:1fr; }}
+@media (width <=1024px){.testimonials .tm-grid{ grid-template-columns:1fr; }}
