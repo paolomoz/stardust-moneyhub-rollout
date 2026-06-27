@@ -1,0 +1,554 @@
+{
+  "contact": {
+    "title": "Contact sales",
+    "desc": "",
+    "href": "/contact/",
+    "tag": ""
+  },
+  "policies-security-and-trust-at-moneyhub": {
+    "title": "Security and Trust at Moneyhub",
+    "desc": "Moneyhub's comprehensive security framework: FCA regulated AISP/PISP, ISO 27001 certified, FAPI 2.0 certified, with regular penetration testing and transparent security reporting for financial institutions.",
+    "href": "/policies/security-and-trust-at-moneyhub/",
+    "tag": "Policy"
+  },
+  "policies-environmental-social-and-governance-report": {
+    "title": "Environmental, Social and Governance Report",
+    "desc": "Moneyhub's commitment to environmental sustainability, social responsibility and governance excellence. Learn about our carbon reduction efforts, diverse workplace culture, ethical partnerships and data security standards.",
+    "href": "/policies/environmental-social-and-governance-report/",
+    "tag": "Policy"
+  },
+  "policies-modern-slavery-and-human-trafficking-policy": {
+    "title": "Modern Slavery and Human Trafficking Policy",
+    "desc": "Moneyhub's voluntary Modern Slavery Act statement outlines our commitment to ethical trading, due diligence processes, and preventing human trafficking in our Open Finance business and supply chains.",
+    "href": "/policies/modern-slavery-and-human-trafficking-policy/",
+    "tag": "Policy"
+  },
+  "policies-api-terms-of-use": {
+    "title": "API Terms of Use",
+    "desc": "Moneyhub's terms and conditions for account access services, payment initiation, and account information services. Covers eligibility, liability, data protection, and complaint procedures for UK users.",
+    "href": "/policies/api-terms-of-use/",
+    "tag": "Policy"
+  },
+  "policies-global-terms-of-use": {
+    "title": "Global Terms of Use",
+    "desc": "Read Moneyhub's comprehensive terms of use covering our financial technology services, user accounts, payment services, and account information services.",
+    "href": "/policies/global-terms-of-use/",
+    "tag": "Policy"
+  },
+  "policies-privacy-policy": {
+    "title": "Global Privacy Policy (including Cookies Statement)",
+    "desc": "Understand Moneyhub's privacy and cookie policy to protect your data and ensure a safe online experience.",
+    "href": "/policies/privacy-policy/",
+    "tag": "Policy"
+  },
+  "solutions-banking-and-lending-solutions": {
+    "title": "Intelligent banking. Build for real life.",
+    "desc": "Explore our banking and lending solutions at Moneyhub and start using data to power better customer outcomes",
+    "href": "/solutions/banking-and-lending-solutions/",
+    "tag": "Solutions"
+  },
+  "solutions-pension-and-wealth-solutions": {
+    "title": "Intelligent growth and retention. Build for real life.",
+    "desc": "Explore Pension and Wealth solutions at Moneyhub to start using data to engage customers, win primacy and gain consolidation",
+    "href": "/solutions/pension-and-wealth-solutions/",
+    "tag": "Solutions"
+  },
+  "about": {
+    "title": "Building for real life",
+    "desc": "Learn more about Moneyhub and how we empower institutions to build for real life with data services and embedded technologies.",
+    "href": "/about/",
+    "tag": ""
+  },
+  "careers": {
+    "title": "Careers at Moneyhub",
+    "desc": "Careers at Moneyhub: we're hiring! Join us in empowering institutions to build for real life and explore our vacancies.",
+    "href": "/careers/",
+    "tag": ""
+  },
+  "status": {
+    "title": "Connections Status",
+    "desc": "Moneyhub's voluntary Modern Slavery Act statement outlines our commitment to ethical trading, due diligence processes, and preventing human trafficking in our Open Finance business and supply chains.",
+    "href": "/status/",
+    "tag": ""
+  },
+  "press-releases": {
+    "title": "Discover press releases",
+    "desc": "",
+    "href": "/press-releases/",
+    "tag": ""
+  },
+  "articles-drive-engagement-and-understanding-with-personalised-video": {
+    "title": "Drive engagement and understanding with personalised video",
+    "desc": "Transform financial communication with personalised videos. Increase engagement, improve customer understanding, and boost conversion rates by 93% with dynamic, data-driven video content for financial services.",
+    "href": "/articles/drive-engagement-and-understanding-with-personalised-video/",
+    "tag": "Article"
+  },
+  "articles-talk-money-week-open-finance-features-to-help-your-customers-talkmoney": {
+    "title": "Talk Money Week - Open Finance features to help your customers #TalkMoney",
+    "desc": "Support Talk Money Week with Moneyhub's financial wellbeing tools. Help customers discuss budgets, manage debt, build emergency funds, find benefits and track pensions for better money conversations.",
+    "href": "/articles/talk-money-week-open-finance-features-to-help-your-customers-talkmoney/",
+    "tag": "Article"
+  },
+  "articles-how-technology-is-democratising-financial-advice": {
+    "title": "How technology is democratising financial advice",
+    "desc": "Make expert financial advice accessible to the mass market. Secure data sharing replaces costly, manual fact-finding.",
+    "href": "/articles/how-technology-is-democratising-financial-advice/",
+    "tag": "Article"
+  },
+  "articles-really-know-your-customer-can-they-afford-it-and-are-you-able-to-help-them-pay": {
+    "title": "Really know your customer – can they afford it and are you able to help them pay?",
+    "desc": "Research reveals one in four UK consumers have fallen into troubling financial behaviours. Learn how Open Banking and real-time data can help lenders comply with Consumer Duty while improving customer outcomes.",
+    "href": "/articles/really-know-your-customer-can-they-afford-it-and-are-you-able-to-help-them-pay/",
+    "tag": "Article"
+  },
+  "articles-pensions-blue-monday": {
+    "title": "How can pension providers contribute meaningful support on Blue Monday?",
+    "desc": "Learn about the tools L&G have implemented, and their impacts, to contribute meaningful pensions support on Blue Monday",
+    "href": "/articles/pensions-blue-monday/",
+    "tag": "Article"
+  },
+  "articles-moneyhub-underpins-nationwide": {
+    "title": "Transforming the future of mutual banking: how Moneyhub underpins Nationwide’s growth plans",
+    "desc": "Learn about how Moneyhub has partnered with Nationwide Building Society by providing AI-driven transaction categorisation and enrichment.",
+    "href": "/articles/moneyhub-underpins-nationwide/",
+    "tag": "Article"
+  },
+  "articles-open-banking-expo-2025": {
+    "title": "Open Banking Expo 2025: The 7 payment lessons you can't ignore",
+    "desc": "The 2025 Open Banking Expo covered new technology and regulatory reaction, explore 7 lessons for every payment enthusiast.",
+    "href": "/articles/open-banking-expo-2025/",
+    "tag": "Article"
+  },
+  "articles-risky-business-targeted-support": {
+    "title": "Targeted Support: risky business",
+    "desc": "Targeted support could transform customer communications. Success depends on risk appetite and data segmentation to deliver relevant guidance",
+    "href": "/articles/risky-business-targeted-support/",
+    "tag": "Article"
+  },
+  "articles-regulatory-leadership-the-path-to-accelerating-commercial-pensions-dashboards": {
+    "title": "Regulatory leadership: the path to accelerating commercial pensions dashboards",
+    "desc": "Explore the vital role of commercial pensions dashboards in the UK. Learn how they can end pension inadequacy and empower savers, despite current regulatory challenges hindering private sector development.",
+    "href": "/articles/regulatory-leadership-the-path-to-accelerating-commercial-pensions-dashboards/",
+    "tag": "Article"
+  },
+  "articles-evolution-or-revolution-advice-guidance-boundary-review-targeted-support-for-pensions": {
+    "title": "Evolution or revolution? Advice guidance boundary review targeted support for pensions",
+    "desc": "Explore the FCA's Targeted Support for Pensions proposal and consultation. Learn how this new regulated activity will offer UK Defined Contribution pension savers actionable, data-driven suggestions, distinct from financial advice.",
+    "href": "/articles/evolution-or-revolution-advice-guidance-boundary-review-targeted-support-for-pensions/",
+    "tag": "Article"
+  },
+  "articles-ministerial-statement-paving-the-way-for-commercial-pensions-dashboards": {
+    "title": "Ministerial statement: Paving the way for commercial pensions dashboards",
+    "desc": "Minister Emma Reynolds MP confirms government commitment to pensions dashboards, with MoneyHelper launching first before commercial dashboards. Learn what this means for UK pension providers and savers.",
+    "href": "/articles/ministerial-statement-paving-the-way-for-commercial-pensions-dashboards/",
+    "tag": "Article"
+  },
+  "articles-price-and-value-in-the-era-of-consumer-duty": {
+    "title": "Price and value in the era of consumer duty",
+    "desc": "Understand the FCA's latest Price and Value Outcome update under Consumer Duty. Get key insights for UK financial firms on fair value assessments, vulnerable customers, and compliance, especially for e-money and payment institutions.",
+    "href": "/articles/price-and-value-in-the-era-of-consumer-duty/",
+    "tag": "Article"
+  },
+  "articles-activating-29-million-current-account-coasters-key-learnings-from-our-webinar-with-paragon-bank": {
+    "title": "Activating 29 million ‘current account coasters’: key learnings from our webinar with Paragon Bank",
+    "desc": "Discover how Moneyhub is working with Paragon Bank's Spring Savings to drive automated payment sweeping and Open Finance innovation.",
+    "href": "/articles/activating-29-million-current-account-coasters-key-learnings-from-our-webinar-with-paragon-bank/",
+    "tag": "Article"
+  },
+  "articles-protecting-the-backbook-why-data-not-just-rates-will-win-the-2026-remortgage-race": {
+    "title": "Protecting the backbook: why data, not just rates, will win the 2026 remortgage race",
+    "desc": "As remortgage applications surge by 46% in 2026, discover how UK lenders are using Open Banking and AI-driven data categorisation to automate underwriting, reduce friction, and improve customer retention.",
+    "href": "/articles/protecting-the-backbook-why-data-not-just-rates-will-win-the-2026-remortgage-race/",
+    "tag": "Article"
+  },
+  "articles-pensions-faster-journeys": {
+    "title": "How pension providers can launch better member journeys in weeks, not years",
+    "desc": "Widgets are the key to unlocking faster development and better journeys for pension providers to offer to their members.",
+    "href": "/articles/pensions-faster-journeys/",
+    "tag": "Article"
+  },
+  "articles-false-positives-bad-for-banks": {
+    "title": "Transaction fraud detection: are false positives really that bad for banks?",
+    "desc": "Not just an acceptable part of fraud detection, false positives really are bad for banks OpEx, customer relationships and budgets",
+    "href": "/articles/false-positives-bad-for-banks/",
+    "tag": "Article"
+  },
+  "articles-reasons-for-false-positives-banks": {
+    "title": "Three reasons your bank fraud analysts are drowning in low-risk false positives",
+    "desc": "Three factors usually drive false positives: static rules applied to dynamic behaviour, overly sensitive tuning, incomplete or siloed data",
+    "href": "/articles/reasons-for-false-positives-banks/",
+    "tag": "Article"
+  },
+  "articles-is-your-banking-app-speaking-in-code-the-multi-million-pound-cost-of-transaction-confusion": {
+    "title": "Is your banking app speaking in code? The multi-million-pound cost of transaction confusion",
+    "desc": "Cryptic transaction data is costing banks millions in support calls, false disputes and lost trust. Discover how smarter transaction enrichment can reduce fraud panic and power better AI-driven banking experiences.",
+    "href": "/articles/is-your-banking-app-speaking-in-code-the-multi-million-pound-cost-of-transaction-confusion/",
+    "tag": "Article"
+  },
+  "articles-rental-rewards": {
+    "title": "The rental revolution: turning monthly payments into financial rewards",
+    "desc": "Rental rewards are now available, with Londoners able to access local discounts through Brick Rewards when they pay rent.",
+    "href": "/articles/rental-rewards/",
+    "tag": "Article"
+  },
+  "articles-batch-processing-payment-fraud": {
+    "title": "Why batch processed transaction enrichment is the silent enabler of modern payment fraud",
+    "desc": "Modern fraudsters now move faster than batch processing enrichment systems were designed to handle.",
+    "href": "/articles/batch-processing-payment-fraud/",
+    "tag": "Article"
+  },
+  "case-studies-bridging-the-advice-gap-with-wps-advisory": {
+    "title": "Bridging the Advice Gap with WPS Advisory",
+    "desc": "WPS Advisory partners with Moneyhub to tackle the financial advice gap with LifeStage, an app empowering employees to make smart money decisions and bridge the advice gap.",
+    "href": "/case-studies/bridging-the-advice-gap-with-wps-advisory/",
+    "tag": "Case study"
+  },
+  "case-studies-transforming-pensions-engagement-through-mercer-money": {
+    "title": "Transforming pensions engagement through Mercer Money",
+    "desc": "Mercer Money, powered by Moneyhub, transforms pension engagement for Master Trust members, providing a holistic financial view, boosting user growth and activity.",
+    "href": "/case-studies/transforming-pensions-engagement-through-mercer-money/",
+    "tag": "Case study"
+  },
+  "case-studies-improving-pension-engagement-and-financial-wellbeing-with-scottish-widows": {
+    "title": "Improving pension engagement and financial wellbeing with Scottish Widows",
+    "desc": "Scottish Widows enhances its app with Moneyhub's Open Finance Platform, enabling users to view all their finances in one place. Empowering better financial decisions and retirement planning.",
+    "href": "/case-studies/improving-pension-engagement-and-financial-wellbeing-with-scottish-widows/",
+    "tag": "Case study"
+  },
+  "case-studies-the-well-one-money-financial-wellbeing-proposition": {
+    "title": "The Well One Money financial wellbeing proposition with AON",
+    "desc": "Aon partners with Moneyhub to create Well One Money app, helping employers support employee financial wellbeing through comprehensive financial data aggregation and personalised insights, saving employees an average of £850 annually.",
+    "href": "/case-studies/the-well-one-money-financial-wellbeing-proposition/",
+    "tag": "Case study"
+  },
+  "case-studies-increasing-credit-scores-and-financial-inclusivity-with-loqbox": {
+    "title": "Increasing credit scores and financial inclusivity with Loqbox",
+    "desc": "Learn how Moneyhub's Open Banking technology powers Loqbox Rent to help 40,000+ members improve credit scores by reporting rental payments to Experian for better mortgage access.",
+    "href": "/case-studies/increasing-credit-scores-and-financial-inclusivity-with-loqbox/",
+    "tag": "Case study"
+  },
+  "case-studies-refining-loan-approvals-and-reducing-risk-with-admiral-money-personal-loans": {
+    "title": "Refining loan approvals and reducing risk with Admiral Money Personal Loans",
+    "desc": "Explore how Admiral Money loan approvals increased by 18% with automated checks and Open Banking data for quick decisions.",
+    "href": "/case-studies/refining-loan-approvals-and-reducing-risk-with-admiral-money-personal-loans/",
+    "tag": "Case study"
+  },
+  "case-studies-financial-inclusion-simplifying-access-to-voxis-discounted-phone-tariff-with-open-banking-powered-eligibility-checking": {
+    "title": "Financial Inclusion: Simplifying access to VOXI’s discounted phone tariff with Open Banking powered Eligibility Checking",
+    "desc": "Learn how VOXI for Now uses Open Banking to streamline eligibility for its UK social tariff. Automated checks mean faster access to discounted phone plans for those in need.",
+    "href": "/case-studies/financial-inclusion-simplifying-access-to-voxis-discounted-phone-tariff-with-open-banking-powered-eligibility-checking/",
+    "tag": "Case study"
+  },
+  "case-studies-nationwide-deploys-real-time-savings-account-funding-through-open-banking-payments": {
+    "title": "Nationwide deploys real-time savings account funding through pay by bank",
+    "desc": "Nationwide Building Society streamlines savings account funding with Moneyhub's Open Banking technology, reducing transfer time by 75% and preventing 4% monthly account closures due to forgotten funding.",
+    "href": "/case-studies/nationwide-deploys-real-time-savings-account-funding-through-open-banking-payments/",
+    "tag": "Case study"
+  },
+  "case-studies-building-the-uks-most-engaging-pensions-app-for-standard-life": {
+    "title": "Building the UK's most engaging pensions app for Standard Life",
+    "desc": "Discover how Standard Life's Money Mindset app boosts pension member engagement and financial wellbeing. See how this Open Finance solution helps users manage money and save.",
+    "href": "/case-studies/building-the-uks-most-engaging-pensions-app-for-standard-life/",
+    "tag": "Case study"
+  },
+  "case-studies-how-spring-app-transformed-digital-savings-with-moneyhub": {
+    "title": "How Spring App Transformed Digital Savings with Moneyhub",
+    "desc": "Discover how Paragon Bank's Spring app transformed digital savings with Moneyhub's data and payments platform. See how they achieved 65% deposit adoption via single immediate payments and VRPs, plus 99% customer satisfaction in just 6 months.",
+    "href": "/case-studies/how-spring-app-transformed-digital-savings-with-moneyhub/",
+    "tag": "Case study"
+  },
+  "demo-request-form": {
+    "title": "Demo Request Form",
+    "desc": "",
+    "href": "/demo-request-form/",
+    "tag": ""
+  },
+  "glossary-agentic-ai-financial-services": {
+    "title": "What is Agentic AI in financial services?",
+    "desc": "Agentic AI presents a huge opportunity to financial services, and firms that take advantage of new tech will see significant the benefits.",
+    "href": "/glossary/agentic-ai-financial-services/",
+    "tag": "Glossary"
+  },
+  "glossary-consumer-duty": {
+    "title": "What is Consumer Duty?",
+    "desc": "Consumer Duty requires good customer outcomes. Firms should check product suitability, communicate clearly and offer reasonable support.",
+    "href": "/glossary/consumer-duty/",
+    "tag": "Glossary"
+  },
+  "glossary-nudges-in-financial-services": {
+    "title": "How to apply nudge theory in financial services",
+    "desc": "When we move from static, batch alerts to real-time, hyper-personalised nudges, engagement metrics in financial apps shift dramatically.",
+    "href": "/glossary/nudges-in-financial-services/",
+    "tag": "Glossary"
+  },
+  "glossary-merchant-identification": {
+    "title": "Why is merchant identification important in categorisation and enrichment?",
+    "desc": "Merchant identification is an important part of categorisation and enrichment, but only if labels are accurate.",
+    "href": "/glossary/merchant-identification/",
+    "tag": "Glossary"
+  },
+  "press-releases-moneyhub-appoints-alastair-mcgill-as-ceo-signaling-a-bold-new-era-of-growth-and-innovation": {
+    "title": "Moneyhub appoints Alastair McGill as CEO, signaling a bold new era of growth and innovation",
+    "desc": "Moneyhub appoints Alastair McGill as new CEO, bringing 30+ years of fintech experience from Broadridge, Cashfac and SmartStream to lead the financial technology company's growth.",
+    "href": "/press-releases/moneyhub-appoints-alastair-mcgill-as-ceo-signaling-a-bold-new-era-of-growth-and-innovation/",
+    "tag": "Press release"
+  },
+  "press-releases-uk-demands-more-innovative-payment-methods": {
+    "title": "UK demands more innovative payment methods",
+    "desc": "New research shows 45% of UK consumers feel comfortable using Open Banking for bills, revealing strong demand for innovative Variable Recurring Payments and flexible payment solutions.",
+    "href": "/press-releases/uk-demands-more-innovative-payment-methods/",
+    "tag": "Press release"
+  },
+  "press-releases-lloyds-banking-group-selects-moneyhub-as-their-data-enrichment-and-categorisation-partner": {
+    "title": "Lloyds Banking Group selects Moneyhub as their data enrichment and categorisation partner",
+    "desc": "Lloyds Banking Group selects Moneyhub as data enrichment and categorisation partner for all retail transactions across Lloyds, Halifax, Scottish Widows and Bank of Scotland, leveraging AI-driven technology to enhance customer insights.",
+    "href": "/press-releases/lloyds-banking-group-selects-moneyhub-as-their-data-enrichment-and-categorisation-partner/",
+    "tag": "Press release"
+  },
+  "press-releases-one-size-fits-all-finance-is-over-moneyhub-enables-financial-institutions-to-get-personal": {
+    "title": "One-size-fits-all finance is over: Moneyhub enables financial institutions to get personal",
+    "desc": "Moneyhub announces strategic repositioning to focus exclusively on B2B fintech solutions, helping financial institutions deliver personalised customer experiences through AI-powered data insights. New 'Build for Real Life' brand identity reflects company's enterprise transformation.",
+    "href": "/press-releases/one-size-fits-all-finance-is-over-moneyhub-enables-financial-institutions-to-get-personal/",
+    "tag": "Press release"
+  },
+  "press-releases-continuing-service-of-the-moneyhub-app": {
+    "title": "Continuing service of the Moneyhub app",
+    "desc": "WPS Advisory takes over management of the Moneyhub app as Moneyhub transitions to enterprise focus. Users can opt in from mid-July for continued service with minimal disruption and free premium trial.",
+    "href": "/press-releases/continuing-service-of-the-moneyhub-app/",
+    "tag": "Press release"
+  },
+  "press-releases-wps-advisory-partners-with-moneyhub-to-launch-financial-confidence-app-lifestage": {
+    "title": "WPS Advisory partners with Moneyhub to launch financial confidence app LifeStage",
+    "desc": "Moneyhub partners with WPS Advisory to launch LifeStage, an innovative financial wellbeing app that uses Open Finance technology to help employees understand their complete financial picture and make informed decisions.",
+    "href": "/press-releases/wps-advisory-partners-with-moneyhub-to-launch-financial-confidence-app-lifestage/",
+    "tag": "Press release"
+  },
+  "press-releases-moneyhub-partners-with-the-tax-guys-to-help-landlords-and-sole-traders-navigate-making-tax-digital": {
+    "title": "Moneyhub Partners with The Tax Guys to Help Landlords and Sole Traders Navigate Making Tax Digital",
+    "desc": "Moneyhub partners with The Tax Guys to simplify Making Tax Digital compliance for landlords and sole traders with AI-powered financial data automation.",
+    "href": "/press-releases/moneyhub-partners-with-the-tax-guys-to-help-landlords-and-sole-traders-navigate-making-tax-digital/",
+    "tag": "Press release"
+  },
+  "press-releases-nationwide-building-society-selects-moneyhub-as-its-data-enrichment-and-categorisation-partner": {
+    "title": "Nationwide Building Society selects Moneyhub as its data enrichment and categorisation partner",
+    "desc": "Nationwide Building Society selects Moneyhub as data enrichment and categorisation partner for all 16 million customers, leveraging AI-driven technology to deliver richer transaction insights and enhanced financial outcomes.",
+    "href": "/press-releases/nationwide-building-society-selects-moneyhub-as-its-data-enrichment-and-categorisation-partner/",
+    "tag": "Press release"
+  },
+  "press-releases-stratiphy-selects-moneyhub-to-unlock-seamless-funding-of-personalised-investment-strategies": {
+    "title": "Stratiphy selects Moneyhub to unlock seamless funding of personalised investment strategies",
+    "desc": "Stratiphy partners with Moneyhub to deliver AI-powered personalised investment strategies with seamless payments, empowering UK retail investors with professional-grade automated investing tools and secure open banking technology.",
+    "href": "/press-releases/stratiphy-selects-moneyhub-to-unlock-seamless-funding-of-personalised-investment-strategies/",
+    "tag": "Press release"
+  },
+  "press-releases-paragon-bank-launches-spring-a-pioneering-savings-app-powered-by-moneyhub": {
+    "title": "Paragon Bank launches Spring: a pioneering savings app powered by Moneyhub",
+    "desc": "Paragon Bank partners with Moneyhub to launch Spring savings app using Open Banking technology for seamless account integration, automated payments and frictionless transfers, transforming how UK consumers manage savings.",
+    "href": "/press-releases/paragon-bank-launches-spring-a-pioneering-savings-app-powered-by-moneyhub/",
+    "tag": "Press release"
+  },
+  "press-releases-expenseondemand-chooses-moneyhub-to-power-cutting-edge-expense-management-solution": {
+    "title": "ExpenseOnDemand chooses Moneyhub to power cutting-edge expense management solution",
+    "desc": "ExpenseOnDemand partners with Moneyhub to deliver automated expense management with intelligent Open Banking technology. The collaboration provides businesses with seamless credit card connectivity, real-time syncing, and enhanced financial insights.",
+    "href": "/press-releases/expenseondemand-chooses-moneyhub-to-power-cutting-edge-expense-management-solution/",
+    "tag": "Press release"
+  },
+  "press-releases-wps-advisory-enhances-financial-advice-journey-with-moneyhub-platform-upgrade": {
+    "title": "WPS Advisory Enhances Financial Advice Journey with Moneyhub Platform Upgrade",
+    "desc": "WPS Advisory enhances LifeStage Money app with Moneyhub's categorisation and personalisation platform, introducing Smart Fact Find, appointment booking, and streamlined financial advice journeys.",
+    "href": "/press-releases/wps-advisory-enhances-financial-advice-journey-with-moneyhub-platform-upgrade/",
+    "tag": "Press release"
+  },
+  "press-releases-moneyhub-extends-its-partnership-with-experian-to-help-people-pay-debt-faster": {
+    "title": "Moneyhub extends its partnership with Experian to help people pay debt faster",
+    "desc": "Experian launches an innovative Credit Dashboard, powered by Moneyhub, to help UK consumers manage debt more effectively through personalised insights and Open Finance data integration.",
+    "href": "/press-releases/moneyhub-extends-its-partnership-with-experian-to-help-people-pay-debt-faster/",
+    "tag": "Press release"
+  },
+  "press-releases-moneyhub-appoints-anne-de-kerckhove-as-chair-of-the-board": {
+    "title": "Moneyhub appoints Anne de Kerckhove as chair of the board",
+    "desc": "Moneyhub appoints experienced technology executive Anne de Kerckhove as Chair of the Board, bringing her 20+ years of scaling expertise to the data and payments platform during a period of significant growth.",
+    "href": "/press-releases/moneyhub-appoints-anne-de-kerckhove-as-chair-of-the-board/",
+    "tag": "Press release"
+  },
+  "press-releases-moneyhub-to-provide-open-banking-solutions-to-uk-government": {
+    "title": "Moneyhub to provide Open Banking solutions to UK government",
+    "desc": "Moneyhub joins Crown Commercial Service's Open Banking Dynamic Purchasing System framework, enabling UK government organisations to access leading Open Banking and payment solutions. The partnership aims to help public sector services increase efficiency and deliver better value for taxpayers.",
+    "href": "/press-releases/moneyhub-to-provide-open-banking-solutions-to-uk-government/",
+    "tag": "Press release"
+  },
+  "press-releases-latest-moneyhub-release-puts-an-end-to-unrecognised-transaction-panic": {
+    "title": "Latest Moneyhub release puts an end to unrecognised transaction panic",
+    "desc": "Moneyhub launches enhanced Categorisation and Enrichment Engine to help banks eliminate unrecognised transaction panic with precise merchant data, geolocation and AI-driven enrichment.",
+    "href": "/press-releases/latest-moneyhub-release-puts-an-end-to-unrecognised-transaction-panic/",
+    "tag": "Press release"
+  },
+  "press-releases-moneyhub-and-brick-rewards-turn-rent-into-rewards-for-uk-tenants": {
+    "title": "Moneyhub and Brick Rewards turn rent into rewards for UK tenants",
+    "desc": "Brick Rewards uses Moneyhub's open banking technology to automatically verify rent payments, helping London renters earn rewards and build credit.",
+    "href": "/press-releases/moneyhub-and-brick-rewards-turn-rent-into-rewards-for-uk-tenants/",
+    "tag": "Press release"
+  },
+  "press-releases-moneyhub-becomes-first-participant-in-the-uk-payments-initiative": {
+    "title": "Moneyhub becomes first participant in the UK Payments Initiative",
+    "desc": "Moneyhub joins UK Payments Initiative (UKPI) as the first non-shareholder member, bringing intelligent, automated account-to-account payments to pensions and savings.",
+    "href": "/press-releases/moneyhub-becomes-first-participant-in-the-uk-payments-initiative/",
+    "tag": "Press release"
+  },
+  "products-data-explorer": {
+    "title": "Data Explorer",
+    "desc": "Use Data Explorer to access transparent, real-time management data for customised and controlled reporting on your terms.",
+    "href": "/products/data-explorer/",
+    "tag": "Product"
+  },
+  "products-data-insights-recommendations": {
+    "title": "Data Insights and Recommendations",
+    "desc": "Overcome segmentation challenges with Data Insights and Recommendations to create targeted campaigns that achieve better conversion.",
+    "href": "/products/data-insights-recommendations/",
+    "tag": "Product"
+  },
+  "products-data-aggregation": {
+    "title": "Data Aggregation",
+    "desc": "Data Aggregation connects to customer accounts to access and standardise foundational and advanced data for seamless analysis.",
+    "href": "/products/data-aggregation/",
+    "tag": "Product"
+  },
+  "products-payments": {
+    "title": "Payments",
+    "desc": "Offer Smart Payments (also known as Variable Recurring Payments) to achieve higher successful payment rates, increase flexibility and control",
+    "href": "/products/payments/",
+    "tag": "Product"
+  },
+  "products-embedded-solutions-portals": {
+    "title": "Embedded Solutions and Portals",
+    "desc": "Embedded solutions and portals offers customised widgets for better use of data and analytics without consuming all your resources.",
+    "href": "/products/embedded-solutions-portals/",
+    "tag": "Product"
+  },
+  "products-categorisation-enrichment-engine": {
+    "title": "Categorisation and Enrichment Engine",
+    "desc": "The proprietary Categorisation and Enrichment Engine at Moneyhub offers an unprecedented four levels of granularity for accurate labelling",
+    "href": "/products/categorisation-enrichment-engine/",
+    "tag": "Product"
+  },
+  "solutions-pension-and-wealth-solutions-targeted-support": {
+    "title": "Targeted Support: make personalised recommendations",
+    "desc": "Approach the incoming Targeted Support regulations with confidence in data segmentation to make customised recommendations to clients",
+    "href": "/solutions/pension-and-wealth-solutions/targeted-support/",
+    "tag": "Solution"
+  },
+  "solutions-pension-and-wealth-solutions-win-schemes": {
+    "title": "Win Schemes: secure employer mandates",
+    "desc": "Win schemes and secure employer mandates when you differentiate your company app with unparalleled engagement.",
+    "href": "/solutions/pension-and-wealth-solutions/win-schemes/",
+    "tag": "Solution"
+  },
+  "solutions-pension-and-wealth-solutions-in-retirement": {
+    "title": "In retirement: optimise drawdowns with contextual data",
+    "desc": "Encourage customers to consolidate multiple pensions on your platform and help them drawdown responsibly while they are in retirement",
+    "href": "/solutions/pension-and-wealth-solutions/in-retirement/",
+    "tag": "Solution"
+  },
+  "solutions-pension-and-wealth-solutions-smart-fact-find": {
+    "title": "Smart Fact Find: streamline data gathering",
+    "desc": "Use Smart Fact Find to streamline your assets information gathering for wealth management clients with reliable, real-time data access",
+    "href": "/solutions/pension-and-wealth-solutions/smart-fact-find/",
+    "tag": "Solution"
+  },
+  "solutions-pension-and-wealth-solutions-pensions-dashboards": {
+    "title": "Pensions Dashboards: win the race for primacy",
+    "desc": "Only one provider can be a consumer’s first choice, win the race by building your Pension Dashboard before your competitors.",
+    "href": "/solutions/pension-and-wealth-solutions/pensions-dashboards/",
+    "tag": "Solution"
+  },
+  "solutions-banking-and-lending-solutions-smart-segmentation": {
+    "title": "Smart Segmentation: the call to action",
+    "desc": "Access smart insights for banks and lenders to streamline affordability and collections without compromising due diligence.",
+    "href": "/solutions/banking-and-lending-solutions/smart-segmentation/",
+    "tag": "Solution"
+  },
+  "solutions-banking-and-lending-solutions-smart-product-match": {
+    "title": "Smart Product Match: right offer, right time",
+    "desc": "Use Smart Product Match to anticipate customer needs and secure cross-selling opportunities in banking and lending.",
+    "href": "/solutions/banking-and-lending-solutions/smart-product-match/",
+    "tag": "Solution"
+  },
+  "solutions-banking-and-lending-solutions-smart-lending": {
+    "title": "Smart Lending: lend more, collect faster, reduce risk",
+    "desc": "Smart Lending enables banks and lenders to lend more, faster. Spot green and red flags that traditional models miss.",
+    "href": "/solutions/banking-and-lending-solutions/smart-lending/",
+    "tag": "Solution"
+  },
+  "solutions-banking-and-lending-solutions-smart-payments": {
+    "title": "Payments: secure revenue, slash costs, and automate",
+    "desc": "Explore payments solutions in banking and lending. Reduce costs and secure revenue with pay by bank, pay by link and Smart Payments (VRPs).",
+    "href": "/solutions/banking-and-lending-solutions/smart-payments/",
+    "tag": "Solution"
+  },
+  "solutions-pension-and-wealth-solutions-build-and-retain": {
+    "title": "Build and Retain: bridge the withdrawal gap",
+    "desc": "Build and retain assets by engaging members. Access real-time financial data to understand more about your members and help them take action.",
+    "href": "/solutions/pension-and-wealth-solutions/build-and-retain/",
+    "tag": "Solution"
+  },
+  "solutions-banking-and-lending-solutions-smart-money-actions": {
+    "title": "Smart Money Actions: journeys for growth",
+    "desc": "Smart Money Actions uses customer data to create personalised insights, made for institutions to nudge customers into their next best action.",
+    "href": "/solutions/banking-and-lending-solutions/smart-money-actions/",
+    "tag": "Solution"
+  },
+  "solutions-banking-and-lending-solutions-transaction-categorisation-enrichment": {
+    "title": "Transaction Categorisation and Enrichment",
+    "desc": "Use transaction categorisation and enrichment to understand more about your customers and turn raw banking data into actionable insights.",
+    "href": "/solutions/banking-and-lending-solutions/transaction-categorisation-enrichment/",
+    "tag": "Solution"
+  },
+  "use-cases-increase-deposits-with-savings-goals": {
+    "title": "How to increase deposits with customer savings goals",
+    "desc": "Build a more resilient deposit base with customer savings goals, possible with intelligent transaction categorisation and enrichment",
+    "href": "/use-cases/increase-deposits-with-savings-goals/",
+    "tag": "Use case"
+  },
+  "use-cases-cross-sell-upsell-banking": {
+    "title": "How to get higher cross-sell and upsell conversion rates in banking",
+    "desc": "Learn how to use your full aggregated datasets to accurately predict what the customer needs and make the right offers.",
+    "href": "/use-cases/cross-sell-upsell-banking/",
+    "tag": "Use case"
+  },
+  "use-cases-transaction-analysis-product-marketing": {
+    "title": "Product marketers: stop sleeping on transaction analysis to inform your targeting",
+    "desc": "If product targeting feels like guesswork, segment your customer base, complete transaction analysis and adjust your marketing messaging.",
+    "href": "/use-cases/transaction-analysis-product-marketing/",
+    "tag": "Use case"
+  },
+  "use-cases-identify-fraud-real-time-banking-app": {
+    "title": "How we help financial institutions to identify fraudulent spending in real-time",
+    "desc": "It’s a 3 step process: Know your transactions, monitor in real-time to detect suspicious activity, automate your fraud controls",
+    "href": "/use-cases/identify-fraud-real-time-banking-app/",
+    "tag": "Use case"
+  },
+  "use-cases-customers-recognise-spending-banking-app": {
+    "title": "How to help customers recognise their spending in your banking app",
+    "desc": "Help your banking customers recognise their spending by performing detailed categorisation with merchant ID, visuals and sending nudges live",
+    "href": "/use-cases/customers-recognise-spending-banking-app/",
+    "tag": "Use case"
+  },
+  "webinar-open-is-2025-the-year-ai-transforms-pensions": {
+    "title": "Is 2025 The Year AI Transforms Pensions?",
+    "desc": "",
+    "href": "/webinar-open/is-2025-the-year-ai-transforms-pensions/",
+    "tag": "Webinar"
+  },
+  "webinars-is-2025-the-year-ai-transforms-the-pension-industry": {
+    "title": "Is 2025 the year AI transforms the pension industry?",
+    "desc": "Is 2025 the year AI transforms the UK pension industry? Gain expert insight on Pensions Dashboards, regulatory changes & practical AI use cases. Watch now.",
+    "href": "/webinars/is-2025-the-year-ai-transforms-the-pension-industry/",
+    "tag": "Webinar"
+  },
+  "webinars-the-ctos-roadmap-to-ai-personalisation-in-financial-services-governance-latency-and-stack-modernisation": {
+    "title": "The CTO's Roadmap to AI Personalisation in Financial Services: Governance, Latency and Stack Modernisation",
+    "desc": "Join Dave Tonge, Moneyhub CTO, for a technical webinar on AI-driven personalisation in financial services. Learn the roadmap for transforming data lakes into actionable insights.",
+    "href": "/webinars/the-ctos-roadmap-to-ai-personalisation-in-financial-services-governance-latency-and-stack-modernisation/",
+    "tag": "Webinar"
+  }
+}

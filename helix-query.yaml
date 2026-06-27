@@ -1,0 +1,110 @@
+version: 1
+
+indices:
+  case-studies:
+    include:
+      - /case-studies/**
+    exclude:
+      - /case-studies/
+    target: /case-studies-index.json
+    properties:
+      title:
+        select: head > meta[property="og:title"]
+        value: attribute(el, "content")
+      description:
+        select: head > meta[name="description"]
+        value: attribute(el, "content")
+      image:
+        select: head > meta[property="og:image"]
+        value: attribute(el, "content")
+      category:
+        select: head > meta[name="category"]
+        value: attribute(el, "content")
+      template:
+        select: head > meta[name="template"]
+        value: attribute(el, "content")
+      lastModified:
+        select: none
+        value: parseTimestamp(headers("last-modified"), "ddd, DD MMM YYYY hh:mm:ss GMT")
+
+  articles:
+    include:
+      - /articles/**
+    exclude:
+      - /articles/
+    target: /articles-index.json
+    properties:
+      title:
+        select: head > meta[property="og:title"]
+        value: attribute(el, "content")
+      description:
+        select: head > meta[name="description"]
+        value: attribute(el, "content")
+      image:
+        select: head > meta[property="og:image"]
+        value: attribute(el, "content")
+      category:
+        select: head > meta[name="category"]
+        value: attribute(el, "content")
+      publishDate:
+        select: head > meta[name="publishdate"]
+        value: attribute(el, "content")
+
+  press-releases:
+    include:
+      - /press-releases/**
+    exclude:
+      - /press-releases/
+    target: /press-releases-index.json
+    properties:
+      title:
+        select: head > meta[property="og:title"]
+        value: attribute(el, "content")
+      description:
+        select: head > meta[name="description"]
+        value: attribute(el, "content")
+      publishDate:
+        select: head > meta[name="publishdate"]
+        value: attribute(el, "content")
+
+  products:
+    include:
+      - /products/**
+    exclude:
+      - /products/
+    target: /products-index.json
+    properties:
+      title:
+        select: head > meta[property="og:title"]
+        value: attribute(el, "content")
+      description:
+        select: head > meta[name="description"]
+        value: attribute(el, "content")
+
+  use-cases:
+    include:
+      - /use-cases/**
+    exclude:
+      - /use-cases/
+    target: /use-cases-index.json
+    properties:
+      title:
+        select: head > meta[property="og:title"]
+        value: attribute(el, "content")
+      description:
+        select: head > meta[name="description"]
+        value: attribute(el, "content")
+
+  glossary:
+    include:
+      - /glossary/**
+    exclude:
+      - /glossary/
+    target: /glossary-index.json
+    properties:
+      title:
+        select: head > meta[property="og:title"]
+        value: attribute(el, "content")
+      description:
+        select: head > meta[name="description"]
+        value: attribute(el, "content")
