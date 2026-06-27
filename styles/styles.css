@@ -153,17 +153,17 @@ main .section.full-bleed>div>.block{
 
 /* default content (prose authored above blocks) */
 main .section>.default-content h2{ font-size:clamp(2rem,3.5vw,3rem); }
-main .section>.default-content .button-container{ margin-top:1rem; }
+main .section>.default-content .btn-group{ margin-top:1rem; }
 
-/* ---- Global button system (EDS link decorator: .button on <a> in <strong>/<em>) ---- */
-.button-container{
+/* ---- Global button system (AuthorKit ak.js decorator: a.btn / .btn-primary / .btn-secondary in p.btn-group) ---- */
+.btn-group{
   display:flex;
   gap:1rem;
   flex-wrap:wrap;
   margin-top:1.25rem;
 }
 
-a.button{
+a.btn{
   display:inline-flex;
   align-items:center;
   gap:.5rem;
@@ -179,30 +179,30 @@ a.button{
   transition:background-color .2s ease,color .2s ease,border-color .2s ease;
 }
 
-a.button:hover{
+a.btn:hover{
   background:var(--mh-orange-deep);
   border-color:var(--mh-orange-deep);
   text-decoration:none;
 }
 
-a.button.secondary{
+a.btn.btn-secondary{
   background:transparent;
   color:var(--mh-ink);
   border-color:var(--mh-ink);
 }
 
-a.button.secondary:hover{
+a.btn.btn-secondary:hover{
   background:var(--mh-ink);
   color:#fff;
 }
 
 /* on dark sections */
-.section.dark a.button.secondary,.dark a.button.secondary{
+.section.dark a.btn.btn-secondary,.dark a.btn.btn-secondary{
   color:#fff;
   border-color:rgb(255 255 255 / 55%);
 }
 
-.section.dark a.button.secondary:hover,.dark a.button.secondary:hover{
+.section.dark a.btn.btn-secondary:hover,.dark a.btn.btn-secondary:hover{
   background:#fff;
   color:var(--mh-ink);
 }

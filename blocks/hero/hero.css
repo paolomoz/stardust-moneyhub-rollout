@@ -29,7 +29,7 @@
   margin-inline:auto;
 }
 .hero .eyebrow,.hero p strong:only-child{ color:var(--mh-orange-deep); }
-.hero .button-container{ justify-content:center; }
+.hero .btn-group{ justify-content:center; }
 
 /* confetti motif */
 .hero .hero-confetti{
