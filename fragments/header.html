@@ -86,7 +86,7 @@ header.header .mh-burger{
 </style>
 <div class="mh-hd">
   <a class="mh-brand" href="/" aria-label="Moneyhub home">moneyhub<span class="dot">.</span></a>
-  <button class="mh-burger" aria-expanded="false" aria-controls="mh-nav" aria-label="Toggle navigation">☰</button>
+  <button class="mh-burger" aria-expanded="false" aria-controls="mh-nav" aria-label="Toggle navigation" onclick="var n=this.parentNode.querySelector('.mh-nav');var o=n.classList.toggle('open');this.setAttribute('aria-expanded',o?'true':'false');">☰</button>
   <nav class="mh-nav" id="mh-nav" aria-label="Primary">
     <a href="/solutions/banking-and-lending-solutions">Banking &amp; Lending</a>
     <a href="/solutions/pension-and-wealth-solutions">Pension &amp; Wealth</a>
@@ -97,9 +97,3 @@ header.header .mh-burger{
     <a class="mh-contact" href="/contact">Contact</a>
   </nav>
 </div>
-<script>
-(function(){var b=document.querySelector('header .mh-burger'),n=document.getElementById('mh-nav');if(b&&n){b.addEventListener('click',function(){
-  var o=n.classList.toggle('open');
-  b.setAttribute('aria-expanded',o?'true':'false');
-});}})();
-</script>
