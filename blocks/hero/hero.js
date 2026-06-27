@@ -74,6 +74,9 @@ export default function decorate(block) {
   wrap.append(inner);
   block.replaceChildren(wrap);
 
+  // full variant: break the section out of its max-width + padding (full-bleed hero)
+  if (block.classList.contains('full')) block.closest('div.section')?.classList.add('section-hero-full');
+
   const reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
   const wideEnough = window.matchMedia('(min-width: 600px)').matches;
   if (videoSrc && !reduce && wideEnough) mountVideo(wrap, videoSrc);

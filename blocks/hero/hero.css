@@ -9,6 +9,29 @@
   padding-block:clamp(56px,9vw,120px);
 }
 
+/* full variant — full-bleed, full-height-above-the-fold cinematic hero */
+main .section.section-hero-full{
+  max-width:none;
+  padding-block:0;
+}
+
+main .section.section-hero-full>div>.hero.full{
+  max-width:none;
+  padding-inline:0;
+}
+
+.hero.full .hero-wrap{
+  min-height:calc(100svh - 72px);
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  padding-block:clamp(40px,6vw,72px);
+}
+
+@media (width <= 600px){
+  .hero.full .hero-wrap{ min-height:calc(100svh - 64px); }
+}
+
 .hero .hero-inner{
   position:relative;
   z-index:2;
@@ -57,11 +80,20 @@
   content:"";
   position:absolute;
   inset:0;
-  background:linear-gradient(180deg,rgb(255 255 255 / 45%),rgb(255 255 255 / 32%));
+  background:linear-gradient(180deg,rgb(255 255 255 / 22%),rgb(255 255 255 / 10%));
 }
 
 @media (width <=599px){
   .hero .hero-video-layer{ display:none; }
+}
+
+/* full hero: video is the only motion where it plays (>=600px) — drop static confetti;
+   keep a soft halo so the slate type stays legible over full-colour footage */
+.hero.full .hero-inner h1,
+.hero.full .hero-inner p{ text-shadow:0 1px 14px rgb(255 255 255 / 60%); }
+
+@media (width >=600px){
+  .hero.full .hero-confetti{ display:none; }
 }
 
 /* confetti motif */
