@@ -1,7 +1,7 @@
 {
   "_provenance": {
-    "writtenBy": "stardust:direct",
-    "writtenAt": "2026-06-27T09:30:02.918Z",
+    "writtenBy": "stardust:prototype",
+    "writtenAt": "2026-06-27T09:37:11.520Z",
     "stardustVersion": "0.13.0"
   },
   "site": {
@@ -29,7 +29,7 @@
       "url": "https://moneyhub.com/",
       "title": "Home - Moneyhub",
       "type": "landing",
-      "status": "directed",
+      "status": "approved",
       "history": [
         {
           "status": "extracted",
@@ -38,17 +38,26 @@
         {
           "status": "directed",
           "at": "2026-06-27T09:30:02.918Z"
+        },
+        {
+          "status": "prototyped",
+          "at": "2026-06-27T09:37:11.520Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-06-27T09:37:11.520Z"
         }
       ],
       "stale": false,
       "staleReason": null,
       "currentStatePath": "stardust/current/pages/home.json",
-      "prototypePath": null,
+      "prototypePath": "stardust/prototypes/home-proposed.html",
       "migratedPath": null,
       "media": {
         "bg": 1,
         "bigImgs": 28
-      }
+      },
+      "canonAuthor": true
     },
     {
       "slug": "about",

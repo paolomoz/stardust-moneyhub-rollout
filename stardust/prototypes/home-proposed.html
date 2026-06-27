@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!-- stardust:provenance
+  writtenBy:        impeccable:craft (via stardust:prototype Phase 2)
+  writtenAt:        2026-06-27
+  page:             home
+  pageUrl:          https://moneyhub.com/
+  mode:             A (brand-faithful)
+  iaFidelity:       verbatim
+  surprise:         low
+  readArtifacts:    [stardust/prototypes/home-shape.md, stardust/current/pages/home.json, DESIGN.md, DESIGN.json, stardust/current/_brand-extraction.json]
+  voiceClassification: all copy captured-verbatim from pages/home.json
+  copyCadenceBypass: [em-dash-overuse, marketing-buzzword] (verbatim copy, Discipline 9)
+  reflexRejectAudit: bypassed (Mode A — Raleway/Lato pinned from capture)
+  unsourcedContent: none (all prose captured-verbatim; all imagery real source assets verified 200)
+-->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Moneyhub — Build for real life</title>
+<meta name="description" content="Welcome to Moneyhub. We collect, enrich and contextualise customer data so that financial institutions can drive better customer outcomes.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@500;600;700;800&family=Lato:wght@400;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --mh-orange:#EF5520;
+  --mh-orange-deep:#C8430F;
+  --mh-ink:#293338;
+  --mh-slate-deep:#1C2429;
+  --mh-text:#33403F;
+  --mh-muted:#5C686E;
+  --mh-bg:#FFFFFF;
+  --mh-surface:#F4F6F7;
+  --mh-border:#E2E6E8;
+  --mh-radius:4px;
+  --mh-font-head:'Raleway',system-ui,Segoe UI,Arial,sans-serif;
+  --mh-font-body:'Lato',system-ui,Segoe UI,Arial,sans-serif;
+  --mh-maxw:1200px;
+  --mh-pad:clamp(56px,8vw,88px);
+  --mh-gut:clamp(20px,4vw,40px);
+  --z-header:100;
+}
+*,*::before,*::after{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;font-family:var(--mh-font-body);color:var(--mh-text);background:var(--mh-bg);line-height:1.6;font-size:1.0625rem;-webkit-font-smoothing:antialiased}
+h1,h2,h3,h4{font-family:var(--mh-font-head);color:var(--mh-ink);line-height:1.1;letter-spacing:-0.02em;margin:0 0 .5em;text-wrap:balance}
+h1{font-size:clamp(2.5rem,5vw,4rem);font-weight:800}
+h2{font-size:clamp(2rem,3.5vw,3rem);font-weight:800}
+h3{font-size:clamp(1.25rem,2vw,1.625rem);font-weight:700}
+p{margin:0 0 1rem;max-width:65ch;text-wrap:pretty}
+a{color:var(--mh-orange-deep);text-decoration:none}
+img{max-width:100%;display:block}
+.wrap{max-width:var(--mh-maxw);margin-inline:auto;padding-inline:var(--mh-gut)}
+.eyebrow{font-family:var(--mh-font-head);font-weight:700;text-transform:uppercase;letter-spacing:.08em;font-size:.8125rem;color:var(--mh-orange-deep);margin:0 0 1rem}
+.section{padding-block:var(--mh-pad)}
+.btn{display:inline-flex;align-items:center;gap:.5rem;font-family:var(--mh-font-head);font-weight:700;font-size:1rem;border-radius:var(--mh-radius);padding:14px 26px;border:2px solid transparent;cursor:pointer;transition:background-color .2s ease,color .2s ease,border-color .2s ease;text-decoration:none}
+.btn-primary{background:var(--mh-orange);color:#fff}
+.btn-primary:hover{background:var(--mh-orange-deep)}
+.btn-outline{background:transparent;color:var(--mh-ink);border-color:var(--mh-ink)}
+.btn-outline:hover{background:var(--mh-ink);color:#fff}
+.btn-on-dark{background:transparent;color:#fff;border-color:rgba(255,255,255,.55)}
+.btn-on-dark:hover{background:#fff;color:var(--mh-ink)}
+.skip-link{position:absolute;left:-999px;top:0;background:var(--mh-ink);color:#fff;padding:10px 16px;z-index:200}
+.skip-link:focus{left:8px;top:8px}
+:focus-visible{outline:3px solid var(--mh-orange);outline-offset:2px}
+
+/* Header */
+.site-header{position:sticky;top:0;z-index:var(--z-header);background:rgba(255,255,255,.96);backdrop-filter:saturate(1.2) blur(6px);border-bottom:1px solid var(--mh-border)}
+.site-header .wrap{display:flex;align-items:center;justify-content:space-between;gap:1.5rem;min-height:72px}
+.brand{display:flex;align-items:center;gap:.5rem;font-family:var(--mh-font-head);font-weight:800;font-size:1.4rem;color:var(--mh-ink);letter-spacing:-.02em}
+.brand .dot{color:var(--mh-orange)}
+.site-nav{display:flex;align-items:center;gap:clamp(1rem,2vw,1.75rem)}
+.site-nav a{font-family:var(--mh-font-head);font-weight:600;font-size:.95rem;color:var(--mh-ink)}
+.site-nav a:hover{color:var(--mh-orange-deep)}
+.nav-toggle{display:none;background:none;border:0;font-size:1.5rem;color:var(--mh-ink);cursor:pointer}
+
+/* Hero */
+.hero{position:relative;text-align:center;padding-block:clamp(64px,10vw,128px);overflow:hidden;background:var(--mh-bg)}
+.hero .wrap{position:relative;z-index:2;max-width:880px}
+.hero h1 .hl{color:var(--mh-orange)}
+.hero p{font-size:clamp(1.125rem,1.6vw,1.375rem);color:var(--mh-muted);margin-inline:auto;max-width:46ch}
+.hero .cta-row{margin-top:2rem;display:flex;gap:1rem;justify-content:center;flex-wrap:wrap}
+.confetti{position:absolute;inset:0;z-index:1;pointer-events:none}
+.confetti i{position:absolute;display:block}
+.tri{width:0;height:0;border-left:14px solid transparent;border-right:14px solid transparent;border-bottom:24px solid var(--mh-orange)}
+.tri.sm{border-left-width:8px;border-right-width:8px;border-bottom-width:14px}
+.blob{width:46px;height:30px;border-radius:60% 40% 55% 45%;background:#D7DCDF}
+.blob.dark{background:#B7C0C4}
+.c1{top:14%;left:8%;transform:rotate(18deg)} .c2{top:24%;right:11%;transform:rotate(-24deg)}
+.c3{bottom:18%;left:14%} .c4{top:60%;right:18%} .c5{top:38%;left:22%;transform:rotate(40deg)}
+.c6{bottom:24%;right:8%;transform:rotate(12deg)}
+
+/* Trust strip */
+.trust{background:var(--mh-surface);border-block:1px solid var(--mh-border)}
+.trust .eyebrow{text-align:center}
+.trust-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:clamp(1rem,3vw,2.5rem);align-items:center;margin-top:1.5rem}
+.trust-grid img{height:34px;width:auto;margin-inline:auto;object-fit:contain;filter:grayscale(1);opacity:.85;transition:filter .2s,opacity .2s}
+.trust-grid img:hover{filter:none;opacity:1}
+
+/* Split solution rows */
+.split .wrap{display:grid;grid-template-columns:1fr 1fr;gap:clamp(2rem,5vw,4.5rem);align-items:center}
+.split .media img{width:100%;aspect-ratio:4/3;object-fit:cover}
+.split.dark{background:var(--mh-slate-deep);color:#cfd6da}
+.split.dark h2{color:#fff}
+.split.dark .copy p{color:#c3ccd1}
+.split.media-left .media{order:-1}
+.copy p+p{margin-top:.5rem}
+.copy .btn{margin-top:1rem}
+
+/* CTA band */
+.band{background:var(--mh-slate-deep);color:#fff;text-align:center}
+.band h2{color:#fff}
+.band .cta-row{display:flex;gap:1rem;justify-content:center;flex-wrap:wrap;margin-top:1.5rem}
+.band.accent{background:var(--mh-bg);color:var(--mh-ink);position:relative;overflow:hidden}
+.band.accent h2{color:var(--mh-ink)}
+
+/* Testimonials */
+.testimonials{background:var(--mh-surface)}
+.testimonials .head{max-width:720px}
+.quote-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:1.5rem;margin-top:2rem}
+.quote{background:#fff;border:1px solid var(--mh-border);padding:2rem;display:flex;flex-direction:column}
+.quote blockquote{margin:0 0 1.25rem;font-size:1.0625rem;color:var(--mh-ink)}
+.quote .who{margin-top:auto;font-family:var(--mh-font-head);font-weight:700;color:var(--mh-ink);font-size:.95rem}
+.quote .who span{display:block;font-weight:400;color:var(--mh-muted);font-size:.875rem}
+
+/* Products */
+.products .head{max-width:720px;margin-bottom:2.5rem}
+.product-grid{display:grid;grid-template-columns:1fr 1fr;gap:0;border:1px solid var(--mh-border)}
+.product{padding:clamp(1.5rem,3vw,2.5rem);border:1px solid var(--mh-border);margin:-1px 0 0 -1px;background:#fff}
+.product .icon{width:56px;height:56px;object-fit:contain;margin-bottom:1rem}
+.product h3{margin-bottom:.5rem}
+.product p{font-size:1rem;color:var(--mh-text)}
+.product .more{font-family:var(--mh-font-head);font-weight:700;font-size:.9rem;color:var(--mh-orange-deep);display:inline-block;margin-top:.5rem}
+
+/* Case cards carousel */
+.cases .head{display:flex;align-items:baseline;justify-content:space-between;gap:1rem;flex-wrap:wrap;margin-bottom:2rem}
+.case-rail{display:grid;grid-auto-flow:column;grid-auto-columns:minmax(300px,1fr);gap:1.5rem;overflow-x:auto;scroll-snap-type:x mandatory;padding-bottom:1rem;-webkit-overflow-scrolling:touch}
+.case{scroll-snap-align:start;border:1px solid var(--mh-border);background:#fff;display:flex;flex-direction:column}
+.case img{width:100%;aspect-ratio:8/5;object-fit:cover}
+.case .body{padding:1.5rem;display:flex;flex-direction:column;gap:.5rem}
+.case .tag{font-family:var(--mh-font-head);font-weight:700;text-transform:uppercase;letter-spacing:.06em;font-size:.75rem;color:var(--mh-orange-deep)}
+.case h3{font-size:1.125rem}
+.case .more{font-family:var(--mh-font-head);font-weight:700;font-size:.875rem;color:var(--mh-orange-deep);margin-top:auto}
+
+/* Footer */
+.site-footer{background:var(--mh-slate-deep);color:#aeb7bc;padding-block:clamp(48px,7vw,72px) 2rem}
+.foot-grid{display:grid;grid-template-columns:1.4fr 1fr 1fr 1fr;gap:2rem}
+.site-footer h4{font-family:var(--mh-font-head);color:#fff;font-size:.9rem;text-transform:uppercase;letter-spacing:.06em;margin:0 0 1rem}
+.site-footer ul{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:.5rem}
+.site-footer a{color:#aeb7bc;font-size:.9rem}
+.site-footer a:hover{color:#fff}
+.foot-brand .brand{color:#fff}
+.foot-brand p{color:#8b969c;font-size:.9rem;margin-top:1rem}
+.foot-bottom{border-top:1px solid rgba(255,255,255,.12);margin-top:2.5rem;padding-top:1.5rem;display:flex;justify-content:space-between;gap:1rem;flex-wrap:wrap;font-size:.85rem;color:#8b969c}
+
+@media(max-width:1024px){
+  .split .wrap{grid-template-columns:1fr}
+  .split.media-left .media{order:0}
+  .quote-grid{grid-template-columns:1fr}
+  .foot-grid{grid-template-columns:1fr 1fr}
+}
+@media(max-width:768px){
+  .trust-grid{grid-template-columns:repeat(2,1fr);gap:1.5rem}
+  .product-grid{grid-template-columns:1fr}
+  .cases .head{flex-direction:column;align-items:flex-start}
+}
+@media(max-width:640px){
+  .nav-toggle{display:block}
+  .site-nav{display:none;position:absolute;top:72px;left:0;right:0;flex-direction:column;align-items:flex-start;gap:0;background:#fff;border-bottom:1px solid var(--mh-border);padding:.5rem var(--mh-gut)}
+  .site-nav.open{display:flex}
+  .site-nav a{padding:.75rem 0;width:100%;border-bottom:1px solid var(--mh-border)}
+  .foot-grid{grid-template-columns:1fr}
+}
+@media(prefers-reduced-motion:reduce){
+  *{transition:none!important;scroll-behavior:auto!important}
+}
+</style>
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+
+<header class="site-header" data-section="header" data-intent="navigate" data-layout="sticky-bar">
+  <div class="wrap">
+    <a class="brand" href="/" aria-label="Moneyhub home">moneyhub<span class="dot">.</span></a>
+    <button class="nav-toggle" aria-expanded="false" aria-controls="site-nav" aria-label="Toggle navigation">☰</button>
+    <nav class="site-nav" id="site-nav" aria-label="Primary">
+      <a href="/solutions/banking-and-lending-solutions/">Banking &amp; Lending</a>
+      <a href="/solutions/pension-and-wealth-solutions/">Pension &amp; Wealth</a>
+      <a href="/products/">Products</a>
+      <a href="/developers/">Developers</a>
+      <a href="/discover/">Discover</a>
+      <a href="/about/">About</a>
+      <a class="btn btn-primary" href="/contact/">Contact</a>
+    </nav>
+  </div>
+</header>
+
+<main id="main">
+
+  <section class="hero" data-section="hero" data-intent="primary-action" data-layout="type-led-centered">
+    <div class="confetti" aria-hidden="true">
+      <i class="tri c1"></i><i class="blob c2"></i><i class="tri sm c3"></i>
+      <i class="blob dark c4"></i><i class="tri c5"></i><i class="blob c6"></i>
+    </div>
+    <div class="wrap">
+      <h1>Build for <span class="hl">real life</span></h1>
+      <p>We collect, enrich, and contextualise the data fragments. Enabling you to deliver intelligent personalised financial journeys and drive better customer outcomes.</p>
+      <div class="cta-row">
+        <a class="btn btn-primary" href="/contact/">Get started</a>
+        <a class="btn btn-outline" href="/products/">Explore products</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="section trust" data-section="trust-strip" data-intent="social-proof" data-layout="logo-row" data-items="8">
+    <div class="wrap">
+      <p class="eyebrow">Trusted by</p>
+      <div class="trust-grid">
+        <img src="https://moneyhub.com/wp-content/uploads/2025/09/Lloyds-Bank-Logo-web-1.png" alt="Lloyds Bank" loading="lazy">
+        <img src="https://moneyhub.com/wp-content/uploads/2025/09/Scottish-Widows-Logo-web-1.png" alt="Scottish Widows" loading="lazy">
+        <img src="https://moneyhub.com/wp-content/uploads/2025/09/Admiral-money-logo-web-1.png" alt="Admiral Money" loading="lazy">
+        <img src="https://moneyhub.com/wp-content/uploads/2025/09/Mercer_logo_web-1.png" alt="Mercer" loading="lazy">
+        <img src="https://moneyhub.com/wp-content/uploads/2025/09/Nationwide-New-Logo-web-1.png" alt="Nationwide" loading="lazy">
+        <img src="https://moneyhub.com/wp-content/uploads/2025/09/Standard_Life_Logo_web-1.png" alt="Standard Life" loading="lazy">
+        <img src="https://moneyhub.com/wp-content/uploads/2025/09/PARAGON_BANK_LOGO_WEB-1.png" alt="Paragon Bank" loading="lazy">
+        <img src="https://moneyhub.com/wp-content/uploads/2025/09/LG_Logo_web-1.png" alt="Legal &amp; General" loading="lazy">
+      </div>
+    </div>
+  </section>
+
+  <section class="section split dark" data-section="solution-banking" data-intent="explain" data-layout="split-image-text" data-variant="dark">
+    <div class="wrap">
+      <div class="copy">
+        <h2>Banking and lending solutions</h2>
+        <p>Connect the data dots to see the whole person and meet your customers where they're at. Pinpoint individual goals and needs. Then, deliver intelligent personalised financial journeys, instilling product recommendations to match behaviour and lifestyle. Harness enriched data to transform every interaction into an intelligent decision point, driving higher customer lifetime value and unprecedented cross sell opportunities.</p>
+        <p>Enhance decisioning with fine grained, real-time, enriched data that drives predictive outcomes. Enabling you to match more people instantly to the products and services they need. Make real-time suitability decisions faster, at a lower cost, and while controlling the risk.</p>
+        <a class="btn btn-on-dark" href="/solutions/banking-and-lending-solutions/">Explore</a>
+      </div>
+      <div class="media">
+        <img src="https://moneyhub.com/wp-content/uploads/2025/09/shutterstock_2303744865-1358x936-c-center.jpg" alt="Two people reviewing their finances together at home" loading="lazy">
+      </div>
+    </div>
+  </section>
+
+  <section class="section split media-left" data-section="solution-pension" data-intent="explain" data-layout="split-image-text" data-variant="light">
+    <div class="wrap">
+      <div class="copy">
+        <h2>Pension and wealth solutions</h2>
+        <p>Understand the individual member and help them maximise their assets across their entire lifetime. Attract and win young savers early to secure primacy and build lifetime value. In mid-life, use an individual's data to show and action the next best step through intelligent personalised journeys. As members approach retirement provide Targeted Support, which builds choice to that support dynamic draw-down options to reflect data driven lifestyle requirements that consider all available savings and investments.</p>
+        <p>Build for real life and help your customers reach their long-term goals while you benefit from improved customer lifetime value.</p>
+        <a class="btn btn-primary" href="/solutions/pension-and-wealth-solutions/">Learn more</a>
+      </div>
+      <div class="media">
+        <img src="https://moneyhub.com/wp-content/uploads/2025/09/shutterstock_2475092117-e1757699337718-1358x936-c-center.jpg" alt="An adviser and client discussing pension and wealth planning" loading="lazy">
+      </div>
+    </div>
+  </section>
+
+  <section class="section band" data-section="cta-explore" data-intent="navigate" data-layout="band" data-variant="slate">
+    <div class="wrap">
+      <h2>Explore your potential with Moneyhub</h2>
+      <div class="cta-row">
+        <a class="btn btn-primary" href="/products/">Products</a>
+        <a class="btn btn-on-dark" href="/developers/">Developers</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="section testimonials" data-section="testimonials" data-intent="social-proof" data-layout="quote-grid">
+    <div class="wrap">
+      <div class="head">
+        <p class="eyebrow">Customer stories</p>
+        <h2>Find out how Moneyhub builds for real life</h2>
+      </div>
+      <div class="quote-grid">
+        <figure class="quote">
+          <blockquote>"We've used Moneyhub to expand into new segments of customers, such as self-employed, giving us more data and a better understanding of our customers' financial circumstances."</blockquote>
+          <figcaption class="who">Tim Parry<span>Personal Loans Director, Admiral</span></figcaption>
+        </figure>
+        <figure class="quote">
+          <blockquote>"As we continue our journey to equip Mercer Master Trust members to achieve the best possible pension savings outcomes, Moneyhub's commitment and cutting-edge solutions remain integral to our success."</blockquote>
+          <figcaption class="who">Tim Adams<span>Head of Digital, Mercer</span></figcaption>
+        </figure>
+        <figure class="quote">
+          <blockquote>"By partnering with Moneyhub and using Open Banking technology we are able to streamline the savings experience for our members."</blockquote>
+          <figcaption class="who">Daniel King<span>Chief Digital Product Owner, Nationwide</span></figcaption>
+        </figure>
+      </div>
+      <p style="margin-top:1.5rem"><a class="btn btn-outline" href="/case-studies/">All case studies</a></p>
+    </div>
+  </section>
+
+  <section class="section products" data-section="products" data-intent="explore" data-layout="grid-2" data-items="6">
+    <div class="wrap">
+      <div class="head">
+        <p class="eyebrow">Products</p>
+        <h2>Trusted by banking, lending, pensions, wealth, and insurance businesses, we accelerate the re-invention of customer interactions.</h2>
+      </div>
+      <div class="product-grid">
+        <article class="product">
+          <img class="icon" src="https://moneyhub.com/wp-content/themes/moneyhub/img/icons/icon-product-1.png" alt="" loading="lazy">
+          <h3>Categorisation and Enrichment Engine</h3>
+          <p>Transform messy financial data into clear, actionable intelligence. Our best-in-class Categorisation and Enrichment engine delivers superior accuracy and coverage, powering your applications for better affordability, vulnerability, and hyper-personalised customer outcomes.</p>
+          <a class="more" href="/products/categorisation-enrichment-engine/">Categorisation and Enrichment Engine →</a>
+        </article>
+        <article class="product">
+          <img class="icon" src="https://moneyhub.com/wp-content/themes/moneyhub/img/icons/icon-product-2.png" alt="" loading="lazy">
+          <h3>Data Aggregation</h3>
+          <p>Connect to all of a customer's accounts, both financial and non-financial. Standardise foundational and advanced data for seamless analysis. Our Data Aggregation solution provides market-leading connection, resilience and coverage, ensuring a reliable data foundation for your intelligent banking, pension and investment products.</p>
+          <a class="more" href="/products/data-aggregation/">Data Aggregation →</a>
+        </article>
+        <article class="product">
+          <img class="icon" src="https://moneyhub.com/wp-content/themes/moneyhub/img/icons/icon-product-3.png" alt="" loading="lazy">
+          <h3>Data Explorer</h3>
+          <p>Turn raw financial data into proactive business decisions. Data Explorer provides interactive analytics and reporting dashboards, giving your teams the deep customer insights needed to identify new product segments, measure share of wallet, and optimise market strategy.</p>
+          <a class="more" href="/products/data-explorer/">Data Explorer →</a>
+        </article>
+        <article class="product">
+          <img class="icon" src="https://moneyhub.com/wp-content/themes/moneyhub/img/icons/icon-product-4.png" alt="" loading="lazy">
+          <h3>Data Insights and Recommendations</h3>
+          <p>Deliver the proactive future of finance today. Our Data Insights and Recommendations platform uses proprietary AI to instantly generate personalised, automated journeys, guiding users with the exact 'next-best-action' needed to optimise their money and secure lifelong financial well-being.</p>
+          <a class="more" href="/products/data-insights-recommendations/">Data Insights and Recommendations →</a>
+        </article>
+        <article class="product">
+          <img class="icon" src="https://moneyhub.com/wp-content/themes/moneyhub/img/icons/icon-product-5.png" alt="" loading="lazy">
+          <h3>Embedded Solutions and Portals</h3>
+          <p>Launch superior customer experiences instantly. Our Embedded Solutions and Portals provide trusted, pre-tested journeys—from secure consent to next best action modellers—ensuring a seamless user experience and out-of-the-box compliance with complex Open Finance standards.</p>
+          <a class="more" href="/products/embedded-solutions-portals/">Embedded Solutions and Portals →</a>
+        </article>
+        <article class="product">
+          <img class="icon" src="https://moneyhub.com/wp-content/themes/moneyhub/img/icons/icon-product-6.png" alt="" loading="lazy">
+          <h3>Payments</h3>
+          <p>As a regulated AIS and PIS provider we streamline account-to-account payments. Embedding our API-first services in our clients user journeys we move money faster, giving a better client experience using bank-level authentication. With Smart or Variable Recurring Payments allow frictionless journeys with automatic triggering so customers can move money where it's needed.</p>
+          <a class="more" href="/products/payments/">Payments →</a>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section class="section band accent" data-section="cta-closing" data-intent="primary-action" data-layout="band" data-variant="confetti">
+    <div class="confetti" aria-hidden="true">
+      <i class="tri c1"></i><i class="blob c2"></i><i class="tri sm c3"></i><i class="blob dark c4"></i>
+    </div>
+    <div class="wrap" style="position:relative;z-index:2">
+      <h2>Ready to build for real life?</h2>
+      <div class="cta-row">
+        <a class="btn btn-primary" href="/contact/">Get started</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="section cases" data-section="case-cards" data-intent="proof" data-layout="card-carousel">
+    <div class="wrap">
+      <div class="head">
+        <h2>See what's possible with Moneyhub</h2>
+        <a class="btn btn-outline" href="/case-studies/">View all</a>
+      </div>
+      <div class="case-rail">
+        <a class="case" href="/case-studies/how-spring-app-transformed-digital-savings-with-moneyhub/">
+          <img src="https://moneyhub.com/wp-content/uploads/2025/09/Paragon-case-study-thumbnail-800x500-c-default.png" alt="Paragon Bank — Spring savings app case study" loading="lazy">
+          <div class="body"><span class="tag">Banking</span><h3>How Spring app transformed digital savings with Moneyhub</h3><span class="more">Read more →</span></div>
+        </a>
+        <a class="case" href="/case-studies/refining-loan-approvals-and-reducing-risk-with-admiral-money-personal-loans/">
+          <img src="https://moneyhub.com/wp-content/uploads/2025/09/Admiral-Money-case-study-thumbnail-800x500-c-default.jpg" alt="Admiral Money — refining loan approvals case study" loading="lazy">
+          <div class="body"><span class="tag">Lending</span><h3>Refining loan approvals and reducing risk with Admiral Money Personal Loans</h3><span class="more">Read more →</span></div>
+        </a>
+        <a class="case" href="/case-studies/bridging-the-advice-gap-with-wps-advisory/">
+          <img src="https://moneyhub.com/wp-content/uploads/2025/09/WPS-Advisory-case-study-thumbnail-800x500-c-default.jpg" alt="WPS Advisory — bridging the advice gap case study" loading="lazy">
+          <div class="body"><span class="tag">Wealth</span><h3>Bridging the advice gap with WPS Advisory</h3><span class="more">Read more →</span></div>
+        </a>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<footer class="site-footer" data-section="footer" data-intent="navigate" data-layout="columns">
+  <div class="wrap">
+    <div class="foot-grid">
+      <div class="foot-brand">
+        <span class="brand">moneyhub<span class="dot" style="color:var(--mh-orange)">.</span></span>
+        <p>London Office: 70 Gracechurch Street, London, UK EC3V 0HR</p>
+        <p><a href="https://www.linkedin.com/company/moneyhub-enterprise">LinkedIn</a></p>
+      </div>
+      <div>
+        <h4>Solutions</h4>
+        <ul>
+          <li><a href="/solutions/banking-and-lending-solutions/">Banking &amp; Lending</a></li>
+          <li><a href="/solutions/pension-and-wealth-solutions/">Pension &amp; Wealth</a></li>
+          <li><a href="/solutions/pension-and-wealth-solutions/targeted-support/">Targeted Support</a></li>
+          <li><a href="/solutions/banking-and-lending-solutions/smart-payments/">Smart Payments</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Products</h4>
+        <ul>
+          <li><a href="/products/data-explorer/">Data Explorer</a></li>
+          <li><a href="/products/data-aggregation/">Data Aggregation</a></li>
+          <li><a href="/products/payments/">Payments</a></li>
+          <li><a href="/products/categorisation-enrichment-engine/">Categorisation &amp; Enrichment</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Policies &amp; Info</h4>
+        <ul>
+          <li><a href="/policies/privacy-policy/">Privacy Policy</a></li>
+          <li><a href="/policies/security-and-trust-at-moneyhub/">Security &amp; Trust</a></li>
+          <li><a href="/press-and-partners/">Press &amp; Partners</a></li>
+          <li><a href="/glossary/">Glossary</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="foot-bottom">
+      <span>© 2026 Moneyhub Financial Technology Limited. All rights reserved.</span>
+      <span>Authorised and regulated by the Financial Conduct Authority.</span>
+    </div>
+  </div>
+</footer>
+
+<script>
+// Minimal mobile-nav toggle (a11y). No content gated on JS.
+(function(){
+  var t=document.querySelector('.nav-toggle'),n=document.getElementById('site-nav');
+  if(!t||!n)return;
+  t.addEventListener('click',function(){
+    var open=n.classList.toggle('open');
+    t.setAttribute('aria-expanded',open?'true':'false');
+  });
+})();
+</script>
+</body>
+</html>
